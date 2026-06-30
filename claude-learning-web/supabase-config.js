@@ -2,168 +2,21 @@
 const SUPABASE_URL = "https://jnqmfghlnyvrlqiepfac.supabase.co"; // Điền Supabase URL của bạn vào đây (ví dụ: "https://xxxxxx.supabase.co")
 const SUPABASE_ANON_KEY = "sb_publishable_VZRfLai9Ee1BauvY8m_Ojg_0nLqWZhV"; // Điền Supabase Anon Key của bạn vào đây
 
-// Mock Supabase Client implementation to bypass connection errors during Supabase downtime
-class MockSupabaseClient {
-  constructor() {
-    this.auth = {
-      onAuthStateChange: (callback) => {
-        setTimeout(() => {
-          callback('SIGNED_IN', this.auth.mockSession);
-        }, 100);
-        return { data: { subscription: { unsubscribe: () => {} } } };
-      },
-      getSession: async () => {
-        return { data: { session: this.auth.mockSession }, error: null };
-      },
-      signInWithPassword: async ({ email, password }) => {
-        const mockUser = {
-          id: "mock-user-id-12345",
-          email: email || "demo@example.com",
-          user_metadata: { full_name: email ? email.split('@')[0] : "Demo User" }
-        };
-        const mockSession = {
-          access_token: "mock-token-abcde",
-          user: mockUser
-        };
-        this.auth.mockSession = mockSession;
-        localStorage.setItem("mock_supabase_session", JSON.stringify(mockSession));
-        return { data: { session: mockSession, user: mockUser }, error: null };
-      },
-      signUp: async ({ email, password, options }) => {
-        const mockUser = {
-          id: "mock-user-id-12345",
-          email: email,
-          user_metadata: options?.data || { full_name: email.split('@')[0] }
-        };
-        const mockSession = {
-          access_token: "mock-token-abcde",
-          user: mockUser
-        };
-        this.auth.mockSession = mockSession;
-        localStorage.setItem("mock_supabase_session", JSON.stringify(mockSession));
-        return { data: { session: mockSession, user: mockUser }, error: null };
-      },
-      signOut: async () => {
-        this.auth.mockSession = null;
-        localStorage.removeItem("mock_supabase_session");
-        return { error: null };
-      },
-      updateUser: async ({ password }) => {
-        return { data: { user: this.auth.mockSession?.user }, error: null };
-      },
-      mockSession: (() => {
-        try {
-          return JSON.parse(localStorage.getItem("mock_supabase_session")) || {
-            access_token: "mock-token-abcde",
-            user: {
-              id: "mock-user-id-12345",
-              email: "demo@example.com",
-              user_metadata: { full_name: "Demo User" }
-            }
-          };
-        } catch(e) {
-          return null;
-        }
-      })()
-    };
-    
-    this.storage = {
-      from: (bucket) => ({
-        upload: async (filePath, file, options) => {
-          return { data: { path: filePath }, error: null };
-        },
-        getPublicUrl: (filePath) => {
-          return { data: { publicUrl: `https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&h=150` } };
-        }
-      })
-    };
-  }
+let supabaseClientInstance = null;
+let isSupabaseConfigured = false;
 
-  from(table) {
-    const builder = {
-      data: null,
-      error: null,
-      status: 200,
-      
-      select: function(fields) {
-        if (table === "profiles") {
-          let sessionUser = null;
-          try {
-            const sess = JSON.parse(localStorage.getItem("mock_supabase_session"));
-            if (sess) sessionUser = sess.user;
-          } catch(e) {}
-          
-          const profile = {
-            id: sessionUser ? sessionUser.id : "mock-user-id-12345",
-            email: sessionUser ? sessionUser.email : "demo@example.com",
-            full_name: sessionUser ? (sessionUser.user_metadata?.full_name || "Demo User") : "Demo User",
-            phone: sessionUser ? (sessionUser.user_metadata?.phone || "") : "",
-            purchased: localStorage.getItem("claude-course-purchased") === "true",
-            avatar_url: `https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&h=150`
-          };
-          this.data = profile;
-        } else if (table === "premium_lessons") {
-          this.data = {
-            lesson_id: "demo",
-            ocr_content: "Đây là nội dung bài học giả lập (Mock Data) do Supabase đang gặp sự cố kết nối. Bạn có thể tiếp tục học tập và chạy thử giao diện cục bộ bình thường.",
-            bonus_agent_content: "Gợi ý bổ sung từ Agent giả lập."
-          };
-        }
-        return this;
-      },
-      
-      eq: function(field, value) {
-        return this;
-      },
-      
-      single: async function() {
-        return { data: this.data, error: this.error, status: this.status };
-      },
-      
-      maybeSingle: async function() {
-        return { data: this.data, error: this.error, status: this.status };
-      },
-      
-      insert: function(rows) {
-        if (table === "profiles") {
-          this.data = rows[0] || {};
-        }
-        return this;
-      },
-      
-      update: function(row) {
-        if (table === "profiles") {
-          if (row.purchased !== undefined) {
-            localStorage.setItem("claude-course-purchased", row.purchased ? "true" : "false");
-          }
-          this.data = {
-            id: "mock-user-id-12345",
-            email: "demo@example.com",
-            full_name: row.full_name || "Demo User",
-            phone: row.phone || "",
-            purchased: localStorage.getItem("claude-course-purchased") === "true",
-            avatar_url: row.avatar_url || `https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&h=150`
-          };
-        }
-        return this;
-      },
-      
-      upsert: function(row, options) {
-        if (table === "profiles") {
-          this.data = row;
-        }
-        return this;
-      }
-    };
-    
-    return builder;
+if (SUPABASE_URL && SUPABASE_ANON_KEY && window.supabase) {
+  try {
+    supabaseClientInstance = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+    window.supabaseClientInstance = supabaseClientInstance;
+    isSupabaseConfigured = true;
+    console.log("⚡ Supabase Client initialized successfully!");
+  } catch (error) {
+    console.error("❌ Failed to initialize Supabase Client:", error);
   }
+} else {
+  console.warn("⚠️ Supabase Credentials missing or library not loaded!");
 }
-
-console.warn("⚠️ SUPABASE SERVER OUTAGE: Activated MockSupabaseClient. Using localStorage mock database queries.");
-const supabaseClientInstance = new MockSupabaseClient();
-window.supabaseClientInstance = supabaseClientInstance;
-const isSupabaseConfigured = true;
 
 
 // Global Auth State
