@@ -1,0 +1,128 @@
+--- Trang 12 ---
+20 NGUYÊN TẮC KỸ THUẬT PROMPT VỚI CLAUDE
+TỐI ƯU HÓA AI - NÂNG TẦM HIỆU QUẢ - DẪN ĐẦU TƯƠNG LAI
+
+SỨ MỆNH CỦA CHÚNG TÔI: AI HÔM NAY - LỢI THẾ NGÀY MAI
+- Prompt tốt hơn.
+- Câu trả lời chính xác hơn.
+- Kết quả vượt trội hơn.
+
+--- GIAI ĐOẠN 1 – TRƯỚC KHI RA PROMPT (CHẤT LƯỢNG ĐẦU VÀO) ---
+Xây nền tảng. Cho Claude mọi thứ cần thiết để thành công.
+
+1. RÕ RÀNG & TRỰC TIẾP
+Nói chính xác điều bạn muốn. Không vòng vo.
+- Prompt yếu (✗): Giúp tôi với vấn đề này.
+- Prompt mạnh (✓): Viết tóm tắt 5 ý chính của báo cáo về xu hướng AI trong năm 2024.
+
+2. CUNG CẤP NGỮ CẢNH
+Đưa bối cảnh, ràng buộc và mục tiêu ngay từ đầu.
+- Prompt yếu (✗): Viết một kế hoạch marketing.
+- Prompt mạnh (✓): Tôi là giám đốc marketing của công ty EdTech. Hãy lập kế hoạch marketing ra mắt khóa học AI trong 3 tháng tới.
+
+3. DỰA TRÊN DỮ LIỆU THỰC
+Cung cấp dữ liệu, tài liệu, ví dụ, số liệu.
+- Prompt yếu (✗): Phân tích xu hướng thị trường.
+- Prompt mạnh (✓): Dựa trên dữ liệu đính kèm (file, bảng số liệu), hãy phân tích xu hướng và nêu 3 insight quan trọng.
+
+4. ĐẶT RANH GIỚI RÕ RÀNG
+Xác định phạm vi, độ dài, định dạng, điều cần loại trừ.
+- Prompt yếu (✗): Viết về AI trong giáo dục.
+- Prompt mạnh (✓): Viết bài 800 chữ, theo cấu trúc: Mở bài – Thân bài – Kết luận. Không đề cập về robot.
+
+5. CÁ NHÂN HÓA YÊU CẦU
+Nêu mục tiêu, sở thích, ưu tiên hoặc tình huống.
+- Prompt yếu (✗): Cho tôi lời khuyên.
+- Prompt mạnh (✓): Tôi là người bận rộn, cần lời khuyên quản lý thời gian để học AI hiệu quả mỗi ngày.
+
+6. BAO GỒM NHỮNG GÌ BẠN ĐÃ THỬ
+Giúp Claude hiểu bạn đã thử gì để tránh lặp lại.
+- Prompt yếu (✗): Nó không hoạt động.
+- Prompt mạnh (✓): Tôi đã thử X, Y và Z (chi tiết) nhưng chưa hiệu quả. Giúp tôi tìm nguyên nhân và cách khắc phục.
+
+--- GIAI ĐOẠN 2 – CẤU TRÚC PROMPT (KIỂM SOÁT ĐẦU RA) ---
+Định hình phản hồi. Hướng dẫn Claude suy nghĩ và trả lời đúng trọng tâm.
+
+7. YÊU CẦU VÍ DỤ & TRƯỜNG HỢP
+Yêu cầu ví dụ cụ thể để minh họa rõ hơn.
+- Prompt yếu (✗): Ưu nhược điểm là gì?
+- Prompt mạnh (✓): Nêu ưu nhược điểm của chiến lược SEO, kèm ví dụ thực tế cho mỗi điểm.
+
+8. SỬ DỤNG CÔNG CỤ & DỮ LIỆU
+Yêu cầu bảng, code, công thức hoặc định dạng đầu ra cụ thể.
+- Prompt yếu (✗): Tóm tắt dữ liệu này.
+- Prompt mạnh (✓): Tóm tắt dữ liệu trong bảng thành biểu đồ và nhận xét xu hướng chính.
+
+9. KIỂM SOÁT ĐỊNH DẠNG
+Chỉ định rõ định dạng bạn cần.
+- Prompt yếu (✗): Lập kế hoạch cho tôi.
+- Prompt mạnh (✓): Lập kế hoạch theo dạng bảng với các cột: Mục tiêu – Hành động – Thời gian – Người phụ trách.
+
+10. ĐÓNG VAI NHÂN VẬT
+Để Claude nhập vai chuyên gia phù hợp.
+- Prompt yếu (✗): Giải thích chủ đề này.
+- Prompt mạnh (✓): Đóng vai chuyên gia chiến lược AI với 10 năm kinh nghiệm. Hãy tư vấn cho tôi.
+
+11. HƯỚNG DẪN GIỌNG VĂN
+Chỉ định giọng văn, phong cách: ngắn gọn, thân thiện, thuyết phục, chuyên nghiệp...
+- Prompt yếu (✗): Viết về chủ đề này.
+- Prompt mạnh (✓): Viết với giọng chuyên nghiệp, dễ hiểu, dành cho người không chuyên.
+
+12. TRÁNH XUNG ĐỘT TRONG PROMPT
+Không yêu cầu mâu thuẫn hoặc quá rộng.
+- Prompt yếu (✗): Viết ngắn gọn nhưng chi tiết mọi thứ.
+- Prompt mạnh (✓): Chọn 3 điểm quan trọng nhất và giải thích chi tiết.
+
+--- GIAI ĐOẠN 3 – SAU KHI NHẬN PHẢN HỒI (VÒNG LẶP TINH CHỈNH) ---
+Tinh chỉnh, thử thách và đào sâu kết quả.
+
+13. THỬ THÁCH & TINH CHỈNH
+Hỏi lại: còn gì thiếu? có thể cải thiện? điều chỉnh gì?
+- Prompt yếu (✗): Đây đã là tốt chưa?
+- Prompt mạnh (✓): Còn thiếu gì quan trọng? Làm sao để cải thiện hơn? Gợi ý 3 cách khác nhau.
+
+14. LẬP LẠI THEO LỚP
+Đi sâu hơn từng bước, không hỏi tất cả cùng lúc.
+- Prompt yếu (✗): Cho tôi mọi thứ về AI.
+- Prompt mạnh (✓): Trước tiên, giải thích tổng quan về AI. Sau đó, đi sâu vào ứng dụng trong doanh nghiệp.
+
+15. MỜI PHẢN BIỆN (PUSHBACK)
+Yêu cầu Claude đặt câu hỏi hoặc phản biện lại bạn.
+- Prompt yếu (✗): Đồng ý với kế hoạch này nhé.
+- Prompt mạnh (✓): Phản biện kế hoạch này. Những rủi ro, điểm yếu và giả định sai là gì?
+
+16. XÁC MINH & KIỂM TRA LẠI
+Yêu cầu nguồn, độ tin cậy và kiểm tra thông tin.
+- Prompt yếu (✗): Thông tin có chính xác không?
+- Prompt mạnh (✓): Xác minh thông tin và cung cấp nguồn tham khảo đáng tin cậy.
+
+--- GIAI ĐOẠN 4 – TƯ DUY HỆ THỐNG (TỐI ĐA NĂNG LỰC CLAUDE) ---
+Nghĩ lớn hơn. Xây hệ thống. Tạo đột phá.
+
+17. SO SÁNH & ĐÁNH GIÁ PHƯƠNG ÁN
+Học từ nhiều phương án để chọn lựa tối ưu.
+- Prompt yếu (✗): Cách nào tốt nhất?
+- Prompt mạnh (✓): So sánh 3 phương án A, B, C về chi phí, hiệu quả và rủi ro. Đề xuất phương án tối ưu.
+
+18. SỬ DỤNG RÀNG BUỘC NHƯ ĐỘNG LỰC SÁNG TẠO
+Ràng buộc giúp tạo ra kết quả sáng tạo hơn.
+- Prompt yếu (✗): Hãy sáng tạo.
+- Prompt mạnh (✓): Với ngân sách dưới 100 triệu VND, hãy đề xuất 3 chiến dịch marketing sáng tạo cho sản phẩm SaaS.
+
+19. TƯ DUY TÁCH BIỆT VS TỔNG HỢP
+Tách để phân tích sâu, tổng hợp để kết luận mạnh.
+- Prompt yếu (✗): Kết luận giúp tôi.
+- Prompt mạnh (✓): Bước 1: Phân tích vấn đề. Bước 2: Tổng hợp giải pháp. Bước 3: Kết luận & đề xuất.
+
+20. QUẢN LÝ NGỮ CẢNH HIỆU QUẢ
+Claude nhớ giới hạn. Bạn kiểm soát chất lượng.
+- Prompt yếu (✗): Tiếp tục từ trước đi.
+- Prompt mạnh (✓): Tóm tắt ngắn gọn nội dung đã trao đổi và tiếp tục với 5 điểm quan trọng tiếp theo.
+
+--- TƯ DUY CHUYÊN GIA KẾT QUẢ VƯỢT TRỘI ---
+- Rõ ràng trong yêu cầu
+- Chi tiết trong ngữ cảnh
+- Thông minh trong cấu trúc
+- Linh hoạt trong điều chỉnh
+- Hệ thống trong tư duy
+KỸ LUẬT HỎI - CHẤT LƯỢNG TRẢ LỜI

@@ -1,0 +1,66 @@
+--- Trang 11 ---
+À >> KHOA HOC CLAUDE TỪ A - Z <<
+BAI 8 ¬ P
+søs .. HIEU CACH CLAUDE
+^
+MỤC TIEU BAI HOC Ù
+| @ Hiếu cách Claude xử lý yéu cẩu - = s
+| © Biếtcách viết prompt dé Claude hiểu ding Nam được cach Claude xử ly yéu cau dé áp dung hiéu qua hon - x
+Ä @ Năndượcnguyentctivohonkếtapd - i = .. - A
+Ø à s CLAUDE HOẠT DONG NHỰ THE NAO?
+| '® Taoméi trường lim việc hiệu qua voi Claude :
+= ©36@®3Qszfss+QO .
+=
+- — 1. Nhận yêu cầu 2.Hiểu nội dung 3.Tìm kiếm & suy luận 4, Sinh phan hỗi. 5.Trả kết qua if
+b . Claodephintchyểucẩu - Claudetimkiểmtrong  Xửlý thông tin,suyluận, - Tạo phan hỏi ty nhiên, dé Ted kết qua 6 rang,
+s bạngửiđếhiếubóicảnh  kiến the & kinh nghiệm liên kết các dữ liệu hiểu va phi hợp voi dé áp dụng và hữu ich
+— 8 xc doh dip n Wién quan ange teu của ban cho ban
+S 7 © QS chat lượng đầu vào (prompt) quyét dinh 80% chat lượng đầu ra.
+EY rx G T GF . Aa =)
+NGỮ CANH (CONTEXT) LA Gi? CAC LOAI YEU CAU CLAUDE HIEU TOT
+Claude ghi nhở va dựa vào ngữ cảnh dé hiểu chính xác va , —
+dua ra cau tra lời phú hop. g Oe > . VD: “Claude la gi va
+¬ = i Giải thich, tu van, 6 thé lam gi?”
+Claude › ) . | gra hapa tl \ |
+đã nối trước đó trong cing . 4
+Vit oman hued dn oat schon. | I c tọ ĐỂ g I NVietgGX: nội dũng ện VD: “Viết bai blog về hướng
+| ve oe y a kich ban, in prompt”
+Rất hay 86 sung mục teu dy. | ke sa aeo diy i Phan tích & tống hợp _ VD: “So sánh wu nhược
+‘Tom t&t, phan tich dữ liệu, điểm của 2 giải pháp nay”
+so sánh, dánh giá.
+Dut diy bảncập ant ema D Mỡ đầu đấy đủ giip Claude - -
+hiếunhanhvàkhông cin Lap trình & ky thuật. 7a ‘
+¬ hi lại nhiều lan || |</3⁄| viếtcode debug, gii thich Voy Rey ut . Ủ…"°" -
+Tayi vl Ci on a | i ce lọc file Excel
+— G= 4 vy) Lên ké hoạch & tu vấn Te
+ee: Chiban vin cin hd Claude tom | 9 | Lạp kế hoạch, chiến lược, ND:Piệp kố hoạch S ngày.
+L nội dung chính dé giữ ngữ cảnh gon gang va hiệu qua. k l ivinjoa ¥ ÿ tường.. eglees/Điuuiàsgibhgr )
+( = m —*. QUY TRINH XH#LY YEU CAU BEN TRONG CLAUDE + — —- )
+@ PHAN TICH YEU CAU @ HIEU & LAP KE HOACH ® TRIEN KHAI SUY LUẬN © TAO KET QUA 6) TỐI UU & HOÀN THIEN
+ue inh fs tieu re Hiểu sâu ngữ cảnh. , - Timm kiến thie phi hop 15) paoae » mỦ tratoàn diện : |
+EA - Higu bối cin (=) - Xác doh hướng xy + Ltn tay in EA - Kếntatrhdng mae ig) + Toi wwhéa ngõn ngữ
+—\ - tichnadthing in quan tong 2) - Len kế hoạch phan hôi * Tao nội dung phan hai = @ - chusn hóa ngôn ngữ = Cung cấp cau trả lời
+tốt nhất
+= =- =
+Z . X I N Oa N r) B A oN @
+0 HO TRO THOẠI CUA CLAUDE CACH CLAUDE HIEU BAN HON -Q: MẸ0 VÀNG
+n c T e | G Rõ rang & cu thé .
+¡ S S thuộc vào chat lượng prompt,
+& Cung cấp ngữ cảnh : a ngữ cảnh va cách ban
+Duy tri mach hội thoại. Chia sé bối cảnh dự án, mục tiêu, đối tượng mong muốn.. đặt cau hoi rõ rang.
+=} Hei them để tam rõ khi cần Bualvi dự Claude cang hiếu ban,
+i) Vi du giúp Claude hiéu phong cach va ky vọng của ban. cang giúp ban tốt hon!
+Quan ly ngữ cảnh tốt L T Á ⁄
+Phan hồi & sửa chữa 7 À
+Ẩ Ê ⁄
+Tenet na . m ( Cp
+để tranh qua tải bộ nhớ.
+. Ton trong & kién nhắn. Ga o —
+Tiger evte nl tang Sse gation | \ ves
+_ N N L , ay
+@ —* CAC YEU T6 ANH HUONG BEN KET QUA + — - À
+c QR chứttợng prompt E xesmeya EB Mach noi thosi Bil] % ¢8i nei dung 1g) Cách ban đặt cau
+| Prompt càng rõ rang, | Cung cp đủ thông tin, Cuộc trò chuyện lién tuc giúp. Cau dai, nhiều dữ liệu | Cau hi rõ rang, đúng cach
+kết qua càng chính xác. Claude hiểu sau hon. Claude trả lời mach lac hon. giúp két qua chi tiét hon. giúp Claude hiểu nhanh.
+TIẾP THEO VIẾT PROMPT HIỆU QUA — NGIUYEN TAC CO BAN
+BAIS Tim hiểu các nguyên tc vist prompt dé Claude hiểu đúng va tra lời xuất sắc!

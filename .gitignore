@@ -1,0 +1,16 @@
+# IDE and system files
+.gemini/
+.agents/
+.temp_chrome_profile/
+__pycache__/
+*.log
+*.zip
+
+# Large PDF books and assets
+*.pdf
+tessdata/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store

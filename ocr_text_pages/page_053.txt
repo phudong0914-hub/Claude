@@ -1,0 +1,70 @@
+--- Trang 53 ---
+8/10 | | 3 CLAUDE CODE CO-WORK SERIES - ~ 3XXClaude
+oO z z A A @ coo
+)
+XU LY XÁC THỰC & - @ v t
+¬ s |
+A ¬ ĩ >> > Authenticating
+PHAN QUYEN API 7
+Ả y ì Yam) | > Access granted Ø
+VOICLAUDE CODE | x g S =
+s _ .
+Bao vệ API của ban - Đúng người, dung quyén, dung dif liệu. = l N p :
+fa) Claude Code giúp ban tich hop xác thực & phan quyén - \ BEES we -
+dé dang nhập API an toàn va tuân thủ nguyén tấc bao mat. - ~ = eo /.
+@ CÁC PHƯƠNG THỨC XÁC THYC | LUỒNG XÁC THỰC JWT VỚI CLAUDE CODE
+APIKey E E=—¬
+ge... ¬m¬Ạô¬m¬-ém
+Phi hợp cho hệ thống nội bd. [=] S eS
+Client API Server Tao JWT Client API Server
+JWT (JSON Web Token) ‘Bang nhap Kiếm tra théng tin Tra vé token Gif token trong Kiém tra token
+Token chia thang tin người ding. ativeatest a u
+Bao mat, mở rộng tốt..
+Vi dy tao & xác thực JWT (Node.js + Express):
+pau 20 // Middleware xác thyc token
+Xác thực qua bên thứ ba / Tạo token (ding nhập) function authenticateToken(req, res, next) {
+(Google, Github...). const jwt = require('jsnokbotion'); const token = req.headers{ ‘authorization’ };
+L j const token = jwt.sign( Af (token) return res.sendStatus (401);
+@ _ Session / Cookie x jwt.verify(token, process.env.JNT_SECRET,
+én ding nhập trô 7 H (err, user) = (
+~ Eins prea Shoo anderen) ees Process.env.JNT_SECRET, if (err) return res.sendStatus (483);
+Phù hgp Ung dung web truyén thống. {Cexpiresin: ‘1h’ 3 req.user = user;
+l next);
+»
+PHAN QUYEN (AUTHORIZATION) @ BẢo VỆ API - NHỮNG LỚP PHONG THU
+{ MO HINH RBAC (Role-Based Access Control) | Vi dy kiếm tra quyén (Node.js + Express): [v) HTTPS.
+| Quin t function suthorizeCroles = (1) { Mã de tan bộ GỦ Hau ruyễn i
+người ding return (req, res, next) => { API Key / JWT
+const userRole = req. user.role; Xác thực danh tinh người ding
+L m Quan lý if (troles.includes(userRole)) { .
+a nội dung | return res.status(403).Json({ - ee B iii
+(ay | message: ‘Ban không c6 quyền truy cặp! @®_Chicho phép hanh dng hop lệ.
+[viewer + Chi xem | vi Rate Limiting
+5 |
+fj H An thông tin nhạy cam
+pouyen te: Ñ Ổ Khong trả vé dữ liệu khong cn thiết.
+© Mõiustr thuộc về một hoặc nhiều role 77 Si dung
+Ø Méi role có tập hop quyền (permissions). ‘app.get(*/admin/users*, authenticateToken, =] Logging & Monitoring
+— khicho phép truy cp téinguyén. | authorice({‘adnin’, ‘editor’})); Ghi log, cảnh bao hành vi bất thường
+@ LƯU TRU TOKEN AN TOÀN {Ø MIDDLEWARE BẢO MAT CAN THIET vi DU KET HOP HOAN CHỈNH
+Nena aa helmet () Thiết lập các HTTP header 11 bang nhập => Nhận MT
+a Pee K t I n 2 Gui 2MT trong header
+rateLimit() Ô Giới han số request 3. Server xác thực token
+theo IP. (authenticateToken)
+ing shoved token Dé token qué bu
+T 0 ee 5 0 n | | evra d 41 n t 20 ht n E
+5 Xi ly request nếu hop lệ
+7%, Làm mei token bing Trả về thing n nhạy cn const heleet © requíre('helmet'); 6 Trả kết qué hoặc 16i phi hop
+c- rabatlnt t aE etprecorte int’ © 200 0K - Thanh cing
+anp.ox0(heleet()); © 401 Unauthorized - Chua xác thực
+. N © 403 Forbidden - Không có quyền
+Sain n m (Bg t SO E E
+@ BEST PRACTICES
+Thiết ké Bao mat | Tach biét Xử ly lối Logging Viết Test Tai liệu hóa
+a RESTful (Vv) API | A logic A chuẩn hóa (uh & Monitor 4 cho API BA day da
+Design Validate input, ding  Contrdler-Servee- Trảvẽ lỗinhátquản, - Ghilog, theo dõi Unit test, integration Does rõ rang giúp team.
+JWT/OAuth, gidi han Repository rõ rang, dé hiếu cho client. ang va lỗi hộ thống, - test dé dim bảo 6 sd dung & mờ rng.
+tate, HTTPS. | dé bao tri chat lượng..
+Eioceaesdiea: ont cpa BAO MAT VUNG CHAC - HE THONG BEN LAU! ° :
+ion ctl ete cae bry voce Với Claude Code, ban kiém soat ai được truy cap Ñ G
++ vaho được lam gi.

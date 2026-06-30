@@ -1,0 +1,70 @@
+--- Trang 3 ---
+KHÓA HỌC CLAUDE TỪ A-Z: LỘ TRÌNH HỌC MỖI NGÀY 1 POSTER
+
+TIẾN ĐỘ THỰC TẾ:
+- ĐÁ CÓ: 3 BUỔI – 3 POSTER
+  - Poster 1: Giới thiệu về Claude
+  - Poster 2: Ứng dụng chính của Claude
+  - Poster 3: Các thành tố trong ứng dụng Claude
+
+GỢI Ý LỘ TRÌNH:
+- Tổng số buổi học (poster): 30 buổi
+- Đã có: 3 buổi
+- Cần thêm: 27 buổi – 27 poster nữa
+- TỔNG CỘNG: 30 BUỔI – 30 POSTER
+
+OUTLINE 30 BUỔI (MỖI NGÀY 1 POSTER):
+- GIAI ĐOẠN 1: LÀM QUEN & NỀN TẢNG
+  - 01. Giới thiệu về Claude (Đã có)
+  - 02. Ứng dụng chính của Claude (Đã có)
+  - 03. Các thành tố trong ứng dụng Claude (Đã có)
+  - 04. Đăng ký & đăng nhập Claude
+  - 05. Giao diện tổng quan
+  - 06. Cài đặt & tùy chỉnh cá nhân
+  - 07. Các mô hình Claude & cách chọn
+  - 08. Hiểu cách Claude hoạt động
+  - 09. Viết prompt hiệu quả – Nguyên tắc cơ bản
+  - 10. Các loại prompt thường dùng
+- GIAI ĐOẠN 2: KỸ NĂNG SỬ DỤNG CƠ BẢN
+  - 11. Hỏi đáp & tìm kiếm thông tin
+  - 12. Tóm tắt văn bản nhanh chóng
+  - 13. Giải thích kiến thức & học tập
+  - 14. Dịch thuật đa ngôn ngữ
+  - 15. Viết lại & cải thiện nội dung
+  - 16. Brainstorming / ý tưởng sáng tạo
+  - 17. Lập dàn ý & cấu trúc nội dung
+  - 18. Viết email chuyên nghiệp
+  - 19. Viết bài blog/bài viết chuẩn SEO
+  - 20. Kiểm tra & sửa lỗi văn bản
+- GIAI ĐOẠN 3: NÂNG CAO NĂNG SUẤT
+  - 21. Phân tích & trích xuất dữ liệu
+  - 22. Tạo bảng biểu & báo cáo
+  - 23. Hỗ trợ Excel & công thức
+  - 24. Tạo kế hoạch & quản lý công việc
+  - 25. Viết tài liệu nghiên cứu
+  - 26. Phân tích tài liệu & báo cáo dài
+  - 27. Tạo slide & nội dung thuyết trình
+  - 28. Tư duy phản biện & phản hồi
+  - 29. Kết hợp Claude với các công cụ khác
+  - 30. Tổng kết: Làm chủ Claude từ A-Z
+
+TIÊU CHÍ HỌC TẬP:
+- DỄ HIỂU: Cô đọng & súc tích, dễ tiếp cận
+- THỰC HÀNH: Ví dụ thực tế, dễ áp dụng
+- ỨNG DỤNG NGAY: Áp dụng vào công việc & cuộc sống
+- TIẾT KIỆM THỜI GIAN: Học nhanh, hiểu sâu, không dài dòng
+
+GHI CHÚ:
+"Làm chủ AI không khó. Điều quan trọng là bắt đầu đúng cách!"
+
+KẾT QUẢ SAU 30 NGÀY:
+- Hiểu & sử dụng thành thạo Claude trong công việc và học tập
+- Tối ưu thời gian, tăng năng suất vượt trội
+- Tự tin ứng dụng Claude cho nhiều lĩnh vực khác nhau
+- Xây dựng quy trình làm việc thông minh với AI
+
+HÌNH THỨC KHÓA HỌC:
+- Mỗi ngày 1 poster – ngắn gọn, dễ hiểu, dễ áp dụng
+- Video thực tế – Minh họa rõ ràng
+- Bài tập thực hành – Ứng dụng ngay
+- Lộ trình logic – Từ cơ bản đến nâng cao

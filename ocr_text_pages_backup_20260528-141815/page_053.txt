@@ -1,0 +1,55 @@
+--- Trang 53 ---
+Al >1 CLAUDE CODE CO-WORK SERIES = Claude
+% z Fa ¬ wf i
+XU LY XÁC THUC & : í
+. r1 ñ m R och
+~ E . L
+LẠ - _j' Authenticating
+H 3 Access granted Nẽ
+VOI CLAUDE CODE (| 3k
+Béo về API của ban = Đúng người, ding quyén, ding dữ liệu. By a
+i Vt
+‘Claude Code ghúp ban tich heap xác thực & phan cuyền L |
+28 ing, gp AP) an tod vã tudes khủ nguyyễn tác bdo mặt L .
+By AP Key |
+r . gin, 08 ding (o=] — m — — —
+eee Caer APL Seewer po. NT Client AM Server
+ff are | JWT (JSƠH Web Toker] Bang nde Mic thuực thông tin Ted về token Cae n hog Kaden bribes
+kldl| Tpke chia thing tia n guối dong. mmỗi request Sukh
+ko mặt, rd sộng tốt ‘Vidy tạo Binnie thực JWT [hede.ja « Erpress]
+ĐAath 2.0 fi aicat = _
+ube the cua Eb thd ba . GG .C angen T E ne
+ass prin aang rid trie aren, augirentn ene
+abe :
+Pha hợp ứng dụng eb ruyền thing, m N tag
+[í E) PHAN QUYEN (AUTHORIZATION) ‘© BẢU VỆ api ~ NHỮNG LÚP PHÒNG THO
+iach HÌNH BEAC (Bolg-istedl Ancess Control) ‘Virdy hiểm tem quyền (ede fs + Empresa: g HTTPS
+.. f B = TU Pitas Soán ah BT Rag trưyền bbl
+› E E req, mwa, sant} n
+a - l E Paes ala P APL Koy ƒ JWT
+[ » ein ares Erol tials Dies thực danh Rin guts dùng
+fae + chi ata ie 3 Phân quyền
+Uyer viewer | : (GA cho phên hành động hợp l
+sÙ Sem a kêu . Ụ Rate Limiting
+(Ci hạn số hượng request
+meen tie H N NH ủ An thông tin nhạy cảm
+BD ib cee thuặc về một hoặc nhiều rote ma one, ree Rhông trả về er pe không cies thi
+©) liệt szâa có ks hợp quyền Ipermevssvg)
+tr chet Logging & Monitoring
+(Riles tra quyền trước khd cho phép truy thie bd nguyẽn, = (Dh log, cảnh ke leh vd bất thướng
+H u UO AALBAAEILOSGCh1 GD |
+WEN LAM TRANH Lisa babest() ử N s E EE Ding nhập ¬+ Nhận BT
+Scien at m . rateLinitt) eo N rrr ae
+A ongeenesvem bone getty i EF a zoom athe Aa oe
+ia); sauce ae ã rrr Ø  Kiếm tra quyền (authorize)
+kit s xO by request nd hợp l
+F age E Teh oft quả hoặc Di phi hợp
+1) 1oEnhenskskeon £7] ri vẽ mông t ree rubeLinit s rggrirr|
+. . 1 i } © U1 Unaschoriced - Chu nic thực
+a 3410/00835. 6 © 200 Pecbidden » ing có quyền
+xgg.vAsirrisLinit|| mindosEm: 554 mas: ) 473 Tos Hăny Repeeiti - Ged giải hặc
+@ BEST PRACTICES
+Thiết gun te, l . (POM Rone A revo th H H M “Tain thi chuản ko mặt a] (idles thờ ka mật
+“Least Privilege” @ mãtkhhs(errg] = G ự token dink by BD heal ting bác tevirg [OWASP Top 10H Being may
+> BAO MAT VỮNG CHẮC - HE THONG BEN LAU! É
+~ Với „ ban kiểm saat ai : truy cap va ho duc igi,

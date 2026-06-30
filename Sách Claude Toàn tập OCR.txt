@@ -1,0 +1,2872 @@
+--- Trang 1 ---
+I ' Ơ o
+TRONG = Claude | iy
+POSTER
+Hoc Claude toàn diện - Ung dung thực tế - Hiệu qua vượt trội
+10 10 =
+POSTER POSTER
+COWORK CODE
+Phối hop hiệu qua, Viết code cùng Claude
+tang nang suất vượt trội tối ưu và ứng dụng thực tế
+<ì> DE HiEU >) (aA SNG DUNG NG wa TIẾT KIỆM THỜI GIAN
+AA Giải thích rõ rằng. z Vi dy thực tế, \ Áp dụng dược al Hoc nhanh, hiệu qué,
+= dễtiếp cận v dap dung gay vào công việc LÍ không dài dòng
+Teo bin din ning cao POSTER
+rete ! ế, db á ¬ zi
+€ o Vi đụ thực tế, đễ dp dụng GON
+ee Gg Hướng dẫn chi tiét, từng bước s : 7
+l ˆ %%v @ Tổhiệuqudcôngvic&hoctập S
+
+
+--- Trang 2 ---
+TỰ HỌC CLAUDE A-Z
+- L
+30 TRANG CLAUDE - 10 TRANG COWORK - 10 TRANG CODE
+Cuốn sách được thiết kế dành cho moi đối tudng muốn lam chủ Al Claude
+một cách nhanh chóng. dé hiểu va ứng dung ngay vào công vide.
+30 TRANG 10 TRANG 10 TRANG
+CLAUDE COWORK CODE
+---__]
+P L
+© Hiểu và làm chủ Claude (Phi hợp hiệu qua l Viết code cùng Claude
+từ cơ bin dén ning cao với Claude
+© Nhiều vi dy thực td, 1 Xây dung quy trình l Tổiưu, kiểm tra
+đễ Ap dung làm việc thống mưnh vi refactor code
+© Tdi ưu hiệu qua công việc lØ Tang nang suit © Ung dung thực tế
+và hee tập vượt trội eho developer
+|
+</> @ ... { @) yy et |
+k Dé hiểu Thực hành Ứng dụng ngay Tiết kiệm thời gian
+(Gadi thich ré rang. Widy & bai tho Ap dung uit Hic nhạnh, Fis cus,
+dé tite cain Ứng dung thực tế Fgp5yÿ wo cong vhệc khỏng) dei dong
+ce ¬
+Lam cho Al không khố.
+Điều quan trong la bat dau dung cách! 99
+——2Phm”
+S Khóa boc & Webinar miễn phi
+l Tiiligu& Template độc quyền
+l Công ding hoe viên Vinalink
+BB Uu dai dặc bidt cho hos viên
+f (oscars N ISBN: 978-604-80-8XXX-X
+i te ob
+: . Ijl'ỈI1kịI5r_I_'i_\iàl'ỉ'IỊ1`LI_`r_"'l1fỉllỉI`iìa_t_ 5 786048 0XXXXX
+@i] Tai ưu hiệu qui công vide & học tập GIá: H113s0 ety:
+
+
+--- Trang 3 ---
+~
+KHÓA HỌC CLAUDE TỪ A - Z
+- I
+r x
+Cl | DA CO: 3 BUỔI - 3 POSTER
+» Poster2: 7 dng dung chink cla Claude
+sete mt vil I py MNI _ị as @) » Poster 3: Cac thành té trong dng dung
+_# Claude & .= es | _ Chuđe .U
+E = — II . CỒ' GỢI Ý LỘ TRÌNH
+: = ES eee + Tổng sé budi hoc (poster]: 30 budi
+oeaeao# — er FSF + Bb ed: 3 buổi
+=e Sear! os #$ 2 B m
+ự —- =HE GHE GG s + Cin thêm: 27 huổi = 27 poster nữa
+POSTER 1 POSTER 2 POSTER 3 nn ene eae
+OUTLINE 30 BUỔI (MOI NGAY 1 POSTER)
+01. Giới thiệu về Claude (Ba có] 11, Hii dap & fim kiểm thông tin 21. Phin tích & trich xuất dữ liệu
+02 Fung ding chink của Claude{iĐ4cổ] - l Tan tit văn bản nhanh chóng #2. Tao bằng biểu & bio cdo
+ee 13, Giải thích khai niệm & học tip 23. Hỗ trợ Excel & dữ liệu số
+14. Dịch thuật da ữ 24. Tao kl hoạch & quan lý công vide
+04, Đăng ky & đăng nhập Claude oe i le
+a i n 15, Viết Iai & cai thiện nội dung 25, Viết tài liệu nghiện cou
+06, Cai đặt & tty chinh cá nhân 18. Brainstorm ÿ tưởng sáng tạo 24, Phin tich tai liệu & bao cáo di
+OF, Các mô hinh Claude & cách chon 17. Lập din ý & cấu trúc nội dung 27. Tao slide & nội dung thuyết trình
+08. Hiểu cách Claude hoạt dang 18, Viết email chuyện nghiệp 28. Tu duy phan biện & phản heli
+09. Viết prompt hiệu quả — Nguyên the 19. Viết bài blog/ bi viết chuẩn SEO 29. Kết hợc Chude với che công cụ khắc
+cỡ bin
+20. Kiểm tra & sửa lỗi vin bain 30. Tổng kết: Làm chủ Claude tir A-Z
+10, Các loại prompt thường ding
+KET QUA SAU 30 NGAY HÌNH THỨC KHOA HOC
+() Hiểu rõ & sử dụng thánh thạo Claude trong công việc và hoe the a Midi nghy 1 poster = ngắn gọn, dễ hiệu, dễ áp dụng
+(Z) Tối ưu thai gian, ting năng suất vượt trội TOY Wildy thực tế - Minh hoa rõ rang
+@) Tư tín dng dung Claude cho nhiều Enh vực khéc nhau ¢ | Bhi tập thực hành - Ung dung repay
+(2) Xây dung quy trình lim việc thing minh với Al A?" - Lộ trình logic = Từ cơ bain đến nding cao
+LƠ 30 NGÀY - 30 POSTER - LAM CHU CLAUDE, NANG TAM HIỆU SUAT!
+
+
+--- Trang 4 ---
+GIỚI THIỆU
+*
+Trg ly Al thông minh tu Anthropic
+Claude la mô hinh Al tién tién được phat triển
+bởi Anthropic, giúp ban hiéu, suy luận va ho
+trợ trong nhiều công việc một cach an toàn,
+trung thực và hữu ích.
+:—o1s<11171717717177 NHỮNG EllỄM NOI BAT —”mr r reẮẦ m
+% L z
+e à
+Hiểu và trả lời Xu ly van ban Suy luận va An toan
+tu nhiên hiệu qua giai quyét van dé wa dang tin cay
+Trò chuyện muợt ma, Tém tat, viết nội dung, Hỗ trợ suy luận logic, Được thiết kế dé
+hiểu ngữ cảnh va phn tích va giải thich dua ra ý tưởng va Wu tiển sy an toàn,
+trả lời chính xác. dé hiểu. giải pháp hữu ich, trung thực va tén trang
+ngual ding.
+CLAUDE CO THE GIUP Gi CHO BAN?
+Viết lách Hoc tap Céng vide Lap trinh Nhiéu ngõn ngữ
+Bài viết, email, Gidi thích bhai rat, Téen tilt thi liệu, Hỗ tre viết code, Hỗ trợ nhiều rgyễn ngđ,
+bai luận, nội dung trả lời cau hỏi, soạn thé kế hoạch, giải thich lỗi, hiểu và giao tiếp
+sing tạo... fee hiệu quả plein tích dữ liệu. gel ÿ cải thiện... ty nhiễn,
+M& Claude - Al hữu ich, an toàn va déng hanh cling ban.
+
+
+--- Trang 5 ---
+GIỚI THIỆU VỀ
+LI
+Tro ly Al thong minh tu Anthropic
+‘Claude là md hình Al tién tiến được phát triển bal
+Anthropic, ghúp ban hiếu, suy luận va hỗ trợ trong
+nhiều công việc một cách an toàn, trung thực wi hữu ich,
+g S | @ ® :
+An toàn Suy luận Hiều và giao tiến Tie trong quyền riễng tr
+và dling bin ely mạnh mở by nhiên sh dbs mặt B
+CLAUDE CÓ 7 ỨNG DỤNG CHÍNH
+@) Viết va sang tạo nội dung © Lập trình va phat triển phần mềm
+1Cbsrde bb trợ viết cake koại nội đụng chất kượng cao, Hỗ trợ lập trinh viên ở mọi giai đoạn
+fig bao và phi hợp với mục Bởu của ban của quik trie phát triển
+- Hài wills (bier, bải huận, bài PRL.) < > » Viet code, sửa Mh, bo uu coche:
+. Ẹ1thcwW «GUM thich thudt boản, logic:
+= Rick ban. nội dung mạng xš hội + MÃ trợ nhiều ngẫn ng lập trình.
+= Ÿ tưởng tắng tao, Mogan, Gaby Á + Til Bậu hóa code, din hue
+©) Tom tat va phan tích tai liệu
+Hiểu nhanh wa nlm bắt théing tin oft Ke 6] Hỗ trợ kinh doanh va marketing
+từ i aby dài phức tap, Tổi wu Beg động kink deanh, marketing
+» Teen elit vận bản ei q} với các théng tìn và ý tưởng giá trị.
+= Trich muất ÿ chink „ Phin ich thi trưởng, đối thd
+= Phăn tich biác ako, ngưhiên cửu, thị liệu :
++ Soke vidi chiếu thing tin + Mi rd dung qing ots beeing pee
+s Y tưởng chiến dich marketing
+Đ I_'at'l_ợ|_|ọctiP1'_ảr'gI1iẽ`Ic`ỉ|.`II „ Phim tích khách hing. xày eung chân elu
+Trợ hy đắc kực che học sinh, sink viên
+‘vi nhà nghiên cửu. ì H 4
+„ -Glid thich bed niệm, công thức ủ' Dich thuật va giao tiếp da ngôn ngữ
+© Trả bil cầ hỏi. mở rộng kiện khúc ‘Gina tiển wh lim việc hau quá
+» Hỗ trợ nghiễm cửu, tim ÿ tưởng để hl in s G ngân ied
+n K Gg ane + Dich thuật chính abe, ty nhiện
+oO Xử ly dữ ligu va lập kế hoạch * Xiết và hiệu dinh nti dang da ngôn ngữ
+‘Gide Bố chức. sử lý vi đựa ra hế Reger s Mỗ tro gẽau tiền, trả Il ead cguốc bE
+* Lập kế hoạch dự dn. obra việc
+» Phin ich dif like, tạo bằng bia
+» Đ xuất giải pháp và chiến lược
+= (Qudin By thei glam, hls of nhề m vụi
+VÌ SAO NEN DUNG CLAUDE?
+An edn wh đng tin ely 'Suy huận mạrdi rb ‘Gino tiếp ty nhiên Bảo mat vi riêng ư Kháng ngùngg cải tiển
+(Dune thiết hế Of wu in sự Hiểu siden, poles ict lew: Trike an rk dd ab Tin rong quyền rie to, Liên nee cấp rhật để mang
+af) hese, Downey TC và sốn wb ve ra chu rb i nhw dang ind chy không pr cheng dir iby ites ind nghiệm ngầy
+Libre ngưỜi chareg, ch chiếu alu. .T T if hoán kượện: clergy it Pape,
+oe: Claude - Al hưu ich, an toan va dong hanh cung ban trong moi cong việc!
+
+
+--- Trang 6 ---
+CAC THÀNH TO
+Fa
+TRONG UNG DUNG .
+G
+Hiểu rõ giao diện - Tai ưu trai nghiệm - Lam vide hiệu qua hon
+TONG QUAN GI40 DIỆM
+3] Chon mé hinh o Khu vực trò chuyện
+Lụa chen md hnh Ai phù ges Hiến thi nội đụng hồi thoại giữa
+[ưUt Chande 15 Senet h bạn và GlpeSe.
+oo FF fF m t
+o Claude a Geli tome v Prsiect Cháng of -. Ị
+È e n Mitek
+D
+phe cube ớ. B One H EU ể m thiên ay G b dyin
+dự án, bhp tin, cải [> H Hoe car Chace hếp you toda” @ Beco ii ường shu Chon hake tao dự ain
+đân và pe dich vụ. os cia Can as ned
+Gh Aten ( K hoạch nội dungtioce
+# . o ee ee
+2] 5 Rin G Ê Dữ tiệu khách Ringo Ea eee em
+Mew chat s Ggi ý bake aha ‘leer allen H l
+c Gg Tibi - Ndtesadchuyisnghig  Limhd hug dh in |
+thuyệm mới vợi
+rome ] † Tập gắn diy
+te bệp hạn ð a
+hoặc sử dụng gần đây
+@ önhkpngdungi ( Côngcusinhkkm ) Gợiÿ nhành n n
+È Ciầu bode nid dung hoe td Ibu diệ Dlrzdoi nhạnh ching với những
+ein Claude hỗ beg, pps tich wih mak By, tác vụ phd bain
+CAC THANH TO CHINH VA CHUC NANG
+2= Ø Thanh bén (sidebar) © Ngữ cảnh dự án (Project (ele =
+= Ghai By non bộ owe động của hạn G3 Tao hoặc chọn dự in đ v VN" - CácEucduloh(prompciolsin
+s Chan: Danh kích be bade: Bb Ehuyên » Gung cấp bi cảnh cho Clmrin wip bạn
+^ Esuogectc uản by ails » IỠ tt cã te Bệu, cate ed chuyyện 5 Tiện habs tl giam E
+* Abie: HỘi dangling đụng Clade leo rà Bin quan một chỗ. © Khám ph Ld relay của Cece
+- File: Guin bp - bay chy dc bạn lốt how Ble dy công vibe đễ điềng ee
+» tt Ci đặt hd he win bữy chon
+TINH HANG NO! BAT
+!Ø New chạt (Tap gắn đây (Recent fies) ñ
+Tec cước trộ chars mới dể b cls a ae re ob SØ đã ee Habu gil chnh glen
+ee chủ heads rÈu cies mốt. Ha trụ nhiều dint dạng: PDE Word, tClax3g ghí nhớ và hiểu raph hội thoại
+Expat, Ce¥, INT, thể phvêm Pedi cher ude
+(es) ©) Chen m4 hinh Ø nội d Mr E dla đạng
+Oo Lựa chợm mô hành JA pba ha với nẽx cll: iấl Nhận cde hỏi, yêu cău hoặc nding Ea ee eae ee
+8 Clezdg 15 Serre Gergen rah, cers Coder ele ee Clara rer Cle ce
+Cae phiên bebe khắc (khí oxi} br dened es chard er Bie mặt và năng tu
+MA era ares Ub ere n ng: DỰ liu rửa top được mã Fe
+@ ! Céng cy đính hem bbs rb thee toby chicas,
+‘© Kha vục trò chuyện (inh kẽm Sf, hin doh hoặc chap anh.
+(-) kes i toàn bộ nội dug Badd esa. (Clade có thie @ TThoireg nin hh age
+Hạn rà Claucke trac oil bại lig © lbợc wh bien Ut eb Babu r a re nhiện eye nc wag si N,
+» Phdin Hích dữ ệu, hình ảnh lp ei, phẩn aU, nghiện cữa
+®. Trích nuất thing ti quan trong
+Q MEO SU DUNG x OM clundintring  Cungeipngiciny  GishmimtkiSty — YÈuciuClsudephin s (Đknh giá và tình chins
+“g° HIỆU GUA ey thé xà mực tu (id cản Shae hdd để Mier cỗi kết qual
+ie (Claude - Al đồng hanh dang tin cay, giúp ban lam việc thing minh hen mai ngày
+
+
+--- Trang 7 ---
+BÀI 4 + KHÓA HỌC CLAUDE TỪ A -Z +
+#04/30
+DANG KY & DANG NHAP AS
+ả
+MỤC TIED BÀI HOC : +
+ỄT Bit điều hành trinh cùng Cloude chi trong vài bude den gin!
+WD) Tee L khoánn Clsuske rants chair
+lØ Bling nhậc tiện eth wb ding dung, Ea CLAUDE LA Gi?
+lØ Gude Wy tai khoản cơ bản Clgude là neg l AI thông amis Ẻ
+1G) We phúc l thường gan Bie BE Anrep, giúp ben An Roden Suy luận Kiag tile Biko mặt
+Ae, eth, phản HÍCh và băng t l đăng tin chy rn m hy nha riệng fet
+daa aah Peres eld gry,
+— CÁC BƯỚC DANG KY TẢI KHOẢN CLAUDE —
+Truy chp trang chi hon phương thức Xie thực tal khoản Heằn tit thing tin Bắt ddu sử dung
+ding ky Claude
+l hEpa-JArimie s Ei 7 =
+Coes po oma Vertfy pour ernail Legh a eon
+aad hl lps? - ĩ
+Claude ines met et eesti = gr hood sluesnaoni
+er S CN .
+Your ideas, amplified re
+m t ea ete Comma em tats Set Ren are ee PAE nee dette
+ar (hg mụn t eg # .. -
+Sa == L i
+— ....WGOG.XxI
+= Wiko wanbalte chánh thekc- s - Raby deg ký bằng grai, và có thể bắt đâu
+Bạn có thế đăng bry Ev . Sans công và od
+Baek Tc Lila i s hãy khểm tra hộp thu xài Ịhb1mmn et Chuyện ri (laa
+© ibd “Staet yoru free pla” : nhấn vào Ehk sét thực i H
+dbk ư Apple IKiểm tea cả ngạm ei Pre siege ke Gisnatte trò chuyện
+* Email không thấy gmall » Nhận "Contin. dh abv ing?
+CACH DANG NHAP QUAN LÝ TAI KHOẢN CƠ BAN
+‘Chale Ũ
+Welcome back HE Tray che hpidickaudie s @ em š chink sine thing tin ũ
+§04Jaudig Seiko Seti GRD) & Protech MM Hes, # shunn
+3) Hhắn “Log in” 6 góc phải trên cùng eral, mặi khẩu perk
+m r ¬ r- .. .. ude gi nit dụng a
+- Kiosgia Ý Nguàn Beal) a ‘te hernia & Pine dhệ neers gets Fabel a
+Stein A Hhdp evra Si m khẩu và năng che ine oid +o
+er cerry loiểu đ kg kự bng ate) Ding sult
+ee (Z) Hhân "Continue" id vey Cnc & Vio Settings» Log outdid dling malt vay
+chi a eho
+rea baie
+@ Lượ ye Bạn chỉ cản lew evi 8 like pres thats bị. Ligon
+Chiwetel ta heey he hed điệ sỬ chorep khn dete
+LOI THƯỜNG OAP & CÁCH KHẮC PHỤC Tips & BAO MAT
+Không nhận được = Bisa mặt tl khoản
+ea tad ey thực aaa 0 ea eee aera
+GS (adage Cees Age + ba eer xuấn Ws te abe eee BUA thông iio (atu ob)
+bate tau eg ag lại a Gaop bee không ibd kỹ các cậo. nhật quan trong
+ny Clade,
+a Cede mbt khảu + Hibs "Forgot paar af rà lew then - Saar dụng che thiết bị
+Baan n điể bt hại. J HBạn cd thee ding nip trên wits, 0S và Aưsảnpcg
+dada có Ứng cheng
+=> lhông Tt Viey Che + din tne init nl meng hoặc the rế đượệt Gd liệu is boàn
+l 59e5g wilh (hake Chern Edụe. hater} * ‘Clnade pie Wrong quyền rê ng tu và không sở dựng
+CA z ca hạc đ huốn lượỆn m khỏrng được phhép:
+l n GIAO DIỆN TONG QUAN ge ee
+EY BÀI 5 Khám phd không gaan lắm việc của Claud mỡ ra những kha nding kin cling Chace
+‘wa.céc Khu vực chức nding chỉnh. -
+
+
+--- Trang 8 ---
+BAI 5 + KHÓA HỌC CLAUDE TỪ A-Z +
+GIAO DIỆN TỔNG QUAN
+*
+l Hhận điện các khu wae chính L m ty
+xiên giao ciện Claude Lam quen với cic khu vực chính trên giao diện +
+@ Hiểu chức năng tig khu vực đố sử dung Claude hiệu cud ngày
+©  Tã u tri nghiệm sứ dụng c CLAUDE LA TRO LY AI THONG MINH
+l Làm việc nhanh ching và khoa học ỆỆJ Hiểu â hd ẺÙ sur hp théng sin ') Jevtoin & & Bea end &
+tự nhiện m n beg chy rưêng ta
+CAC KHU VỰC CHINH TREN GIAO DIEN CLAUDE
+1 THANH sty ween) Claude Cinete tebe = (©) KHU vực web LiỆU
+Tray chp nance: cho năng. , ii ges rahe lt Pal psa tea
+ches võ bo a OP Pee mội đụng Cae ana Pa Ue
+os ) =e
++ bbe chats Caos ah thuyện mỡi 2 Good afternoon! - Mhập vin bản
++ Chạn Danh pick ord chuyển Ø Gun -H = Dit kim hp, hind ảnh
+= Pmgmois Qubslý dyên 4 EJ een * ĩ đưng biểu tượng oe năng
+© Artifacts: Hộidngling dang Hee ques Cina Pai yes ay à MB Botte T eg „ Oi phase
+s a tec re @ anton F
+GB eee nk dong doer
+ibe TO bán đã be E ree
+» ĐePnge C diet tie khỏản. F # t s - . BD ee ch hăng cer ..
+@ KHU vực wo CHUYỆN N n . @ Fnr gắn này
+Ms tebe sate rư Ỹ
+Oe bạn và Clete ‘Teer E 5k hệu Valea! huyện nghi‡p: (LA bế hoạch dự de. ,`."d"'.Ie"c"cẾ1Ễ`ĩI""l`ỈỀ':iI:"dỈ`Il
+» Cie hỏi, pear chu của bape ar ae
+: l Upgrsis gin Pads ch idle Higa ip rages ema (aks hich khải reife, LẠ n u
+Wid hối guild eich của Claude Fi hiệm BoB phar irr fer
++ [ thưo oh Bếp tực muạch: (F) ã ũ s
+hộ tho . t l - - ã bre thes dit deg,
+© soovsdrody lØ THanH coon MÔ HÌNH Ổ Hỗ50& NẰNG cir
+Cie ge ern để b dha (he phép: bạn ba ee 'Qhuác: lý Viế khodo vh ge di vụ.
+m việc với Chama ered inh l phủ beg - l N u
++h khệmh ala guan ary nghỉc * Wickes Climate 15 fee i plant Nâng cấn ge
+= Mader ph i năng của Cl + ri m chúảnh ake. cab nhận » Quản lý thành in, quyền ii
+s (Pg hoe rhiều ee dich 0 Lyla heen mới inh ta ua nhiết
+Ý HGHĨA CAC BIẾU TƯỢNG TRONG KHU VỤC MHẬP ñ
+ugu MEO SỬ GUNG HIỆU QUA Q-
+icdera mnt TH EằNH icin Hl daar ANTWAETS eli YÊU CẨU l Đích kăm thi ệu d Clmxis abu ngữi cănh tối hon
+Ti ers a, ‘TH Enh i es (pes sà ey các nội change CoO fe Palin, co at
+‘Chmatie đợc và mö l nhăn dds và phn Bich, Clue tp ranted: chở Cate \ Quản hý tăn gọn ging. cia tên rd rằng
+Ea Rey ae Oh eg, iv ae a le, Cake, eg vei ands Danes Peak Ces đứng mô nied pra hợp ới it cb
+POF, Word Deco, OEY, adh knh chy aie * Băng babe odd cêch Ci gael
+Tet, GH, (ie ake AH y Baia, Ứng dựng - Gg Thướng xuyên kiểm tra các Binh nbn mới
+ĐỊNH DANG Th CLAUDE HO TAG * sa TẮT
+‘Geo ciện Claude dược thiết kế đơn gliin,
+äƯăäSGlSSBEBR sS z
+Hiu r các khu vực chin giúp bạn làm việc
+T UÊU ẰNg Tinea nữ u vie Aion U HAE Pe aa etnias
+FF, De, EAT mae, CEi Son a, F .T HH Ft A Tea, 1k HỊ sien mạnh ode Olpzde nii rege!
+FETx, ưới Genayie thet = al eh FE. ia!
+| TIẾP THEO KHAM PHA CAC TINH NANG NOI BAT CUA CLAUDE
+I Bàl 6 ong tim hiểu những tinh nding giúp Claude tro thánh trợ lý Al mạnh rế nhất
+
+
+--- Trang 9 ---
+BAI 6 ¬ KHOA HOC CLAUDE TỪ A - Z
+ˆ # # ~
+CAI DAT & TUY CHINH CA NHÂN
+-
+lM Hiểu các thiết lập quan trong trong Clute `Ífil.fI.I'IrỦI'lElIiẸI'I'|(ễll|.Id€'tỉ'IDUẸủGlìt!ÚIl!I.ụI'l
+Tip chính geo diện Binh rì theo nhe ru
+@ cn eee ae VISA NEN TOY CHIMH CLAUDET
+Ø Tyemtinving ibm ie haf tae S @ @ g
+Tổi au hiệu nu Tre nghiệm pha agp Tada isle thet gian Tig cường ko art
+Len việc the quen cả nhân wh theo tac wih baker pot
+HUGNG DAN CAI DAT & TÙY CHỈNH
+Oo TRUF CAP CAI BAT r2] PESOFKLI - THẨENG: THN Td COL r3] SPRLARLNOD - G2SED PHỆM ủ NGTEWCREIOSE - THÔNG BẢO: a PRIVACY l DATA - BẲUO RAAT
+“Vila Settingn dil túy phnh Dhalin lý thống fin cab lie, Tuy chink gian chận mings ‘Guin l các thing bảo qua Wien nook oa abu quiydin ring fur
+‘Wik grabs Cliath wh ge bĩ dg herder ck) Pais ah, al và ror Ứng are. khí a đụng tee
+Cimade L H Apes Reina Privacy Made
+i a A) beeps — EH mina
+E om - m - = pan 2 So
+É G i
+2 teens e 1 Tạm ea .
+8 x - Severe oo paces = NH
+L C i mmm — — ier ie hee ey ag
+om ” HC (hed neers
+a
+Bee T ru ˆ i net ts
+Fn Oates - © Ieee rere
+ove n EH .
+E . Cored ahermcon! _
+nen iene ee
+ee er oer a làng/Ti!Thaing diving - » LALA eal eg be oR ary dữ ệu để cb đử
+» Kán Key chee n đệt ad bee sh „ e nhật Phông irs i aes ¬ (UMấu Chíns mN H hhản 4 Lgờe, vớk sñng] c = (CFon, kugi Phông khão muốin nhậm „ (uýn l E nóa Recs mr bnh opie
+«Pagid dupe hau ty ding shake hy đăng bbe š aba by +. ny chink Bịch thuước ch trong chet = C ie ged "en inv Dhông Mew phe «Mudie i ệu hoặc edhe thi hod
+CÁC THIET LAP NGI BAT KHÁC MEO TOY CHINH HIỆU QUA Jan
+(Chg ngăn nga ile ag: Ting voPL. Engine, a ride chế Ti nb làm ise để gies odd eu
+Mayboard showtcute - Peas tit [--] Chee mặt dé gies diện Dalanced” a8 26 tril nghiim dif chéu nöiấi:
+Mes ei hag chin ck pte bt hd ong thaw tac nah
+eo (DS thdng báo quan trong (bdo mot. chp nbdith wh Gt eed marketing
+A Bria features - Tìnhnăng the nghiệm eu kháng củn tha
+Trt region. ween cặt Bets năng mới của Clade
+Tharting xuyên xóa các cuộc tnd chuyên không clin thiết dé bdo wh
+Integrations - Tích bgp o
+dp Be roll với tile ong um nia Google Gries. Hoticn, qepdn ring tự và quiin lý dỡ Bea gọn ging
+Lente UG)  Khám path tinh năng Beet bakes den đầu dee el tiện re,
+@ ‘Security = Be mit
+thuản ora hol, phoim rap Pe thiết bộ dig tin cấp
+vÍ DỤ TÙY CHÍNH THEO NHU cau
+NHÀ HGHEÌM COU r $94H VIỄN 'HHÂM VIÊN VĂN PHÒNG CONTENT CREATOR Ý CHU DOANH NGHIỆP
+O Chế dặ a lŠ Cid dặc Thau hã thống l cua) ta
+1 Biro: Comfortable Mp ae Eaiercnd © koe compet als
+l Woke rors Í Thigpen Be ong a) l Thông nae Bh dp nhật, Ted q,
+TErkArkEtngl
+) Thông băc: Bt Huan trọng: a5. a @ Uịch sử chất: Bột l
+EN eget rap Tiếng Hf Emgetkh © tenho . Ø Bete teatro ii
+Tél ưu chờ dot «wilt dãi nghiên cửa và hoe thin TE ue cho nding ul, KỦ by Cong việc nhườn ching Tổi wu cho Lhng Bea Ý Tưởng và cập nhật mulher
+PHÍM TAT HỮU ÍCH: CHECKLIST CẢI OAT HHAMH ..
+ie SHI NHG
+Can |e! MS Quick search a J Di cậc nhật thông tín ti khoản
+Dinh thời gian cái ye Clue
+cwis ự Kem tất cả phẩm et ghù egy viii bạn là khoản diễu ba ã Dã chon gic diện E mặt độ phù hợc:
+Cul + SNA +! L 'Chuyyền Light í Dirk modle nhề nhưng mag lại hiệu qual ken Ù3 Decker thông bên.
+eae m M4 Command pabrtin madi npr (2 ier tra chỉ i bảo mặt equi rr t
+=
+ph TIẾP THE >) CAC MO HINH CLAUDE & CACH CHON Me
+
+
+--- Trang 10 ---
+BAI 7 Ñ TƯ HỤC CLAUDE A-7 TRONG 50 POSTER =
+* >
+* - —.
+C L, \U D E : = |
+Bey +
+PHU HOP CHO TUNG CONG VIEC _ GLUONNOO
+@) ĐÚNG MODEL - DUNG VIỆC - HIỆU QUA GAP BOI pou cemins MiG)
+3 DONG MODEL CLAUDE - CHON NHIIHIHEBEO RO OA BRS \
+Claude Haiku Claude Sonnet [49 Claude Opus
+;L W
+© Xử lý nhanh, phan hồi tức thi © Hiểu ngữ cảnh tốt, trả bi chính xác ‘© Lập luận phic tap, suy luận sẫu
+© Tóm tất, trả i ngdn gon © Viet content, email, bai blog © HNghiên cou chuyên shu
+l Viết nội dung cơ bin @ Phan tích dữ liệu, lip kế hoạch © Phintich dữ liệu lớn, da chiều
+© Hỗ tro automation, chatbot don giản © Lap trình, debug, viết code Ø Chiến luge, tu win cấp cao
+© Tao tai liệu, bio cáo chuyên nghiệp © Giải quyết vấn đề khó, phức tap
+í PHU HOP VÚI: Í PHU HOP vil: Vie PHU HOP VỚI: 1
+(Céing việc hang ngày, cần the độ Hau hết công việc hàng ngày Công vide quan trong. clin chất lượng
+và tiết kiệm chi phá | da ning & chuyên sia | | cao nhất & chiều su
+mmmrs NG DUNG THUC TẾ * m S Ó -
+CONTENT CODING Pann TIcH Al AGENT AUTOMATION RESEARCH
+= Bhi viết, blag - Wit code E rJf\ãn-\-'›cI:ul|'ĨI".lI.lIi... * Trgh do * Ty động hóa » Mghiên cou thy trưởng
+s Quảng cio * Debug i Bio ci, bau id - Tự động trả lời = K nổi AP1 = Phăn tich đối tha
++ Peng an x N eee cox © Insight & dy bảo + Hãtrgkháchhàng - + WerkEiow * Tổng hạn lài liệu
+* Kich bản vedeo + Tél uu thult toán » Excel, CSV SOL * Quytrinhthing minh » Tichhgopoingoy + Deep Research
+5DHHET / HAIKU SONNET í OPUS SONNET / OPUS. HAIKU / SOMMET HAIKU! SONNET SONNET / OPUS
+MEO CHON MODEL - .
+kũ à E- HỊ H
+@ c=s=ea.ee 26enee - \. NGUYEN TAC VANG
+3 Không co model tốt nhất =
+¬ Chen Senne :
+@ ee eee ee chi có model phù hop nhất!
+© Se ee ore .“ _ CHỤN DUNG CLAUDE — TANG NANG SUẤT
+© Khang ra? But đầu với Sonnet * TIE Un) CAN ATDIIN
+(eta năng wh tối ưu nhất] : a L
+MB HOC Ai - LAM CHO CONG NGHỆ - DAN DAU TƯỚNG LAI
+
+
+--- Trang 11 ---
+BAI 8 + KHOAHOC CLAUDETỪƯA-Z +
+„ „
+#08/30 HIEU CACH CLAUDE
+¬
+HOẠT ĐỌNG.. ¿
+@ myc TIỂU BAI Hoc F = +
+1 Hiệu bơ chế Chuới rhận và lỬ lý rên cầu Nim được cách Claude xử hy yêu cầu dif sử dụng hzậu qué hen
+LOẠ U I IÙ I CU ih
+° ka CLAUDE HOAT DONG NHI THE NAO?
+Ổ Hiệu khải ree ngữ clans sà bah nhớ hộc choc
+l EE u lớt ged Làng tod bệng nae rỠ C o ¬+ + Q + | + ~
+1. WHN YÊU ee 3. PIỂU peor CẢNH % Th« KIỂM THỚC ay Ue LA LUẬM STRAT
+(aes: gả times ka Be lathe phám bah gels reg, (iy erg a đư La: ‘Saag a, iy huận, biệt a Tb bết quid shrug, uit
+‘tie Chie, kiệu ý mh gi cae. nab kuyện eh E thống th pA hom sh a tes ca a
+HGỮ CANH (CONTEXT) LA Gl? CAC LOẠI YEU CAU CLAUDE HIỂU TOT
+Clam hí nhủ toặn hộ ước tat chuyện hiện tại để hiệu bối ari và HỘI pulp
+"Äưm s chủ trả lời phú hợp. (OU ii em Na WO: Clmace là gi? Lợi ách của Al
+thông b 0 een?
+Chine
+nhỏ những ber
+: SANG TAD NỆI DỤNG
+MBL aa Ghãu hại Aa gp Pmỡi bốt u . papas | ‘WEL ib deg, ic Be, We Viết biế bằng 8 Al tose
+email, caption _ :
+ÌCmìwnủwLMMdữ Pag cha cing 2, T L L T
+lb brik S càng cs ak Wee ths ble, pds eh, WD: Toes ube bảo coke rey.
+eb eae Pa seo ah, dts gái (Phin lịch dike mei
+Hi ry Ch by ib cP wa Ba
+Fiber bake ea cưệc trib chen LAP Tera & KỸ THT
+acm iy Ba a ahr os ale bản Í %) cnc unas <i>) Nhất covdla, uli WG. giả tics 'WD: Viết bien Python để
+vibe cức ml dang cối Rha tad ee Nu r.
+v muin z %
+„ LỈl.FI\'.ÍIIẢ|ĩ|IIIIlI1.I"\n\›b| E 0 oping
+: Up St hah, ll lược. 30ngày cha fanpage
+Á PRR 4 ere te ey tle Clana tt l gel
+rii dung chính hf giữi ngời cánh. gon gảng và biệu quả
+Quy TRINH XỬ LY YEU CẮU (BEN TROHG CLAUDE)
+oO PHẨM Ton YÊU cal © reise circdinoscn o Tenia KHẨU & SUY LUẬH o Tao KẾT CHIẢ ủ TO AM TOA
++ Xâp let cei chưêi + 1 i s nglckeh OO - » + Việngku Gà i >t ibn hae nae
+„ Mabie chận ý ole = Chie nh eli cÍ - Say ade, hiểt rll thống on » (Mm bodes 8 rier. erect Lee „ Lge mds dug nhuyy cil
+rich malit thing tin quan trong 9 Libp tl cae tik + ã chức koưyc chu tl os + (Diet dang phi hop ® Chang cấp chhủ tt: iba
+BO NHỚ HỘI THOM CLA CLAUDE CACH CLAUDE HIỂU BAN HON :
+-t)- MEO VÀNG.
+H nhấ ope thốn (ah chơg l cụ ể ịỡ-.
+Le s NEstspepepgen L rl me © Phẫn et 08 ràng ÿ muốn, cung cally tht tin,
+tuyện Ket c hoyện abe pl Ø Thông Te crue cities agra Hay ool d rdv
+lØ hhực mo rie B Cong cle ngữ cònh mit cộng sự Hating minh,
+( H 794 4 he ney hep (Che biểt ba cảnh, mee tik, chỗi tagng, dink dang mong matin. Ging hep ude tt
+Bn Hh yêu ces Cache © Gir via eg es : n
+rat Oleg rn n hờng © Dek dag n sản & Lei ne eRe ned
+Pras et EOP ies Bray er 1Ä dụ giúp (lmsds ha cắch ws bey can Ba.
+ErEnrirriesoti2n Ø Guytii Pa he be kh Limi roe meng del
+® Pres hồi l gin chant, “
+Oey: que WE) “Hãy gió abe chg bid neh Trac Ae, chẳnh lem cÍ gt alle quill tt mide i
+ha neh bởi ls cake Grid lời regis gon cd y cụ HH -
+hal bet carpal al, Cleat và Rein olny aleng be” t oO Te rang gehen rake
+(ab ars Hae had og ls bói (Claman củi Sl wu herder: khángg bie - Py kiểm tra wi ooke rrảnh. oe |
+CAC YEU TO ANH HƯỚNG GEN KET GUA
+Chín kượng prompt Higa cánh y đói Modal sử dựng Dib chet cưộc trở chayện Đời bạn khín Ehức
+Peter rah rảng a a Cag cl đ4 ble elie s mạnh aie peered pb bbe Chalke etary ope ol 0 thể (Chaat có giời hạn lf alles hehe
+m Ket all chai mee om (ikesis hiểu mlb ber, Halu ritanh l nha. (srs yield nhng ghd ib ib lit ve Wig 0d cheding tin The glee tha
+Doralihd bạn cưng cole
+Ie a] EP THES >) VIET PROMPT HIEU GUA - NGUYEN TAC CO BAN oh é
+Le BAI? lọc cách viết prompt ding dé Claude hiểu chinh xác tr xuất sẵc F ka
+
+
+--- Trang 12 ---
+20 NGUYÊN TẮC KỸ THUẬT PROMPT VỚI CLAUDE
+TỐI ƯU HÓA AI - NÂNG TẦM HIỆU QUẢ - DẪN ĐẦU TƯƠNG LAI
+
+SỨ MỆNH CỦA CHÚNG TÔI: AI HÔM NAY - LỢI THẾ NGÀY MAI
+- Prompt tốt hơn.
+- Câu trả lời chính xác hơn.
+- Kết quả vượt trội hơn.
+
+--- GIAI ĐOẠN 1 – TRƯỚC KHI RA PROMPT (CHẤT LƯỢNG ĐẦU VÀO) ---
+Xây nền tảng. Cho Claude mọi thứ cần thiết để thành công.
+
+1. RÕ RÀNG & TRỰC TIẾP
+Nói chính xác điều bạn muốn. Không vòng vo.
+- Prompt yếu (✗): Giúp tôi với vấn đề này.
+- Prompt mạnh (✓): Viết tóm tắt 5 ý chính của báo cáo về xu hướng AI trong năm 2024.
+
+2. CUNG CẤP NGỮ CẢNH
+Đưa bối cảnh, ràng buộc và mục tiêu ngay từ đầu.
+- Prompt yếu (✗): Viết một kế hoạch marketing.
+- Prompt mạnh (✓): Tôi là giám đốc marketing của công ty EdTech. Hãy lập kế hoạch marketing ra mắt khóa học AI trong 3 tháng tới.
+
+3. DỰA TRÊN DỮ LIỆU THỰC
+Cung cấp dữ liệu, tài liệu, ví dụ, số liệu.
+- Prompt yếu (✗): Phân tích xu hướng thị trường.
+- Prompt mạnh (✓): Dựa trên dữ liệu đính kèm (file, bảng số liệu), hãy phân tích xu hướng và nêu 3 insight quan trọng.
+
+4. ĐẶT RANH GIỚI RÕ RÀNG
+Xác định phạm vi, độ dài, định dạng, điều cần loại trừ.
+- Prompt yếu (✗): Viết về AI trong giáo dục.
+- Prompt mạnh (✓): Viết bài 800 chữ, theo cấu trúc: Mở bài – Thân bài – Kết luận. Không đề cập về robot.
+
+5. CÁ NHÂN HÓA YÊU CẦU
+Nêu mục tiêu, sở thích, ưu tiên hoặc tình huống.
+- Prompt yếu (✗): Cho tôi lời khuyên.
+- Prompt mạnh (✓): Tôi là người bận rộn, cần lời khuyên quản lý thời gian để học AI hiệu quả mỗi ngày.
+
+6. BAO GỒM NHỮNG GÌ BẠN ĐÃ THỬ
+Giúp Claude hiểu bạn đã thử gì để tránh lặp lại.
+- Prompt yếu (✗): Nó không hoạt động.
+- Prompt mạnh (✓): Tôi đã thử X, Y và Z (chi tiết) nhưng chưa hiệu quả. Giúp tôi tìm nguyên nhân và cách khắc phục.
+
+--- GIAI ĐOẠN 2 – CẤU TRÚC PROMPT (KIỂM SOÁT ĐẦU RA) ---
+Định hình phản hồi. Hướng dẫn Claude suy nghĩ và trả lời đúng trọng tâm.
+
+7. YÊU CẦU VÍ DỤ & TRƯỜNG HỢP
+Yêu cầu ví dụ cụ thể để minh họa rõ hơn.
+- Prompt yếu (✗): Ưu nhược điểm là gì?
+- Prompt mạnh (✓): Nêu ưu nhược điểm của chiến lược SEO, kèm ví dụ thực tế cho mỗi điểm.
+
+8. SỬ DỤNG CÔNG CỤ & DỮ LIỆU
+Yêu cầu bảng, code, công thức hoặc định dạng đầu ra cụ thể.
+- Prompt yếu (✗): Tóm tắt dữ liệu này.
+- Prompt mạnh (✓): Tóm tắt dữ liệu trong bảng thành biểu đồ và nhận xét xu hướng chính.
+
+9. KIỂM SOÁT ĐỊNH DẠNG
+Chỉ định rõ định dạng bạn cần.
+- Prompt yếu (✗): Lập kế hoạch cho tôi.
+- Prompt mạnh (✓): Lập kế hoạch theo dạng bảng với các cột: Mục tiêu – Hành động – Thời gian – Người phụ trách.
+
+10. ĐÓNG VAI NHÂN VẬT
+Để Claude nhập vai chuyên gia phù hợp.
+- Prompt yếu (✗): Giải thích chủ đề này.
+- Prompt mạnh (✓): Đóng vai chuyên gia chiến lược AI với 10 năm kinh nghiệm. Hãy tư vấn cho tôi.
+
+11. HƯỚNG DẪN GIỌNG VĂN
+Chỉ định giọng văn, phong cách: ngắn gọn, thân thiện, thuyết phục, chuyên nghiệp...
+- Prompt yếu (✗): Viết về chủ đề này.
+- Prompt mạnh (✓): Viết với giọng chuyên nghiệp, dễ hiểu, dành cho người không chuyên.
+
+12. TRÁNH XUNG ĐỘT TRONG PROMPT
+Không yêu cầu mâu thuẫn hoặc quá rộng.
+- Prompt yếu (✗): Viết ngắn gọn nhưng chi tiết mọi thứ.
+- Prompt mạnh (✓): Chọn 3 điểm quan trọng nhất và giải thích chi tiết.
+
+--- GIAI ĐOẠN 3 – SAU KHI NHẬN PHẢN HỒI (VÒNG LẶP TINH CHỈNH) ---
+Tinh chỉnh, thử thách và đào sâu kết quả.
+
+13. THỬ THÁCH & TINH CHỈNH
+Hỏi lại: còn gì thiếu? có thể cải thiện? điều chỉnh gì?
+- Prompt yếu (✗): Đây đã là tốt chưa?
+- Prompt mạnh (✓): Còn thiếu gì quan trọng? Làm sao để cải thiện hơn? Gợi ý 3 cách khác nhau.
+
+14. LẬP LẠI THEO LỚP
+Đi sâu hơn từng bước, không hỏi tất cả cùng lúc.
+- Prompt yếu (✗): Cho tôi mọi thứ về AI.
+- Prompt mạnh (✓): Trước tiên, giải thích tổng quan về AI. Sau đó, đi sâu vào ứng dụng trong doanh nghiệp.
+
+15. MỜI PHẢN BIỆN (PUSHBACK)
+Yêu cầu Claude đặt câu hỏi hoặc phản biện lại bạn.
+- Prompt yếu (✗): Đồng ý với kế hoạch này nhé.
+- Prompt mạnh (✓): Phản biện kế hoạch này. Những rủi ro, điểm yếu và giả định sai là gì?
+
+16. XÁC MINH & KIỂM TRA LẠI
+Yêu cầu nguồn, độ tin cậy và kiểm tra thông tin.
+- Prompt yếu (✗): Thông tin có chính xác không?
+- Prompt mạnh (✓): Xác minh thông tin và cung cấp nguồn tham khảo đáng tin cậy.
+
+--- GIAI ĐOẠN 4 – TƯ DUY HỆ THỐNG (TỐI ĐA NĂNG LỰC CLAUDE) ---
+Nghĩ lớn hơn. Xây hệ thống. Tạo đột phá.
+
+17. SO SÁNH & ĐÁNH GIÁ PHƯƠNG ÁN
+Học từ nhiều phương án để chọn lựa tối ưu.
+- Prompt yếu (✗): Cách nào tốt nhất?
+- Prompt mạnh (✓): So sánh 3 phương án A, B, C về chi phí, hiệu quả và rủi ro. Đề xuất phương án tối ưu.
+
+18. SỬ DỤNG RÀNG BUỘC NHƯ ĐỘNG LỰC SÁNG TẠO
+Ràng buộc giúp tạo ra kết quả sáng tạo hơn.
+- Prompt yếu (✗): Hãy sáng tạo.
+- Prompt mạnh (✓): Với ngân sách dưới 100 triệu VND, hãy đề xuất 3 chiến dịch marketing sáng tạo cho sản phẩm SaaS.
+
+19. TƯ DUY TÁCH BIỆT VS TỔNG HỢP
+Tách để phân tích sâu, tổng hợp để kết luận mạnh.
+- Prompt yếu (✗): Kết luận giúp tôi.
+- Prompt mạnh (✓): Bước 1: Phân tích vấn đề. Bước 2: Tổng hợp giải pháp. Bước 3: Kết luận & đề xuất.
+
+20. QUẢN LÝ NGỮ CẢNH HIỆU QUẢ
+Claude nhớ giới hạn. Bạn kiểm soát chất lượng.
+- Prompt yếu (✗): Tiếp tục từ trước đi.
+- Prompt mạnh (✓): Tóm tắt ngắn gọn nội dung đã trao đổi và tiếp tục với 5 điểm quan trọng tiếp theo.
+
+--- TƯ DUY CHUYÊN GIA KẾT QUẢ VƯỢT TRỘI ---
+- Rõ ràng trong yêu cầu
+- Chi tiết trong ngữ cảnh
+- Thông minh trong cấu trúc
+- Linh hoạt trong điều chỉnh
+- Hệ thống trong tư duy
+KỸ LUẬT HỎI - CHẤT LƯỢNG TRẢ LỜI
+
+
+--- Trang 13 ---
+Š KHOA HOC CLAUDE TỪ A - Z
+BÀI 10 : 3 Claude
+<5 CAC LOẠI PROMPT
+- - .
+mma THUONG DUNG
+sce hee Sử dung ding loại prompt giúp Claude hitu rõ ydu chu và trả li chinh xác, hữu ich hen,
+8 oe PROMPT LA GI?
+om hie qk bo Setar ee
+thời gian và tổi ua hết qu Al hiểu và tạp ra phản hồi phủ hợp.
+ị Chon ding loai prompt = Nhận ding kết qué ban muốn!
+10 LOẠI PROMPT THUONG DUNG & CACH SỬ DUNG
+1. CAU HO! GIẢI DẦP. 2. TOM TAT 3. VIẾT NOI DUNG 4. PHAN TÍCH 5. 50 SÁNH
+x B À Q ðJa
+Dairy điể Pb thông tin Diary ol ntere tile nội dong cll Dùng để bạp bởi viết, ernad, Dùng để phần tích dữ libs, Dùng để sợ kănh 2 hoặc
+chung. kiến thức, định ngưửa, hank ÿ chứi mgắn geen. bởi đăng, kích bản, rh a văn ii, tinh hướng nhiều AS) tượngg, aa chon,
+giải thích.
+Widy: Vike Vide V dụ: Vide
+Í “Tảmtitbkiviétass | | “Viết một bei blog "Phản tích điểm mạnh, | E
+. Pel thành 5 ÿ chính: và cách học Al hifw qa | | điểm yếu của chiến dich aly
+~ [din nội dung)” | che người mới lit. đấu." marketing này: [bir Bệu]" a Qv
+Muc đshc Tum hiểu nhành. Mục dache Tali khệm thêế gine, Myc dich: Tạo rd dung Myc dich: Habs shu. khục đách: Bare ra qual dan
+hiệu rã vấn để nắm nhanh thing t hash, chit lượng. dun ew innight, diya tnd ne alin,
+6. HƯỚNG DAN 7, BRAINSTORM 8.5ỦAĐỔI&CẢITHIỆNM  “®.LẬP KẾ HOẠCH 10, MO PHONG VAI TRO
+TUNG BƯỚC \
+= ÀẲ s
+v= % À-
+lùng dd ply chy hướng din Bing il to ý bưởng, Dòng để chin wis, cỗi than: Đùng để Lập bof hoạch, Đùng Of Clade dong wal
+chỉ tiệt, buản nye gol md aking tạo rei charey co ale bộ wink, chiến lược. "choyệm gia, nhưen xật cụ thé.
+Vide Vide Vide Vide Vide:
+"Hướng dike từng bus “Opi ý TỦ ý tường vides “ha lại doạn văn aaa “Lập kế hoạch 30 ngày “Qld dich ban là chuyền gis
+'cách lập tod hoạch esd dung YouTube wh cha dd cho ini chap và chuyên hee Al cho người mới rraerloeting, huby by wire chee
+he hiteh YouTube.” hee tip.” nghiệp hơn: [lin nội dụng]” (bila el” ‘dai chide Hhương hiệu ˆ
+Hie ach: Lien thee quy trie Mục địch: Kích Ehich, lg Be, Mie doch: Mhng ene chit kượng c Miye dike Tổ chức công vibe Mụt ich: Mhận bi boars
+JE dikes, không be ede ppd rộng ode rho win bi Apt rc u cthurpbn alu thee wai int.
+CACH CHON LOẠI PROMPT PHO HOP MAU PROMPT NHANH CHO TÔ LOẠI
+2 Ban chen thing tin? ¬* Dùng Clu hỏi gah din 1. Sy niái hich [chủ cil] mt cách don giảm, dễ hiểu "
+BB Ban cle nit gon nội dung? s Dùng Tá= tt #. “Tam tit nội dung sau thành [edi ý chink] ÿ chính: [nội dụng]”
+Ban cần viết nt dang? Ding Viết ni dung 3. "Vib Jloại nội dung] wd [ch BE] che [45 naseg)”
+QL Hạn cầ hiểu allen dh giá? Ding Phin ich 8. "Phin tích [vấn đề//d0 liệuutinh uding] và niệu inaight.”
+Sj5 Hạnckskrschaysgiữacdephaengin? sk Ding So neh 5. Se anh |) wa [B] theo các tiểu chế [Eiễu chỉ 1, 2 3..]”
+EEE) Bian che hướng dẫn chỉ te? Se Dăng Hướng dẫn từng bước 6 “Hướng dẫn ting bude cách [thục hain công vic]”
+TỨ Ber ele nhiệu ÿ tưởng? ¬ Gling Ersingiurm 7, “gi ý [ed koơng] ‡ tang về [chủ đãi)
+2% Ban clin chinks sửa nội dang? > Dung Sửa đối & obi thiện BL "Sữu lai dean sau cha |yễu chu| |nội dung)”
+CE Ban che phm. acheter? > Ding Lập bế hoạch 9. “Lig kể hoạch [mye tid] trong [thé gian] với các rước cụ the.”
+Ber cần bb khuyện chuyên gat =e Dang Mô phẩng v trở 10, “Gi dich bạn th [vad tr. blk tur win cho 4 về [rein a”
+X wr BÍ QUYẾT
+= Cheng cấp đây dù ngũ cánh và chỉ tiết khi vit prompt n :
+* Mẫu rõ mục tiểu. dil tượng, định dang mong muốn Ỹ I1"itỄ.dI'.1Il1I1Ihal`.lF"l1fITÌàỂ'tlÙ'Ii1"1i'lĩ'1l›'.i1'al't
+Ô ĩ a Ck Cal RAR s al Ma ak c H sẽ giúp ban khai thác tối da sức mạnh của Claudel
+- +
+prs THANH THAG 10 LOA) PROMPT — LAM VIEC THONG MINH, HIEU GUA VUOT TROI +
+
+
+--- Trang 14 ---
+¬ KHOA HOC CLAUDE TỪ A - Z
+BAI 11 ể : : af % Claude
+ue HOI DAP & TIM KIEM
+THONG TIN *
+[J Hiểu ets ina arr rà rg ¬ . L a a - - B .
+gp thing tin Cach dit cầu hoi đúng dé Claude hiểu rõ, tim đúng thing tin
+lễ hake và tra lỡi chính xác, day dd, hữu bch nhất.
+l Mhản được chu bh a le š m N
+là anche u HOI ĐẮP & TIM KIEM THONG TIN LA Gi?
+: Là việc ban đặt chu hồi hoặc yêu clu thang tin cho Claude,
+s — . Claude sẽ tim kiểm (trong đữ liệu đã hoc) va tổng hợp dé trả lỗi ban
+meft cach rõ ring, ding tin cậy wh hữu ich.
+VÌ SAO CAN HOI DUNG CACH?
+Claude hiểu đúng Thống fin chính xác Tiết kiệm thời gian Hhận thêm góc nhin,
+ÿ bạn, tr lời dking trong teen, và diy do hợn. tìm khẩm, nghiệm cửu. vị dy và g3i ý hÖu Fh,
+@ Fi rằng ã cụ thd Thing tin liên quan đến al?
+(Ciba dg nb ning, trắnh met hd, chung chung, P WHO) is : 4
+icy Thay wt “nh t là gf?" — “Kin tế học là GT ĩ dụ: Deanh nghiệp nhỏ, học sinh, nhà điều tu.
+1Z Cung cấp hối cảnh ffl Ban muốn biết gi?
+SSD Cho Clsexss alt bạn dang ely thang tin trong bối cánh nào. ¬ Vide: Khái nhệm, cách Lim, lợi ích, vi da.
+Vicks “Tai là sinh vain marketing, clin tin hidu wi SWOT.”
+@ Nou rã mục dich: eg Tại seo điều dd quan irony?
+Bạn mudin Claude giúc gi? Giải thith, to minh, fit kế...7 ¬ Vi dụ: Lý do, nguyên nhắn, tim quan bong.
+Vide "Hily giải thich nguyễn nhân và hu quad của lạm phat”
+Thời gian nao?
+OE iad vieirasteg denn lata Ot ¬ Viidu: Hiện tal, ediem 2024, trong 3 tháng edi...
+Ví dục “Tr A dưới sinh"
+wag hi tet E rEN a lI3dnI-Ịzir"\IIII"11`."`=IdFLn-sll›.-|uử|ul'iỈl111l
+c quan trụng ¬ Wi dụ: Việt mariceting, cording...
+@ Cling nhiều chủ tHe lên gguan, clu teh boi chng Ret. m T aad Ea
+Vike “Teong 5 như gần đây, tal Việt Mam.” ffl Cách thie, bước thực hiện?
+(7% Hii lại E đào sâu ~ Vi dự: Hướng dls, quy trnh, phương phiế...
+Boe Miều chu rd, hãy hỗi tiếp để Claude giải thích kỹ hoor.
+WmW1mhfmđmffl1'
+© siu nốn cos rir © cảuhối rốT HƠM TIEW CHI He CHUA TOT HỖITỐT
+v rn à Ø Hv v.
+kkarkgsong là gf? =* _,,`,.l.`lỊ..,.,...,f,.,ị"ìl1..l'l`i.ị',h;.Ở4`t|,`ỂF..."".,'I oe Sob rire % Maha, chongchung sf Bỗ rằng. cụ thể
+Cichwifteontenthayt - = ene ee EN ee ee eo Eo
+ñ AA mang lil những kại ch gì chọ cou nghiệp
+H igh ich gi? ¬ A H ae u ( oegeegin - X Oh} f Đáng như chu
+Phin tich Appt ¬+ 'ể'_t"b_`ỀI"b'f"'ỊI“`F"_fj':Ẻ_'“wrỈ_'._*lỀ`;:"ã_'Ị’_'ịhh"`° ee S 2 Beết thôi gian hội lại of Coca od 4 ngay
+Cáchdiutưchongkhodn? # G T T n n rEE T oan % hùng dựng nf? ig dụng can, thực tế
+bike đấu tA
+9 MẸO NHỎ KET LUAN
+ae ee iii 4 Đặt chu bedi ding là chia kháa để khai thắc tối da edie mạnh
+Bang tứ khóa ques trọng d Clnate tập trung tin kiểm
+Ù của Claude. Hãy rð ring = cụ thể = có bal cảnh - có myc dich,
+© Yau câu nguồi [nba cbs) Hilly cusg cấp rnguồn tham khán nba od" sl câu tri el chet | ‘has cabal
+6 BAT CAU HO! THONG MINH - NHAN CAU TRA LOI XUNG BANG! +
+Claude luôn sẵn sảng dé giúp ban hiểu rẻ mọi thot
+
+
+--- Trang 15 ---
+ˆ KHÓA HOC CLAUDE TU A - Z l
+BAI 12 ¿ . - 3& Claude
+C TÓM TẮT VAN BAN
+= =
+NHANH CHÓNG =
+1 Hiểu cách Claude ten thn Biển vin ban dai, tài liệu phức tap thành ede ý chính ngẫn gon, —
+el bu hiệu quả dé hiểu chi trong vai giây với Claude,
+c.] Miler được các meine độ
+beens phố hep TOM TAT LA Gi?
+© a EE GI Tarn te bh quá trình rút gon mdi dung dai thành ede ÿ chính quan trong nhấn,
+theo mục đich cụ thể giữ ngưyên théng tin cốt Ii, loại bd chi tiết thùn và trình bày ngắn gon,
+18 Ging dụng tien elit để tiểt mach lạc, dé hiểu.
+ee ư S are @ Claude giúp ban tém tất th lif, bài vit, báo cáo, sách, video... nhanh,
+chính sắc wh thee đúng yêu chu,
+KHI NAG NEN TOM TAT?
+GH ban clin nằm nhanh hd muyốn đạc hiểu MN chuẩn bị bebo cabo, Kh cin trích madit ý quan trong SON học tập, dn th
+nội dung chinh tải ệu dặi thuyết trinh t ra quyết inh hiệu quả hơn
+ol Sidu ngắn gen Rửi sa ÿ chính nhất, pall ora Ban muốn tim tt để làm gi?
+(1-2 edul tổng quan nhanh trám nhanh, hoo tho, báo cáo, ra quyết đinh...]
+WD: Tom ult babi vid trong ï chu.
+khuẩn bien A ngắn gon, trang bình
+eo Ngin gon Tae tit các ý chnhh quan trong hay chi gH?
+(2-5 gach du ding) thánh đạnh cách eager,
+X Teen ue bài viết trong 5 ÿ chănh, Trinh bay dang gach diy ding, đoạn vin,
+‘Tarn tlk thins một đoạn văn mạch lạc,
+9... cv ut hao in ản re hoi
+ie Tôm tit dbo cáo thành 1 dnan. N n T ế pte nhữm cụ thể (niu oo.
+Đua re prompt rố rhng dé Claude
+Oo - xzsz===- EEE es
+fete capt ih vực hoặc gác mihi og thd
+{De Chi sởm tắt pihlin fide quan in ‘vi DỤ Coee THỨC PROMPT:
+marhering. “Filip tm tit dogn văn bản tau trong 5 ÿ chinh,
+Sritth bảy dang gạch dik din. bap trung wiko các kợi beh chính."
+muc ĐÍCH PROMPT MAU RET QUA MONG BGI VÍ DỤ AP DỰNG
+“My tder bit dog văn bin sew trong ] clu Hiểu ngay Ý chính trong Tấm tit (be bản, œmadl ol
+Mien nhanh nội
+IS NG I G “Hãy ten bắt nội dung sau thành 5 ý chính Ghi nhớ nhach, ôn tập Tâm uit chương sách,
+db hiểu hiệu quik. bai giáng, Ubi Babu hoe tập...
+m H L “Hy tien tắt bdo cáo sau thie 1 doạn vin Boge tem tit mach lạc, Bản củo thing, báo cdo dự án,
+khoảng 150 tir.” doy. bio eds nghiện cou
+Trich xuất théing tin “Hậy fen elt phdin lire quan diện [chú 8] (Chi lấy nội dụng Tam tất phil marketing trong.
+trong văn bie sau." bain quan, chiến hược kinh doanh...
+S n E G L ê “Hilly tern elit và số adr 7 Lãi liệu tame Dé ding đối chiếu So ainh 3 phương dn,
+thănh bằng ngắn gen.” và hựa chon. # ein phẩm, 2 chiến lược...
+MEO DE TOM TAT TOT HOW UNG DUNG THỰC TE
+(Trance khí l ta, hãy xác định nỗ mục liện và cil tượng đọc. B Đọc nhanh eich, bio, te liệu nghiên cứu
+1 Cung cắp vin bản rising, diy 40 cho Claude. led Teng nap bio cao nhanh che stip, khách hing.
+(Yeu cấu độ dhi, dịnh dạng cụ thể để ết quid chánh xắc hơn.
+(© Hiểu vẫn bin qui dài, hãy chia nhà theo phẩn để tise tlt. ' Bi oe the, doth, làm bài hud hiệu a
+lễN Seu khí nen bắt, nde pe lại và yêu cầu Claude tinh chinh nếu olin. & Tiết kiệm thời gian = Thếg năng suất công việc mới raphy.
+. TOM GON - HIỂU NHANH — NHỚ LAU — LAM TOT HON rd :
+Claude giúp ban bide rl dung dài thánh giá trị trọng thm trong tích the! L
+
+
+--- Trang 16 ---
+ˆ KHÓA HOC CLAUDE TỪ A - Z
+BAI 13 : - s ¬ Claude
+#13/30 GIAI THICH KHAI NIEM
+
+- G
+& HOC TAP
+-
+6 oe Biển Claude thinh gia su Al giúp ben hiểu sâu kiển thức,
+hoe nhanh, nhd lau vi áp dung hiệu qua.
+l Học Eseo nhiểu mie de cách
+iii CLAUDE LA GI KHI HỌC TAP?
+Ø Gah cich Geter he tip,
+n ư Claude không chi trả lời edu hỏi, mà cin giúp ban hiểu ban chất vin dé,
+giải thich thee nhiều cách, dua vi dy ff hiểu và gợi ý cách hee hiệu qué.
+© Áp dơng Gade nhủ một
+iat cd nis Bas /* Hỏi dong cách - Claude sẽ day ban dang trong ten!
+CAC CACH GIẢI THICH KHAI NIỆM PHO BIEN
+T Gii Thich dan jibes 7. Gabi thách chị tiểt 30LUtháchbảngvidg - á 50 cành & bương phẩm 5 Ứng dụng thực l . Giãi thich whee cấp độ
+© Eì lal Sf @ al
+Gal thio ngắn om, Gai which dehy, củ hệ Bing ody thực a a lọ nănh với Icha riers Gall thre och dp dang abd thar 09 bản
+Gb hiẾu che nguười mớt thắng sẽ (huyền lia amend họa ib Palas, khỏc cB m nộ gại Kero: vio Dong ie, ote ating tiên dire cae
+LUU bait,
+
+a Pha hợp hit bạn amin Phe hợp kh bạn học Phù hợp bt: ban matin Ph hợp khế bạn rate:
+eae as hiểu khu và ey đó. thing thu tan, db nnh rcped ae bale “ding whe dẫu” học cd ih arin,
+chin. dung gurl du
+& Wika od khải niệm Hày ees 0 bạn ais Pe Ma, “Hãy giải phách [XHÁI MIỆM| cho [0d TLƯỰNG] theo cách [CÁCH GIẢI THÍCHỊ.
+
+We "bd thích khất ngm HO là gì Kêm wf dụ hye 12 và ckch ấp dụng vào [MỤC THEM]. Cuổi cùng, nde tất
+lại các ý chính giúp bối đễ giá nhé "
+
+Chen cách gáãi thích, (Chap cect bạn muốn Cluck gull thick,
+= - H T I | vioyprower |
+
+“Giuải thích khải rưệm Al là gi cho nguười mới belt dấu theo cách ddan giản,
+
+s Cine l “ 4
+
+Lal xeeeetoms l Scena 50 SU T n b n tins Batok if an
+Ø C thíh khải niệm Lài tp trong bhi chứnh cha học rs lệp à
+
+Ẹ Hiu muặc biểu học ge muốn hiệu dsp [P4 á 19 vhệc, nghiện cm kiệm vi d ã công thức dp dựng ˆ
+
+S I S G C E 9G s . “dhdd thith SOT là gi che rgười làm mairiogting, 26: Lhnh với các
+5 N G a G Wi PHPRIREEWEEEIEEEEPRPEEEEEENH ng Op phlin fh khác vd ru cách dp dụng che tế "
+
+ư “Gd thích khải niệm Blockrhain cho người không chuyên ,
+
+VEG of dụ ợC VỀ và cách er dưng ˆ 9 chin oc neh poh gh * — .
+
+(Coal cùng, Phau ade be igh geal gh neh, Gia thích khái ratte KEI trong quis trị đoanh nghiệp, hin ví dụ
+8 Wie ole ten lt ự
+Led mere ‘Vie en kất lại 3 ÿ chính” hae 18 và cách ley đựng KP hiệu quả "
+
+CLAUDE HO TRO HOC TAP NHƯ THE NAOT
+‘4
+aa # = Lesti
+
+'ữ4k thách đ hiểu Hạọc theo cách cửa bạn Wily thet BỂ phong ph Hã rợ Sos te Lệ brink học cã nhã= hd
+
+adie adie, c khôi (ily chink thes tinh ah, ‘Coad bạn Prodi ew pes clk Po, Bl Ee, tợi j bễ hoạch học tie
+
+Dasher gee, Pod iby vi a, vide gh hd, Fier, H hiệu guả
+
+Sane
+T ] ‘CLAUDE THONG THƯỜNG
+EW C3 HOG ven TỰ HOG © Ể E L H N ] \
+Gail thách. (Cab hiếu, nhiệu cách, Ứượo pear chu Khẻ hada rai t liệu pie: l. *
+©) Wu cầu vì dụ và Bến hệ thee HỀ. s l
+‘Wy rade a Phong pd, thực tl, gab get Fr Pode quả lý tuyểt : K rI
+Tương be Hcp nguy gi đâp thắc mắc Phi tìm tate nhiệu ngưễni 89 \ êu cầu bêm tlt & ghỉ chủ egile gon.
+‘Cai nhắn hỗa tiểu chính thac mục tiêu È trính d Bt ml dang chỗ it cb © Ôn tp định kỹ với ely bel trắc nghiệmÁ
+Tin đặ beer E định huưởng i rin nd ring Cobian onan, refi thot gian t.] Ap dung kiến chức vào bi the hoặc dr is thực ti
+BAI TAP THỰC HANH KẾT LUAN
+1 Chen một hdd rien bạn đang readin: hiểu. H L m
+atc eke 1s ‘Claude là gia aur Al buyện bl giúp bạm hiểu au, học nhani, nhờ Us
+3 TÊu ru Clute pill thích theo? cách khác nae. wel aps đung hiệu puch erage khển thức roeg học Ube và công wie
+4 E ole Lại ling Bd của bạm, - a F G
+5 Áp đụng vibe mộn is Baw thực bi Hỏi dang - Hee đúng - Hiểu abu - Wing dựng gid!
+đ HỢC MỢI THỨ NHANH HON, HIEU SAU HƠM VỚI CLAUDE = GIA SU AI CÚA, BAN! `+
+
+
+--- Trang 17 ---
+BÀI 312 KHÓA HỌC CLAUDE TỪ A - Z € Claude
+LAM VIEC VỚI re
+` L - ` EE
+= :
+> VAN BAN DAI N
+Lưu trữ - trích loc - tom tat - hiểu sau `
+siêu dễ dàng Ss
+Claude có thé doc hiểu, phan tich va - Gx -
+lam vide với cde vin ban dai nhự sách, x
+bio cáo, tai liệu nghiên cứu, hợp đồng... Iủ't '
+giúp ban tiết kiệm thời gian va hiểu sâu
+vain dé nhanh chong. _.. Ắ
+@ BANCO THE LAM Gi? - @Ø
+( Chia van ban lớn thành
+TOM TAT VAN BAN DAI NHANH CHONG các phần nhỏ dé Claude
+Rut gon nội dung chinh, nắm bắt ÿ cốt lối trong vai phút. xử hr hiệu quả hen. |
+a TRÍCH XUẤT THÔNG TIN QUAN TRỌNG @ Sop n đ i rit, |
+ấ a Ủ t r w |
+Tim kiếm dữ Bệu, 26 liệu, ý tưởng hoặc luận điểm quan treng. $0 sánh dé nhận kết qua
+, ñ | chính xác.
+PHAN TICH, GIẢI THÍCH NOI DUNG
+Hiểu sau ÿ nghĩa, lập luận, mối quan hệ giữa các phẩm. | e Cung cấp bối cảnh và |
+cau hỏi cy thé dé Claude
+© HOI DAP THEO NGỮ CẢNH fae Sg te oe |
+Đặt cầu hỏi về vin bản va nhận cau tra lai chinh xác theo nội dung. ( Yêu cầu dinh dang |
+5 - m kết qua: bảng, gach đầu
+SO SANH GIỮA CAC PHẨN/NỘI DUNG dang, sơ dé... dé dé đọc
+Đối chiểu, sọ sinh ede ÿ tưởng, quan điểm hoặc số liệu. va sử dụng.
+@ viDU PROMPT
+© “Hay tém tắt tài liệu này trong 5 ý chính” ư i n
+# "Trịích xuất các số liệu quan trong trong bao cao này,” —
+» “Phãn tich huận điểm chính va bang chứng được dua ra trong bai viet” —
+» "So sánh quan điểm của tác gid ở phần 1 va phần 2" m -
+» “Dựa trên nội dung trên, hay tra Idi cau hỏi: ...”
+H HIỂU NHANH - NHỚ LAU - UNG DUNG NGAY! a,
+CLAUDE GIUP BAN r Œ
+
+
+--- Trang 18 ---
+KHOA HOC CLAUDE TU A - Z
+15. % Claude
+AN Ti U LIEU
+PHAN TICH D :
+A BAO CAO
+VA BA yi ‘
+Bién dif liệu thành théng tin gia tri + a i | |
+Claude giúp ban doc hiểu, phân tich, trực quan héa rad A =
+dữ liệu va tạo báo cio chuyên nghiệp, hỗ trợ ra quyết | 7
+dink chinh xác và hiệu qua, eons — m
+@ BAN CO THE LAM Gi? : CACH DUNG CLAUDE HIEU QUA
+: CUNG CAP DỮ LIEU RO RANG
+QO ĐỌC HIỂU BANG $6 LIEU 1) ei tis n d E
+'Giải thich ý nghĩa dữ kệu, ede of, hing, chi số quan trong. hoặc din bang số liệu,
+o XÁC DINK MỤC TIEU PHAN TÍCH
+a PHAN TICH XU HƯỚNG & SƠ SANH INéy rõ bạn muốn Claude phiin bich điểu gi:
+Phát hiện xu hưởng, điểm tăng/giảm, so sinh theo thời doanh thu, hiệu sult, hành vị khách hàng .
+Shen, nhườn) n U : © esr cÁu hỏi cụ rE
+TÌM INSIGHT & CƠ HỘI so sánh, insight, khuyến nghị...
+Rit ra insight quan trong, co hội cdi thiện từ d lid, oO YEU CAU TRUC QUAN HOA
+hoặc téen tit tae: quan,
+i VIET BAO CAO CHUYEN NGHIEP @ 'Y®ucÁu sto cho HOAN cHins
+Tao bảo cáo rõ ring, loglc, có luận điểm wh khuyến nghị. ‘Yiu cfu viết bdo edo đấy dix tém tit, phin tích,
+kết huận va khuyến nghị.
+BUA RA KHUYẾN NGHỊ HANH BONG oe KIỂM TRA & TINH CHINH
+Dé xuất giải pháp, hành ding ey thé diva trên phân tich. Feb soát kết quả, yêu chy dibu chinh hoặc
+bo adu thin khi clin,
+all 4
+OC & TOM TAT DỮ LIEU PHAN TICH XU HƯỚNG 50 5ANH & INSIGHT VIET BẢO CAG
+“Hãy đọc file doanh số xlsx "Phin tích vụ hướng doanh th "So sinh hiệu suất giữa các “Viết bie cio hoàn chính dựa trận
+wi tom: tit ping điểm chink, theo thang. chim điểm ting khu vực, rút ra insight quan trong pin tich, bao gắm den tit,
+chi số quan trong” giảm và nguyên nhắn có thể ” và od hội cải thiện.” hit huận và khoyến nghị
+‘= MEO G KẾT QUÁ BAN NHAN ĐƯỢC
+© Dũ Eệu cing sạch, kết qui càng chinh xác E Bing tôm tit ủữ liệu rõ rng
+Š Đặt clu hdl rõ ring, ting hước đế có phần tich shu. :
+© Yeu chu mien họa bling bing, biểu 68 để đễ hiểu. Gt n Hhộ _
+© Lote yêu cầu khuyến nghị hành động cy thi, insight shu sắc & hilt luận logic
+© Kiếm tra số Biu quan trong trước khí ra quyết định. ị Khuyến nghi hành đồng oy thé, khả thi
+re BIEN DU LIEU THANH LỢI THE CẠNH TRANH CUNG CLAUDE!
+
+
+--- Trang 19 ---
+BAI KHOA HOC CLAUDE TU A - 7 % Claude
+1 bs Ế
+VIET CONTENT „
+Tao néi dung hap dan, đúng mục tiéu oo
+Claude giúp ban viết content chat lượng cao
+cho blog. bai PR, landing page. email marketing, Pe 3K
+mang xã hội... thy hot người dec và đạt mye tiêu
+truyền thông.
+\ XÁC BINH MUC TIỂU
+= VIET BAI BLOG, BAI PR 9 fổJ Bạn viết cho Bĩ? Mục tidu là gi?
+OY Bhi viết chuẩn SEO, cấu trie rõ rằng, mdi dung gid trị. (Ting nhận diện, bản hàng, giáo dye...)
+[2] CUNG CAP THONG TIN DAU VÀO
+VIET CAPTION, CONTENT MANG XA HỘI Cha ab. sin phinudich vu, đối tượng.
+Mgẫn gon, thu Init, pha hợp từng nắn tng. i thing điệp chính, you cầu đặc biệt.
+Ø «= LÊMDÀN Ÿ & CẤU TRÚC
+== Claude dé xuất outline phil hap vol
+© VIET EMAIL MARKETING THUYET PHUC | wraps Hãu và nguii dục.
+Taing ty lệ mở email va kich thich hành déng. a asin
++ Claude viết content diy di, mach lac,
+VIET KICH BAN VIDEO, PODCAST H (hu hút.
+Kich bin mach lac, giữ chân ngưười xemn/người nghe. ts] CHINH SỬA & TỔI ƯU
+0 ‘Yeu cầu Claude diệu chinh giọng vin,
+GIỮ GIONG VAN THUONG HIỆU ị ees
+Đúng tone & style, nhất quan với thương higu, Ø KIEM TRA & HOAN THIEN
+4 Đọc ini, kiểm tra logic: chính tả, tt u
+trước khi xuất bain
+‘> MEO HAY @ prompt MẪU
+; n
+(© Ndi rõ đối tượng & mye tiều ngay từ đầu. “Viet một bài blog khoáng 1200 chữ về chủ dé free
+lØ Cung clip wi dy về giọng vain bạn mong muốn. L đ “Lợi ích cua vide thiển mdi ngày?,
+: n s n - đối tượng la người mdi bất đầu.
+(© Yêu cầu tiều dé hấp dẫn trước khi viết nội dung. s ioc RANMA lhiện rã bla hag, 4
+@ Dùng từ khỏa chính nếu chin SEO, có cấu trúc gdm: md bai, lợi ich chinh,
+lØ Luôn yêu chu CTA rõ rằng ở cuối bai. `_Ự Ging dẫn bat đầu, kết luận va CTA”
+Q KET QUA BAN NHAN ĐƯỢC
+Hội dung chat kượng cao, Thu hút & gid chận Tang tương tic, Tiết kiệm thes gian, ‘Gilt giọng văn thương hiệu
+đúng myc tiêu đặc old chuyển ddl năng suất cao nhất quản
+Ợ NOI DUNG CHAT - TRUYEN THONG MANH ~ KET QUA BEN VUNG! te
+È dong hành cũng ban tao ra content dinh cao mdi ngãy
+
+
+--- Trang 20 ---
+ˆ
+BAI KHOA HOC CLAUDE TU A - Z * Claude
+174 BRAINSTORM _..
+~ l
+I.
+Ạ te
+Khai pha su sang tao - Không gidi han GIẢI PHÁP ĐỘT PHÁ
+Claude là ngưỡi ban đồng hành ly tưởng
+dé ban nghĩ khác, nghĩ rng va tạo ra 3
+những ÿ tưởng đặt phd che công vide, ~a ; \
+ự dn hay code sống. Œ- =,
+@ BAN CO THE LAM Gi? ‡ QUY TRINH BRAINSTORM VỚI CLAUDE
+Ý TƯỞNG KINH DOANH, SAN PHAM MAC BINH CHU BE
+Tim ÿ tưởng mdi cho win phẩm, dich vy hoặc md hình a @ Ban muốn brainsionn về vấn đề, dy dn
+lah dewnh tiden ruling). hay Geih vực ao?
+Ý TƯỞNG NOI DUNG, CHIEN DICH e 2. GUNG CAP THONG TIN BOI CANH
+BAT CAU HỎI GỢI MO SANG TAO o st YEU CAU CLAUDE BUA RA Ý TƯỜNG
+Điể Claude dum ra nhiều gécinhin và hudng di mới . 2 Yeu clu số lượng ÿ tưởng da dang.
+bạn chưa nghĩ 86%, không giới hạn subg tạo.
+MỞ RONG, KẾT HỢP Ý TƯỜNG Ø à_ PHAT TRIEN & MỞ RONG
+Kết hợp các ÿ tưởng khdc nhãu để tao ra giải pháp Yiu edu Claude mdi rệng, kết hap hoặc
+dot phd han. phải triển chi thết các ý tưởng tim năng.
+® LOC & CHON Ý TƯỞNG TOT NHẤT Ø Y LOC & BANH GIÁ
+Đảnh giá, po sắnh eth chọm ra ÿ tưởng khả the hiệu quik nhất. Yêu cầu Claude dánh gid ưu/nhược diểm,
+khả thi và chon ÿ hưởng tt nhất.
+ð Khang giới hạn ÿ bưởng - chewy nhiệu cảng bot © Hãy brnbnsborm 20 ý tưởng kinh deanh online wii
+© Dùng dich giá bhi dang brainstorm, tein chal 10 ki§u đẳng.
+© Dưa ra TẾ ý tưởng coment hip dẫn che bằnh TikTok
+ø “"_i""""""*i"*ỉ""²"i"""²*"""°Ỉ"ì""""""" diinh cho người mới bất du du tu,
+© Sử dụng chu hdl “Hếu...thì sao" dé md rồng. ®. Gọi ÿ By tưởng sản phẩm thin thie với mỗi trường
+© Yêu cu Claude dua ra ý tưởng điễn nd - to bao. cd tiểm năng tại Việt Mam.
+@ Saude mai lọc và chọn ÿ tưởng Ehực t, © Néu bạn là chuyên gia marketing, hãy dua rã 15 ý tưởng
+chiến dich quing ba cho mit ding dung học ngoại nat”
+@ KET QUA BAN NHAN ĐƯỢC
+Hhiều ÿ tuding sáng tạn, Gidi phảp mới rest, Tee kiệm thải gian DE dling chon lọc Thing khả năng thinh công:
+đệc dks khíc biệt mg tien kiểm T bưởng khả thi eho dự an
+re HAY BE CLAUDE TRO THÀNH ĐỐI TAC SANG TAO CUA BAN! CD,
+
+
+--- Trang 21 ---
+BAI KHÓA HỌC CLAUDE TỪ A - Z ae Claude
+ifs LAP KE HOẠCH
+a |
+= H ~*~ zx M
+Kế hoạch rõ rang - Hanh động dễ dang v * |
+* »
+Claude giúp ban xảy dựng ké hoạch chi tiết,
+khoa hoc va khả thidé dat myc tiéu nhanh
+hen, dễ dang hen. L
+@ BAN CO THE LAM Gi? } QUY TRINH LAP KE HOACH VỚI CLAUDE
+Mm KEHOACH NGÀY / TUẦN / THANG C <ỔÒ XÁC ĐỊNH MỤC TIỂU
+Ẻ Xây dựng lich trình Kam vide và học tập phd help O Niu rõ mye tiệu cần dat dug.
+với mye tity và thời gian của ban. (Myc tiệu cling cu thd, ke hoạch cling hiệu quải
+Là
+KE HOẠCH OV AN, SU KIEN Q PHAN TÍCH HIỆN TRANG
+Lip ké hoạch chi tiết từ A-Z, phân công nhiệm vy, Ee Đánh gid nguồn lực, thời gian, kỹ nding,
+theo dai tiến dd. khó khăn và cơ hội hiện có.
+LO TRINH HOC TAP. PHAT TRIEN BAN THAN 3) eam XÂY DUNG HẾ HOẠCH
+Thiết if l trình hoe tập, rèn huyện kỹ nding rõ ring, ư Cliude để xuất ki hoạch chi tiết: cong việc,
+do lường được, thal glen, nguồn lực, người pha trách.
+PHAN CHIA CONG VIỆC CHI TIẾT fat THỰC HIEN & THEO DÕI
+Chia nhỏ cing vite thành các bude cy thé, Triển khai theo kế hoạch, clip nhật tiến độ
+8 thực hain và thee dõi. thường xuyên.
+THEO DG! TIEN BO & ĐIỀU CHỈNH e (7% ĐÁNH GIÁ & ĐIỀU CHỈNH
+11’°“i°'"_`ilĩ"'_"Ể"“"*'*h"'i`*"'l'Ổ'“"²'r'õ""Ế"ỳ'Ể'“’it A Đánh giá hốt qua, nit kinh nghiệm và
+dabu chính Fiệu quả. itu chính kế hoạch khi cần.
+ỉ;) MEO HAY @® vÍ DỤ PROMPT GỢI Ý
+1Ø Mục tiệu nên SMART; Cy thể, Be kường được, i ley © “Hy lập bế hoạch hoc tiếng Anh trong 3 tháng cho người mới bắt dầu ˆ
+H oe i E C * = © “Lick hoạch ad chức một sự kiện offing 00 nggười trang 2 tháng ˆ
+@ VƯu tiền việc quan trọng - tập trung wie bết qui = © “Xilly dựng kế hoạch phát triển kiinh YouTube chi để công nghệ ”
+S CHa nhỏ cũng vibe ob ot bit alu wi duy l ding he © “Hãy giữp tôi lên b hoạch đọc 30 cuốn shen trong 1 nim
+1@ Luôn dy phòng rủi ro và phương an thay thé. © “Tyo hi hoạch kinh doanh online với win 10 triệu đồng “ wa
+Ø Dánh giá dich ky để cải chin bn bọc.
+© KẾT Qué BAN NHAN ĐƯỢC
+@ iv] afl B
+Kế hoạch nb ring, Tiết kik thời gian, Theo ddd tiến độ dé dàng, Ting khả nhng hoàn thành Ty bin và chủ ding
+ro] KE HOACH TOT HOM NAY - THANH CONG NGAY MAI!
+
+
+--- Trang 22 ---
+BAI KHOA HOC CLAUDE TU A - Z *% Claude
+1 9 I Ắ ¡
+=—[—-
+Ắ E==sr=zm
+H Hà = I
+NHANH CHONG & CHINH XAC J
+Hiểu nhanh - Nam gon - Ung dung ngay | - SUMMARy
+mt ¡
+Claude giúp ban tam tit moi loại vin ban .. .
+như bai viét, bao cao, tai liệu, sách... ee w n
+thành những ÿ chinh sue tích, đễ hiểu, - - .-
+tiểt kiệm thai gian va nắng cao hiỆu suất.
+@ BẠN CÓ THỂ LÀM GÌ? 4 Quy TRINH TOM TAT VOI CLAUDE
+1 TOM TAT BAT KỸ LOẠI VAN BAN o l CUMG CAP VAN BAN
+Bai viết, bảo cio, nghidn citu, hợp đồng, = Dain văn bản hoặt tal lên file (POF, DOCK,
+email, sich, tim tức... TXT) cắn tden tt.
+e XÁC BINH YEU CAU TOM TAT
+TOM TAT THEO ĐỘ DAI MONG MUỐN \ .. b dit ngắn /tungtink chi dk
+Tam tắt ngắn (3-5 ÿ}, trung bình hoặc chi tiết .¬ & 58} chính meng mud:
+thea như cẩu. - Mgón ngđ duly ra
+* Tập trung vio nội dung rio (niu cd)
+© oe ane C3] CLAUDE PHAN TICH VA XỬ LÝ
+EE net Bt thing ip oot l kạn & ‘Claude doc hiểu todn bộ vin bản, xác dinh
+quan trọng và bang chứng. ý chính, thông tin quan trọng.
+TRÍCH XUẤT DỮ LIỆU QUAN TRỌNG o TAO BAN TOM TAT
+Tim théng tin, số liệu, tên, ngày thing, sự kiện... Trinh bay tam tit ni rằng, mach lạc, dung
+mặt cách nhanh ching. | image thu bạn vêu cầu,
+. = 5 ] KIEM TRA & TOI ƯU
+TOM TAT DA sare ase - o Ban xem lai, yêu cầu điều chính để bản tim tt
+Tam tắt văn bin tiếng nước ngodi và chuyển
+1 : 'dạt chit lượng td nhl.
+ngữ sang tiếng Việt (hode ngược lai. Ọ
+E
+© Mie định rõ. mục liệu bàm te true khí puede Œ “Tom tit bài viết sau diy thánh 5 ý chính ngắn gon”
+. . # “Tám tie báo cdo này trong khoảng 200 từ, tip trung vho
+© Yêu chu Claude bặt bb theo gạch đầu dang dé dé theo dối kết quik và khuyến nghị ˆ
+lØ Với thể liệu dài, hãy de lle từng phan nỗi dig hợp lại. © "Hiy idm tit chueng 3 của cuốn sách này, nêu rộ luận điểm
+©) Dùng edu lệnh: “Tôm tắt với 5 ÿ chănh, mỗi ý không quid 20 tứ , ste à v( H hãi pa
+@ "Tôm !Ất thi liệu dow và krích nadie các số gu quan trong.”
+© Hu cần, yeu clu Claude tạo thik bằng biểu hoặc sơ dd, © “Tôm tit nội dang cute hop anu đây thành các hành đặng
+chính clin thực hate” u
+Q KET QUA BAN NHAN ĐƯỢC
+Ø Gai @
+THỂ hiệm thal giam Mim nhanh ý chins Ting khả nhng Hing cao Fiệu suất Bure ra guyết định
+gc bibs và thing tin quan trong ghi nha eps tập & m việc chink mic han
+rej DOC NHANH = HIỂU SAU - NAM GON Ý CHINH - -
+
+
+--- Trang 23 ---
+BAI KHOA HOC CLAUDE TU A - 7 M Claude
+20 Ế
+THUYET TRINH
+ƯTIN&ẤNTƯƠNG Ô ®
+TU TIN & AN TUONG „
+Truyền tai rõ rang - Két nối cam xúc - Tao anh hưởng Ỹ :
+Claude giúp ban chuẩn bị nội dung, cấu trúc slide,
+luyện tip va cải thiện ky nding thuyết trình dé
+thuyét phục va tao dn tượng mạnh mẽ,
+F
+-. ~ .
+@ BẠN CÓ THỂ LÀM GÌ? {;* QUY TRINH THUYẾT TRINH VOI CLAUDE
+Mm XAY DUNG NOI DUNG THUYẾT TRINH 1) Gh XÁC ĐỊNH MỤC TIỂU & ĐỐI TƯỢNG
+= Tyo din ÿ bố cục lagie, thing điệp rõ ring, ec
+citings Gong Mle: | Thang điệp chính edin truyền tai?
+= XÂY DỰNG NỘI DỤNG
+TAO SLIDE AN TƯỢNG 2 = ee a wpa
+Se ete Oe es ere phy. dẫn ching, số iệu.
+hỗ trợ truyền dat hiệu quả. .
+© THIET KE SLIDE
+LUYỆN TAP & KICH BAN EE] Ent xuất bố cục, tidy dd, hình ảnh, biểu đề,
+Tao kịch bin nói, edu mé đầu = kilt thúc, maw sắc phù hop.
+OSA. l |
+Saree (4) U LUYEN TAP & HOAN THIEN
+KE CHUYỆN & DAN DAT pcan ce luyện tip.
+Biến dữ liệu, ý tưởng thành edu chuyện | oi :
+hip dẫn, dé nba. is) CHUAN BI Q2A
+x : 9 Dy đuán chu hồi thudng gặp va get ÿ
+ai] XỬ LÝ TINH HUGNG câu trả kil thuyết phục.
+Chuẩn bj cu trả lời cho câu hdl khó, :
+và dtu gol hành động.
+‘Q: MEO HAY @ ví DỤ prompt HIỆU qua
+W H ree Ob es ee ee ee on rece mee oy lt © “Tạo din ý thuyết trình 10 phút về Al trong giáo dye”
+0 n T namin inca eb eh
+lØ Nỗi chịm - rõ = đùng trọng tien, # “Gợi ÿ thiết kế TỦ 28đ chờ bok thuyết trìnhh vỗ adn phẩm mới ~
+l Quan sất, tương tác và dặt cấu hỏi để kết nổi người gt, © “Dóng val khán giá và đặt 101 chu hỏi khó, tôi sẽ ord lới” n
+EU KẾtthức mạch rede Tes ut thắng điệp và kiu geod khnh đămg. # “tióp ý cách tinh bay để thunelt trình thu phực hon”
+ia cs đ
+G ‘an 4 PJ aul
+PURPOSE = MAC RICH PEOPLE - NGƯỜI NOHE PLAN - KEHOACH PRESENT = TRH PERSUADE = THUYET RHIC
+Bạn truÐ bdy dễ Lm gi? Hiểu bp dill nói chine điều boc, Hiệt cae re: lira, begin. Tự tin rằmg cuốn het Truyền cảm Pứng. tạo Piri horny,
+g THUYẾT TRINH HAY KHONG CHỈ LA NOI GIỎI,
+
+
+--- Trang 24 ---
+KHÓA HỌC CLAUDE TỪ A - Z 2 Claude
+NGHIÊN CUU &
+PHAN TICH DU LIEU | .— @ Il
+a. .
+L L ˆ - \ F
+Hiéu s4u - Phan tich chuẩn - Quyết dinh đúng .. _ L Mw,
+= Claude giúp ban nghiên edu thông tin nhanh ; n= ; =
+fal chéng, phin tich dữ liu chinh xác, rút rã ý Š a or
+insightful và bed trợ rã quyết định dựa trên dữ liệu. ¬—
+@ > BẠN CÓ THỂ LÀM GÌ? 1 avy TRINH NGHIÊN CỨU & PHAN TÍCH VOI CLAUDE
+TiM KIEM & TONG HOP THONG TIN 1) XÁC BINH MỤC TIEU NGHIEN GỬU
+MNghiễn cứu chủ dil, ting hợp thắng tin tir nhiều @ Bạạn che tim hiểu vấn dl git
+nguồn, trích xuất ý chính. Chu hỏi nghiên cửu là git
+*
+il) aa Le 4 _ . [2] s THU THAP & CUNG CAP DỮ LIEU
+tích bằng số liệu, phat hate au hướng, dữ thi bêu, bev mở tả nguồn
+$0 ade, tinh toán và giải thich kit qua. ao lesinalngg =
+#
+TRỰC QUAN HÓA DỮ LIỆU 9 PHAN TÍCH & XỬ LÝ DỮ LIEU
+tnnuIbir»ghn'uítr.bi4`:ddltcnạt.:r~uscn,ư›.rùl11g...:l Q làm sạch, phe log, tinh toán, 20 sánh,
+rỗ ring. db hiểu. phát hiện au hướng wh điểm nế bật,
+*
+H RUT RA INSIGHT & DE XUẤT . .
+Thesis Gua bones: cu hộL vale rã ã coll C4] il TRUC QUAN HOA KET QUA
+ait anidiinain: BENE Tyo bing bidu, biểu 48, intogrophic 46 tinh bày
+kết quả nd rằng, dễ hiểu,
+Ồ &GAM BAO CAO NGHIEN CỬỨU
+V/A bảo he, be a nghiên cứa 6 9 RUT RA INSIGHT & OE XUAT :
+ip, có cu tric. . Gadi thich ý nghĩa kết quả, rit ra insight quan trong
+| và để xuất giải pháp/chiến lược.
+DY BAO & KỊCH BAN sae :
+g Dự đoán xu phẩn tích kịch ban 6 ah ea eg Ù diva
+came
+Dt chu hỏi cụ thé, rõ rằng vẻ dữ liệu và mục liểu. : "Phin tich ding dữ liệu doanh thu theo thing wi chủ rã au hướng ˆ
+(© Cùng cầp dữ Bệu cảng dy dủ ¬ hide quả cảng chính xắc. @ "So tánh hiệu suất bun hàng giữa 3 khu vực trong quý 1.7
+Be gugok ee eee “Tyo biểu dd thể Hiện cơ cấu chi phi của công ty năm 2004."
+A Spr Bal ple ra lang a © “Dựa bin dữ fib, hãy db xuất 5 giải pháp tăng trường doses tha”
+i1.nJn.f\.le.íffunỂ:\nĨ.h.1\ũx:tií..daz..›1:.1-rni.luJ.-g›6f\.. © “Viết bdo ede nghiên edu thi trường nghnh FRB tại Việt Na”
+1 Lưu lại các insight quan trọng để áp dụng sane. # “Dự bảo doanh thu 6 thắng tới dựa trên dữ liệu hiện tại” u
+.lu:lỂ'r QUA BAN NHAN ĐƯỢC
+@ o B Ø
+Q, mul © g
+Hiểu sls vấn db, Phẫn tích chính xác. (OF liệu inéc quan, Inelgha giá Er}. (Béo cdo chuyên nghiệp, ‘Thing hiệu suất,
+thắng tin duly d phát hiện ny hưởng Si hiểu Sb xuất thiết thực ra quyết định nhanh tao lel thể cạnh tranh
+re] DỮ LIEU NGI = CLAUDE GIÚP BAN HIỂU - HANH BONG DAN LOI THANH CONG!"
+
+
+--- Trang 25 ---
+KHOA HOC CLAUDE TU A - Z *K Claude
+x a
+TRINH BAY &
+, e ..
+TAO SLIDE AN TUONG | te, =
+=
+Rõ rang = Hap dan = Thuyét phục — = pl,
+Claude giúp ban tao slide chuyén nghiệp, G =- — _ _- L
+[e] bé cue dep mắt, néi dung súc tính và truyền tải ¬x b .
+# thông diép hiệu qua trang mọi bai thuyết trình. — : u '
+@ BANCO THỂ LÀM GÌ? 4} GUY TRINH TAO SLIDE VỚI CLAUDE
+LEN DAN Ý & CAU TRUC BAI TRINH BAY 1] J XÁC ĐỊNH MỤC TIỂU & ĐỔI TƯỢNG
+“ay dựng cấu tric slide logic, bam sat mye tiều và @ Ban mad truyền tải điều gi?
+thing điệp chính. Hgười mghe là ai?
+L
+Ểí THIET KE NỘI DUNG SLIDE © LEN DAN Ý & CAU TRÚC
+Viết nội dung ngắn gon, sức tích, 8 hiểu, B Claude giúp ban xây dựng dan 9.
+phi hợp tung aide, chia nội dung thinn các phần chính.
+SN GỢI Ý BỐ CỤC & LAYOUT H .
+ffl Od xuất bef cục alice, vị tri tiệu dé, hành ảnh, © gL SOAN NOI DUNG TUNG SLIDE
+biểu 46, bullet point... Viết nội dung ngắn gon, làm nổi bật ý chính,
+ding bullet, số liệu, vi du.
+CHON & GỢI Ý HÌNH ANH, BIỂU ĐỒ ,
+Goi ý hình ảnh minh boa, biểu dé phir hee 6 THEM HINH ANH, BIEU ĐỒ
+48 tăng tinh brực quan. as | Goi ý hinh ảnh, biểu đổ, infographic
+= : ế m ĩ
+@ ĐỀ XUẤT FONT CHU & MAU SAC ! S N E ae
+f i - A
+ee T n n Ø THIET KE BO CYC & PHONG CÁCH
+Œ x®xusemienex
+TAO HIỆU UNG & CHUYỂN SLIDE font chi, hiệu ứng phir hyp.
+Goi ÿ hiệu ding, acimation và chuydn slide ,
+tình tố, chuyên nghiệp. Ø KIEM TRA & HOÀN THIEN
+KIEM TRA & TOI ƯU v Rà soát lỗi, tO) uu nội dung và hiệu ding
+Kiểm tra tinh: nhất nguàn, bi chính tả và tối ưu xuất file PowerPoint/Google Sidles.
+nội dung, bố cục.
+Ø (Adi dide chi thn trung 1 ý chinh, ` ! # „ Teo dân ý tide khuyết trình về 'Lợi ich của Al trong daach nghiệp ˆ
+Œ Dùng tiệu đề ngẫn gọn, ấn tượng. = - “Vile nội dung cho slide 2: “Thue trang ding dung Al tai Việt Mam.
+© Sử dung bullet poet thay cho đoạn vin dil. © "Gợi ý bố cục vh hình dink phù hợp che aide giới thiệu sản phil”
+ỊtT3*.'IỆír*’ni"ì°l'I'Ỉ“Ị`mÌ";'iLả°"rt“I:f1Ể'4ể'L'.of1'_ừ*h“' © “Teo biểu đồ cột số inh đoạnh tha 3 năm gin diy”
+n =
+© Dùng miu tương phần để lim nổi bật thông dip. s me Re ae ee care Ste eee oe a :
+© iit thie bling slide tom tt habe kêu gọi hành động © TOA Pl if Same inde leh nein oe A er be fees]
+5 NGUYEN TAC SLIDE AN TƯỢNG
+G © +, @ 2
+1, RÕ RẰNG 2 TRYC QUAN 2.008 Guin 4 NHAT QUẦM §. THUYẾT PHIM:
+Thing diệp ed rig, Hành ảnh, biệu đối Ìt chữ, bố cực gon gảng, Mibu lic, font chữ Nội chang giả trí, tao cảm rúc.
+ed Hey gin. ành họa girth diag. ip trung ÿ chănh. thống etait. thức dấy hárh động.
+ợ' SLIDE DEP KHONG CHI Ở HÌNH THỨC = MÀ Ở THONG ĐIỆP BAN TRUYEN TẢI!
+
+
+--- Trang 26 ---
+KHÓA HỌC CLAUDE TỪ A - Z * Claude
+DUNG Y & VIET NOI DUNG
+H . .. = i
+THUYET PHUC & HAP DAN @
+Logic — Thuyết phục - Cham cảm xúc - Giữ chân người doc r
+= i
+Claude giúp ban xây dying din ý mach lac, ¬ a
+- nd dung hấp din, thuyết phục va pha hợp 2 gi ae
+_ với myc tiêu cing như ddl tượng người dos, i x
+DING DAN Ý CHI TIẾT iT) Gh XÁC BINH MỤC TIỂU & ĐỘC GIA
+Xây dựng din y logic, aly đủ ý chính = ý phụ, C) Bạn viết để làm gi? (inhorm, persuadg, bản hing.)
+ngch lie và đễ triển khái, Ai là người dee mage tiệu?
+XAC BINH THONG BIỆP CHÍNH Q i= NGHIÊN CUU & THU THẬP Ÿ TƯƠNG
+Lắm rõ thông diệp edie Wo và mục Eiểu cửa bởi wide Claude get ÿ chủ cid. điểm nổi bot. góc nhìn
+để tập Rnung nội dg. và dữ liệu l quan.
+HIEU Od! TƯỢNG BOC GIA Ø + DUNG DAN Ý CHI TIẾT
+Pain tích abu elu, mối quuan Lâm, pain poini Chia bố cục: Ma bài = Thần bài = Kết bài
+Bb vide dng "dain chạm" và các ý chính - ÿ phụ.
+TAG HOOK AN TƯỢNG oO vA VIẾT BAN THAO NOI DUNG
+'Đẻ xuất mdi bhi hấp dẫn, thy hút và giữ chăn Petula triển ting phần theo dain , viết nd ring,
+người đọc ngay từ đầu. bogie và thuyết phục
+VIẾT HỘI DUNG THUYẾT PHỤC 5 ] wy THEM GIA TR] & CAM XỨC
+Phút triển ÿ lp luận chịt chế, dẫn chứng Bd sung wi dụ, cau chuyện, số lệu, trich din
+thuyết phục, giáu gid trị. GE tăng dé tin chy và cảm mds.
+THEM CAM XÚC & CAU CHUYỆN Ø Q KIEM TRA & TỔI ƯU
+Ling ghép storytelling, vi diy thực té df tăng Clade giúp ban rà aout: logic, nga pha,
+ebm xúc wh sự kết nối. ) mach lạc và ade thuyết phe.
+KET BÀI MANH ME - KEU GỌI HANH BONG 9 f' HOAN THIEN & XUẤT BAN
+Ting boll lấn tuding oh đưa ra CTA rỗ neg, Hodin than bad vkết, tối tu thhu did, meta, CTA
+khuyến khích heheh độmng và sẵn sing xuất ban,
+ợ MEO HAY Œ vÍ DỤ prompt HIỆU QUÁ
+be dâu bằng més cha hỏi, con số hoặc chy chuyện gây nb mộ © Vit dẫn ÿ chi tiểt cho bal blog chủ đề: “5 hợi ich của thiển mb ngầy”
+l Sử dụng cfu trúc "Wile đ = Gli pitch — Lod ich at sp | BG bượng:: requis mới bất điều ˆ
+© Ding ngôn ngữ den gián, gin giã và tập trung vào Ii ich. I © “viết bal bản hing giới thiệu kinda học online về kỹ năng giao tiếp,
+È : phong cách thuyết phục, dk STAN đăng bog:
+S C E E ra Sts Shin 008 ee © “Viết bai chia số kinh nghiệm du lịch Dà Lat 3 ngày 2 dêm, giọng vin
+(Gua rs bằng ching: số babu, nghiện cửu, ví dụ thực th thie thiện, nhiều gel ÿ Uhực tế”
+(Rit bài bằng thông điệp mand: + lel kệu gọi hành dộng rõ rằng. @ “Walt ermad Ehuyết pyc khách hing sử dụng dich vy của công ty tối
+w “viết bil Linkedin truyền ci hing i hãnh trình kdl nghiệpi” u
+CÁC YEU TỔ TAO NEN NOI DUNG HAP DAN
+LØ © 9 # n A
+The di thu hilt Heek din tượng Mai dung gid tri Cam xúc & kết nối Bling chứmg thuyết phúc CTA rd rhng
+Gaby bere, cide Gal chn gpa dos le gpg wiles a, Chee cen sức, oo BL wi dhụ, cls gk, Diabet hành dog
+Brung nhụ cen repay bử alli. Bata ra gb trị cự Bah. tap ey đồng chm, tríh die wry Bin. ey the
+o NOI DUNG HAY KHONG CHi NOI ĐIỀU BAN BIET,
+MA LA GIUP NGƯỜI DOC NHAN ĐƯỢC Ð !
+
+
+--- Trang 27 ---
+BAI KHOA HOC CLAUDE TỪ A - Z %* Claude
+2 INH SU, | :
+4 CHINH SUA & HOAN THIEN |
+` a s i F |
+BAI VIET CHUYEN NGHIEP | \
+- Ỉ i
+Rö rang - Mach lac - Thuyét phục - Dung myc tigu l a
+N ‘Claude giúp ban nding clip bai viết từ bin nhập es Em _-
+Ễl~ thành nội dung hoàn chinh, mach lạc, thuyết phục . — L z
+IP vii phi hop với mye tide sử dung. ee
+(@ BẠN CÓ THE LAM Gi? ; avy TRINH CHINH SỬA 8 HOAN THIEN VỚI CLAUDE
+CHINH SUA NGỮ PHAP & CHINH TA Ø XÁC BINH MỤC TIỂU
+Phat hiện và sửa lỗi ngữ pháp, chính th, ~Ề~'ơlì~'l~iII1r'-v-»cd't31uc?
+diy chu, lỗi dùng ti, Ee ee See ae R i
+5 _ H * Quọng văn & phòng cach meg ersten?
+LAM RO & RUT GON e BUA BAN THẢO CHO CLAUDE
+Diễn đạt lại cho rỗ ning, mech lac hen =] ae Nếi e
+habe nit gon ade tich mà văn giữ ÿ chink. + Mẫu nõ điểm cắn cải thiện (nếu ed).
+*
+© TANG TINH THUYET PHUC Ø Q PHAN TÍCH & NHAN DIỆN VAN DE
+Bổ sung kuận điểm, dẫn chứng, số Bệu, ă…w²hmừủẸỦủ-
+'ìlắIffl.l'lĩỈ'Ễ`Ì'.ll'lgl-E'l'C`Ỉr`Ií.IE|'Ỉ:lDÌ'l.pE. | a Xikc dink date ra & điểm clin chen.
+: o CHÍNH SỬA & CAI THIEN NOI DUNG
+DIEU CHINH GIỌNG VAN & PHONG CACH , A „ Sita Wi chinh th, ngữ phản, dấu cla
+Viết theo gigng chuyên nghiệp, thin thiện, + Diễn đạt lại rõ rằng, mach lạc hon.
+thuyết trình, hoe thuật, marketing. L + 8 pụng, wip xếp, tinh gon khi cần.
+oe TANG TINH THUYET PHUC
+& DIEU CHINH THEO ĐỐI TƯỢNG all + Bổ sung hưận điểm, din chứng, số liệu
+Toy chinh nội dung pha hep với độc giả, | * Thing sức hip dẫn và thuyết phục.
+ngănh nghề, mye tiệu truyền thẳng.
+Ö ee  DIÍUCHÌNHTHEO ĐỐI TƯỢNG & MỤC TIỂU
+ĐM BẢO MỤC TIÊU BAI VIẾT 4498 . ô uu gine vie dộ dt, mức độ chuyên sha
+Kiếm tra và Tối ưu để bài viết đạt chong i Den bis phen ree ae E6G:
+mige tiệu: thẳng tin, thuyết phục, hành đặng... Ø @ RA SOAT & HOAN THIEN CUGI
+= + Miểm tra ting thi: logic, mach lạc, nhất quiin.
+&) KIEM TRA TONG THE nua ae ache wares
+Rad godt cfu trúc, logic, mach lec và đưa
+ra gợi y hoàn thiện cuối cúng.
+@ vÍ DỤ PROMFPT HIỆU qua
+Ye MEO HAY i © Hy chinh sửa ngữ pháp, chinh tà và dấu clu cho bài viết sau."
+1Ø Nu nõ nvợc liệu vik tượng ngấy bử dl ` # eH làm rõ và it gon bài viến nhy mã vẫn giữ ý chính”
+c=] bog parler altel te hee Glee = s Hy viết lại bài rày thea glong chuyên nghiệp và thuyết nhục hon."
+Is.:.|l:.l-.lrun+u.e.-ul›il1clJ--rfu.aia£n\…iụịsưl…rnd.r.l:.e'l. “Hy bd sung số liệu, vi cig để tăng nức thuyết phys cho bài vide.”
+: Ret Ae ale bia [Hy điều chinh bil viết này phủ hop xới dl tượng là sinh vin.
+6 Boe Ipi tir gee bin cba Ate gil 6 high tra hig qui, L 11IJcrIln1hlE\\Bhũ.lnIfiỌnlà|liM-iẩl0ỂdI1chỉLhI£!f'lgln5lr›|IỈL` ga
+6 NGUYEN TAC BAI VIET CHUYEN NGHIEP
+Ø * zai * Á 9
+BO BẰNG MACH LAC PHU HỢP. THUYẾT PHI NHẤT QUAN CHINH XÁC
+Gila chữ rd ching, ‘Chu inde logic, ii dung phd hep Luda điểm mgrh, Ging lin, thubt ngữ Thông tin đứng, số babar
+2d hiểu, không mơ Ba. bn kết chật ebb. 48 bượng i mục tiệu xiẫn chứng sue thực. nhiềt quản xuyên audit. ‘dling tin lly.
+“ BAI VIET TOT KHONG CHI TRUYỀN BAT - MA CON TAO ANH HƯỚNG!
+
+
+--- Trang 28 ---
+KHÓA HỌC CLAUDE TỪ A - Z 3 Claude
+LÀM VIỆC VỚI FILE &
+TRÍCH XUẤT THONG TIN =F =a
+Tai lén = Phan tích - Trich xuất - Tém tat - Xuất két quả 229 . À
+loại file: doc, higu, phiin tich, trich xuất dữ lieu N x
+@ va tao ra ket quả hữu ich, : : €
+TAI LEN NHIỀU LOẠI FILE o TAI FILE LEN CLAUDE
+Hỗ trợ: POF, DORON, THT, CSV, Excel, & » Kio thé file vào khung chat hoặc chon biểu tượng a,
+PPTX, hình ảnh (JPG, PNG) và nhiều hơn. * Claude sẽ doc vi xử by nội dung fie.
+LÀ
+ĐỢC & HIỂU NGI DUNG C2] XÁC BINH MỤC TIEU
+Hidu nhanh mdi dusg fle, nim được ý chieh, Q » Hạn clin triểng try gf Ri ke
+chu tric và thing tin quan trong. » Trích xuất dữ Bệu, nim tắt, phận tích hay
+! 6 shin?
+Fi TRÍCH XUẤT DỮ LIỆU © C  9ẶrYÊu cÁu nõ RÀNG
+Lấy bằng biếu, số lỆu, danh sách, thông tin — x Mibu x thể nội dung cần lấy hoặc phân tich,
+edn thiết thes du cầu. + (Chi dich dinh dang kết qué mong muốn
+n s i (WD: bảng. bulles, báo cáo, tóm et 8p)
+PHAN TÍCH & 50 SANH
+Phun tich dữ B§u, so sănh các thing tin, oO CLAUDE PHAN TÍCH & TRÍCH XUẤT
+phait hiện xu hướng và điểm nổi bật. III » Qlude doc file, hiểu ngữ cảnh, xử by dữ liệu.
+Ắ s Trich soullt thẳng tin chính xác theo yeu clu.
+S TÓM TAT MỘI DUNG
+T tha rg gor, ich thes đị d Ø NHAN KET QUA & RA SOÁT
+ban » Xem bit quả, hide tra độ chink nie,
+l * Yiu cầu bd sung hoặc làm rõ nếu cần.
+TRA LỜI CAU HOI TUFILE re] ~ TINH CHỈNH & MỞ RONG
+Trả Hi cing Pedi chỉ tiểt dụa trêm nội dung, 7 - = Xiu cấu chỉnh sửa, phín tích au hem,
+‘trong file. sọ sánh, tom elit khác....
+TONG HOP & VIET Lal 4 « Claude tip tục bối uu hết qual.
+viết fal, diễn dạt lại nội dụng theo phong cách o 4 XUẤT & UNG DUNG KET QUA
+ro ring, chuyên nghiệp hơn. L = Xuất kết qui ra định dang ph hop.
+XUẤT KET QUA TIEN LOI - ee ee ee Ha ech,
+Xuất ra dang bang. bullet, bao cdo, email, -
+hế hoạch, shde wh nhiều định dang khác.
+S Meo ny
+lØ OS apo they rÕ keg trước kee pu chy Clot. % i # „ “Tôm tht file này trong TƠ ý chinh.”
+Wh du og thể: trích meal gh phẩn ticks gi, torr tilt bao nhiệu b - ! “Trích nuất tất cả off liệu doanh thu thes ting quý và tạo bằng ”
+VO) beng dữ Bệu: pil chu xuấi ra dạng bằng dé dễ doo » "5Ợ gánh điểm ghống wh khác nha gala 2 beg trongg file.”
+© VỚI Me dit yêu cha then tin hee bing phin hoặc theo chủ đề. © "Phận tich wu hướng doanh a8 và dua ra whe xột ”
+Paap nhiệu Hie: Chace och ad ec int ch ting be, © “Trả lờối các clu hỏi sau diya trên nội dung brong fle...”
+@ Lode kiểm ire và nic chận ating th qn tợng © “viết lại nội dung này ngắn gọn wh dé Hiểu hon”
+. Yêu chủ dink dang phù hop với nêu cầu nit dng, © “The bdo củo ngiền từ ri dues trong Tile nhy ffl
+CAC LOẠI FILE CLAUDE HO TRO
+l
+B m E w BS
+POF DOCX xLSXICSV PPTX TXT Hise ANH RHÉC
+Gon, ben iL ich lt Habe nội ung trhình n Phản per đÙ a L Trich muận mội hang eich, đọ eh Wen LL (Oo et ing de ge ech Phiệu diet dạng te
+‘meme, fbr tes rab ps, thers tala, inden, bath đội m Li aha fe, trả Bid oti: hội. thea Rh, pT đội hb heme Ahora
+r CLAUDE - TRO LY BAC LUC GIUP BAN LAM CHU MOI LOẠI FILE đ
+
+
+--- Trang 29 ---
+BAI KHOA HOC CLAUDE TU A - 7 > Claude
+717%) NGHIEN CUU & PHAN TÍCH
+AP & TONG HOP THONG
+THU THAP & TONG HOP THONG TIN & onl
+Tim kiếm - Banh gid - Phan tich - Tang hợp - Trinh bay ‘|
+Ñ Claude giứp ban thu thập, pin tich, đánh giá vi = _.. t .
+EA tổng hợp thing tin tir nhiều nguồn dé hỗ trợ học tip, v : — x
+nghiên cửu và ra quyết định hiệu qui. m L
+(@} BAN CÚ THỂ LAM Gi? ‡ guy TRINH NGHIEN CỨU & PHAN TICH VỚI CLAUDE
+TÌM KIẾM & THU THẬP THONG TIN 0 XÁC BINH MỤC TIEU NGHIEM CỨU
+Tim kiếm theing tin từ nhiều nguồn đáng tin chy G * Bạn muốn tìm Piểu điều ge?
+vib chủ db ban quan tien, * Chu hỏi nghidn cứu là gi?
+LÀ
+BANH GIA NGUGN THONG TIN C2] Q THU THAP THONG TIN
+Xác định độ tin ey, tính chính xác và mức độ > Ten iệm l Fiiệu nguồn khác nba
+cậo nhật của nguốn. | » lƯu thin nguồn uy tin, clip obit.
+© PHAN TÍCH & SO SANH 9 g IE'JiLì`JII'Gẹl...Ể5L<jnP1lỉ"lỀ-.""I.;JJ1f :
+ñ ã 1 * Nguuồn ng tin khẳmg?
+Phan tich dữ liệu, ý kiện, quan diểm khác nhau.
+So sinh điểm d wh khác biệt | s Théng tin od chính xác, khách quan kháng?
+o PHAN TICH & 50 SANH
+XÁC BINH XU HƯỚNG & MỐI LIÊN HE ll * Pháa tích nặi dung, 08 Bi, quan điểm,
+Mhận diện xu hướng, nguyễn nhẫn, the dộng + Se sánh, di chiếu điểm ghống và khác.
+và mỗi aa hệ gira các vếu tố. :
+6 * TONG HOP THONG TIN
+TONG HGP & RUT RA KET LUẬN * Chọn lọc thông tin quan trọng.
+Tổng hop thing tin quan trọng vi nit ra : « Tổng hợp theo chủ di, ý chỉnh.
+hilt luận bogie, rõ rằng. G =] RUT RA KET LUẬN
+LAP BAO CÁO & TOM TAT r Heke Papa ota ì
+Tạo bao cao, ban tden tit ngắn gon, abe biel, L s N đ
+dễ hiệu. oO g TRINH BAY KET QUA
+ũ E - Viết báo củo, tôm tắt bodke thuyết trình.
+ĐƯA RA GO Ý & GIẢI PHÁP «Tih dẫn và gid pguin đây dị,
+Dề xuất giải pháp, khuyến nghi dựa trêm Hà
+HY H B â @ RA SOAT & HOAN THIEN
+TRICH DAN & GHINGUGN * Kiếm tra logic, tinh nik quin, chinh bé.
+Hỗ trợ ghi chủ, trích dẫn và liệt kẽ nguồn = Hoàn thiện vẽ chuẩn bi để sit ching.
+theo các chuẩn (APA, MLA, Harvard ..
+4 ự
+l Đặt chu hội nghiện cửu rõ ring. cy the - # “Mghiện cửu về tie động của Al đến gide dục wh tổng hợp bảo các”
+Ø %0ngMEMia drach inn # “Sa sánh uu và nhược điểm của ning lượng mit tél, và gid.”
+© Luôn kiểm tra độ tin cậy và ngẫy cập nhật cba nguồn. # "Phin tich nguyên nhắn và giải pháp che ð nhiệm không khi ở Hà Bde”
+& GHhả chủ thing tin quan trọng để dễ bing hợp: @ “Tổng hợp các xu hướng mariceting 2024 và trình bay băng so sánh. ~
+© ly chs Gv are ing ily 3 G ã ne piel, © “Viết báo cáo 1500 từ về bin đổi khí hậu, có trích đẫn nguồn”
+l Ding Claucte kiểm tra byl logic và kết Dulin trước khí hoàn thiện. # “Tôm tit 5 bài nghiên cửu khoa hoe wh chế dd ăn kiêng Keto a
+cone cu HỖ TRO NGHIÊN GỨU HỮU ÍCH
+# .. ¬ @ @i0ECD Ww Z
+Google Scholar Pubiied $thts Norkd Dank Data OCD Library Nhkoigepdas Eaters
+Ter healers Bode eke (Cv ad dữ kệu y inh 58 bệu Uhống ba me hội Bis các š pA bch Tổxg quan nhanh, (ket X tal ha
+khoa hor, học Phuận ding tin chy Bing tin cy trán chu leh tế - rã hội haem dic ban dla trích dll nguồi
+- NGHIEN CỨU THONG MINH = PHAN TICH SAU SAC = QUYẾT BINH CHINH XAC! \
+
+
+--- Trang 30 ---
+BÀI KHOA HOC CLAUDE TU A - Z % Claude
+2 i
+Ja TAO & TRINH BAY /
+bed . .
+PRESENTATION CHUYÊN NGHIỆP | ee all
+- N
+Y tưởng - Cau trúc - Nội dung - Thiết kế - Trinh bay == o !
+Claude giúp ban tạo lide din tượng, nội dung logic, - > I
+Ẹ thiét kế dep mat va by tin trùnh bay trước moi đối hượng. — .Ệ S Ps
+P Từ ÿ tưởng đến bài trình bay hoàn chinh, 2 4 i
+@ BAN CO THE LAM Gi? 4 QUY TRINH TAO PRESENTATION VỚI CLAUDE
+LEN Ý TƯỞNG & XÁC ĐỊNH CHU DE Ø «wo XÁC ĐỊNH MỤC TIÊU & ĐỔI TƯỢNG
+Goi ý chủ dé hấp dẫn, phi hop myc tidy @: » Bạn muốn truyền thi thông điệp gi?
+vi tượng mgười xem. ¡ = Đối tượng người xem Ub ai?
+XÂY DING DAN Ý & CẤU TRÚC @ .—  LENÝ TƯỞNG & DẪN Ý
+Teo din ÿ kogie: mà du - nội dung - kit hiện, .— . x Claude gol ý chủ dt, ý tung chính.
+chia charcrgy! phen n rằrng. | ~ Xây dựng dân ý tổng thể cho buh trình nay
+I SOAM NOI DUNG SLIDE
+vis ull diana woh EC (3) =] SOAN NOI DUNG CHI TIẾT
+trong then, dễ hiểu che tung slide. # Viết nội dung cha ting phidin/side.
+H = Đảm bdo ngắn gọn, nỗ inking, koglc.
+TAO BIỂU BO & MINH HOA .
+Goi ý loại biểu dé phu hợp, mé tả cách o' I THIET KE SLIDE
+trình bay số Eậu, ý bưởng mink hoa, all s Goi ý bố cực, mau sắc, font chấi.
+¬ : : s xt xuất hình ảnh, icon, biểu dé pho hợp,
+GỢI Ý HÌNH ANH & ICON
+Bi xuất hình ảnh, biểu tượng phd hep Cs] ad KỊCH BAN THUYET TRINH
+chủ dé và thing điệp. - Viết BA khuyết (rink cho ting alice,
++ Goi ý cách mở đầu, bét thie din tượng.
+GỂJ› THIET KE & BO CLIC SLIDE :
+Gal ÿ bố eye, mau sắc, font chữ, phong cách o RA SOAT & HOAN THIEN
+‘thiét kế chuyên nghiệp, @
++ Kiếm tra tink logic, nhất quan, chính th
+KICH BAN THUYET TRINH l + Te uu khẳng dbp và thoết hể,
+Viết speaker notes (ghả cha người nda),
+mở du và kết thúc dn tượng 9 4  XUẤTFILE & TRINH BAY
+CHINH SUA & HOAN THIEN Lt Bult PPTX, POF hoặc Google Stes.
+Gap ÿ edi thiện nội dung, bố cục, ngôn ngữ ˆ Tự tín trình bày và tượng the.
+và tinh thuyết phục của bal trinh bảy,
+Hướng diẫn xuất fle PowerPoint, POF # “Hãy gol ý 10 chủ đề prepertation vi marketing cho sinh vin”
+hoặc Google Slides và chin sb hiệu qui, © “Lập dàn ý chi tiết cho bal thuyết trình về trị tusk nhân tạo
+© “Viết nội dung che dike 3 về xu hung thị trường năm 2024 ”
+Je epi ¬- ~ L . “EIỗ sult baju 48 phù hợp để os cánh đognh ad 3 năm gần đây”
+. 92 C A teat Pa, ail ples ; - - © "Gol ÿ bố cục wh màu alle cho prcesentasion cha ab giáo dye.
++ Prop ep alg frmagi pipers y © “Viết kịch bản thuyết trình cho bài giềm 15 which.”
+Œ Ching gay the deb: bối dab dimasalide, ð tũ/hông @ "Gp ý cách cải thiện glide này- [ddin nội chang hoạc ond tả] ” ụ
+Ø Tap luyện trước khi trình bay,
+!Ø Kat thức bằng thing điập manh mặ, -
+CONG CU HỖ TRO TẠO & TRINH BAY
+PowerPoint ‘Google Sides Cana Beoutibul.al Prei Tome
+Phdkes robes trin bảy Trin aber cattle Thuêt bib rel hee Tạo tar bu d ng, Tah bày pie buyyển Bi Fah retardation bles al
+phố biến nia đ 052 ad bho beenplate phóng phe 31 hỗ rợ thiết ế hiệu ứng inh động ab dng Idee mứnh
+re) Ý TƯỞNG RO RANG = SLIDE AN TƯỢNG = TRINH BAY TU TIN = THANH CONG THUYẾT PHUC! ,
+
+
+--- Trang 31 ---
+BAI KHOA HOC CLAUDE TU A - Z %* Claude
+2 8 QUAN LY DU AN & CONG VIEC
+LAP KE HOACH & THEO DOI TIEN ĐỘ
+Ké hoạch - Phan công - Theo dõi - Điều chỉnh - Hoan thanh |
+Claude giúp ban lập kế hoạch dự án, phân chia u -
+Fre căng vide, thea dõi tiến độ, phan tích rửi ro wa m - 7
+đưa ra giải pháp dé dự dn thanh công. m . _ SN 4
+@ BẠN CÓ THỂ LÀM GÌ? ! QUY TRINH QUAN LY DU AN VỚI CLAUDE
+B LAP KE HOACH DU AN C1) XÁC BINH MUC TIEU DU AM
+Xác định mic tiệu, phạm vi, thới gian, G „ Dy dn nhằm dat được điều git
+rguồn byte và các me quan trọng. : s Tiểu chi thănh công là gi?
+PHAN CHIA CONG VIEC C2] =] LAP KE HOACH TONG THE
+Chia nid công vibe, gần nhiệm wy cho - Mie dinh pham vi, thời gian, nglin sách.
+thành viên phù hop, xác dinh thời han. H = Liệt bob các giai đoạn vi mic quan trong.
+TAO LO TRINH & TIEN BO (3) @,@ PHAN CHIA & GIAO VIEC
+Xây dung timeline, Gantt chaet, ta s Chia nhỏ công vibe thes giai đoạn.
+kanban hoặc checklhzt chi tiết. M « (Gin người phy trách wa thời han.
+THEO DO! & CAP NHẬT TIEN ĐỘ o fs) XÂY DỰNG LO TRINH & CONG CY
+Kiểm tra tinh trang ofing việc, [Es] = Teo timoling ý Gant | Kanban ý Checklist,
+cặp nhật kết quả và % hoàn thành. M * Chen công cu phù hợp để quan fy.
+PHAN TÍCH RỦI RO 0 Q THEO DOI & CAP NHẬT
+Hhận diện rủi ro, đánh gid tắc động * Theo dõi tiến dS thực tế từng công vide.
+và dé xuất biện pháp giảm thiếu. " » Cp nhật % hoàn thành vi ghi chú.
+BẢO CAO & DASHBOARD 0 A NHAN DIỆN & QUAN LY RUIRO
+Teo bebo cáo tiến độ, biểu đổ trực quan, . Mike định pire ed thể xây rạ.
+tổng hợp sé liệu nhanh chóng. Là * Bd xuất giki pháp phing ngưa/khắc phục.
+GIÁO TIEP & PHOI HỢP o lI BAO CAO & TRUYEN THONG
+Scan email, thông báo, bin bin hop, L « Tyo bdo cáo tiển độ định kỳ.
+cặp nhật cho nhềm Là = Cập nhật và thắng bio che các bin in quan
+Ô ĐIỀU CHINH & TOI ƯU 0 fa DIEU kite KE a
+Dé xuất điều chính kế h, tổi K # » So sánh bi hoạch B thực t
+pias weak iia hg u † * Gaby chink nguồn lực, thời gian khí cin.
+9 ĐÁNH GIA & TONG KET Ø N 1, TONG KET
+Binh giá hilt quả, bhi hee hính nghiệm, s gud 26 với mye tiệu.
+dua ra đ xuất che dự din thếp thes, * Hút kinh nghiệm và lưu tài liệu dự den.
+BAS Là pret tbo nd dling v do hướng) dae bì ae „ “Lip kế hoạch chi tiie cho ghự din md cửa hig ch phd trong J thang, ˆ
+pape T treba a = "Chin nf công việc và lận timeline cho chiến cịch marketing 2 thing.”
+© Cập nhật tiến dễ thudeg xuyển. * "Teo bing theo dd tiển de dự n theo dang Kandxan, "
+l Glo tip minh bach, kịc than. 5 "FF.in theh nl vo và để xuấn giãi pdip cho dự dn pioản edn
+@ Linke dy phteng Ùi rọ à ob păeNg n Bi, œ “việt báo cáo tiến độ dy din bain năy.”
+lØ Rt thức mỗi giai đoạn băng việc đánh giá il tiệm, w “Dễ xuất cách tối ưu nguồn lực để hoàn thánh dự din đúng hạn.”
+CONG CU HO TRO QUAN LÝ DY AN
+ Trello és Asana Notion © Clickup ữ amo E Slack
+Gude by công whe tập kế Prager, 'Quuản lý dir es, hake bp công why Mecrovoft Propect Google Workspace tiao tiếp & phi heap
+bap Karis pein oor B then de oe & v a Binh rue Lip bể hoạch Lưu Ort), cg lke Pier Peau Qa
+chayểện nls wih chan ế
+yr?) QUAN LÝ HIEU QUA - THEO DỐI CHAT CHE - HOAN THÀNH XUAT SAC! \
+
+
+--- Trang 32 ---
+BAI KHOA HOC CLAUDE TỪ A - Z ae Claude
+29 MARKETING & TRUYEN THONG | «»
+LEN KE HOACH & TAO NOI DUNG HIỆU QUA} . all
+Nghién cửu = Chiến lược = Mội dung = Kênh = Bo lưỡng = Tối ưu
+Claude giúp ban nghién cửu thi trường, xây dựng n a"
+chiến luge marketing. tac nội dung sdng tạo, i 3K . ;
+lập kế hoạch truyền thang vi do luting hiệu qua, : ae B s .
+để dot myc tity kinh doanh, C——— = - :
+© BAN CO THE LAM Gi? ! QUY TRINH MARKETING VỚI CLAUDE
+NGHIEN CUU THI TRUONG 1] XÁC BINH MỤC TIEU
+Phan tich thi trưởng, xu harang, dối thi, G s Ban muốn dat kết quả gi?
+khách hàng mục tiệu 1 * KPI quan trong nbuit là gi?
+PHAN TICH KHACH HANG e NGHIEN COU & PHAN TÍCH
+iy dựng chin dung khách hang (person), Q » Nghiên cửu thi trường, đối thủ, xu hướng.
+hành vi, như cấu, insight. i + Phân tich khách hàng mye tiệu.
+a) XÂY DỰNG CHIEN LƯỢC o 4 XÂY DUNG CHIEN LƯỢC
+L v. L nm „
+n H „ Chon phiến hrợc ph hop mye iu.
+Ỹ
+AM Lin KE HOẠCH MARKETING
+Xy kg hoạch theo giại đoạn, phẩn ibd ngắn sách, o LÊN KE HOACH TONG THE
+nguỗn hực và timeline. + Lip timeline, hoạt démg, ngắn sách.
+1 + Phin công công việc, nguồn hic.
+TAO NOI DUNG SANG TAO s
+0 Wilt bi, slogan, tiệu đề, kịch bản widen, 9 Ị TAO NOI DUNG & Ý TƯỜNG
+email, thing điệp quảng cic... * Tạo nội dung aiding teo cho ting kénh,
+l. Là » Thiết kế thông điệp, hình deh, CTA
+LEN Ý TƯỞNG CAMPAIGN Ễ
+Bb xuất ÿ tưởng chiến dich die đáo, e qt TRIEN KHAI & PHAN PHỔI
+chi để, hoat động, minigame... » Ding thi nội dung ding kônh, dang thời dam,
+(x4) CHON KENH & PHAN PHỐI T = Chey n rn Foe Ả n c PF
+Tu vấn kếnh phủ hap: Facebook, TikTok, i
+Email, SEO, PR, KOLs, Ade... 7) il re LONG ta BAO CAO
+L » Thee đối KPH, phân tích ad Bou.
+LAP LICH NỘI DUNG. H * Báo cáo kết quả choến dich
+Lập content csöanddas, bế hoạch ding bài
+thes nghy/tuẩn/tháng. g© | tốiƯus ĐiÊu cHỈNH
+BO LƯỜNG & PHAN TÍCH + Bein giá điểm mạnh, điểm ya
+Phe tích RPM, hiệu sult chide GEA, H + Điều chính chiến lược và nội dung.
+báo cáo hit qui © Sa RUT KINH NGHIỆM & NHAN RONG
+TO ƯU & CẢI TIEN + Rút bài học che chiến dich sau.
+Đề xuất giải pháp cal thiện, tối ưụ HƠI + Md rộng mã hình thành công.
+va nding cao hiệu qua,
+© Cun elpcing ebiu tng tn, Chaat cdr haa vl get Hho. le ®. "Hghiên cữu 09 trun (des pen) và phn sich 3 cae thủ cha
+Lass pa mises A ear Ae - ĩ`l;.iiyIin`ÀfuưuẸ'hđ"chl-unrqúulehrủ-q~q;:lndulcr»1lừuphEln|.-
+0 đụng Ereweerori: BVT, STR AP US, AID, l kược marketing & thing cho [thương hiệu] ˆ
+(Yu chu Clade duties nhiễn phaiong dn đ ia chon, © "Viết 10 Funding. carmpaige sing tạo co dip [uự atin)”
+(GD RL Pore đÙ kệu thee để ag độ chsh ae @ “Lip bbl hoạch nội dung thiieg tới eho hinh Facebok ˆ
+Bo lưỡng thường nude để kã ưu Bs ye # "Welt kinh bận vickeg quảng cis: 30 giấy che fede phẩm] ˆ ụ
+# “Phăn tich chỉ số và đ xuấn cách củá thiận biệu Gud oh địch ”
+œ . CÔNG CỤ HG TRO MARKETING & TRUYEN THONG
+a € &
+Quảng cab Phán th dl Thad kế Pare n ae | thuản lý Pưngg sã hội S4O kphán tithe (Chali iy Oa Paget
+xguản lý Oba abe ene hs à d ờng : A mmm tate dỡi tù. n ương
+ợ CHIEN LƯỢC RO RANG = Nod DUNG AN TƯỢNG = TRIEN KHAI HIỆU GUA = KET QUA VƯỢT TRO
+
+
+--- Trang 33 ---
+BÀI KHÓA HỌC CLAUDE TỪ A - Z % Claude
+” H H `
+3 0 CHAM SOC KHACH HANG & CRM |="
+any = =
+ˆ H a „ H at rj 1248 =
+XÂY DUNG TRAI NGHIEM KHACH HANG XUAT SAC es
+Thấu hiểu - Kết nốổi - Hỗ trợ - Giữ chan - Phat triển : hd }
+Claude giúp ban xây dung quy trình chăm ade tte ¡
+khách hing chuyên nghiệp, quản by thing tin hiệu quả __ .- Š t N
+wh tạo trải nghiệm tuyệt voi để gid chan & phat triển — com ee,
+khách hàng Wh db =<
+(Ø BẠN CÓ THE LÀM GÌ? ! QUY TRINH CHAM SOC KHÁCH HANG VỚI CLAUDE
+QUAN LY THONG TIN KHACH HANG C7] THY THẬP & LƯU TRỮ THONG TIN
+Linu i, ghẩn koại và Cặp: rie thônng Bin khách hằng ằ © Thu thip thống tin tử nhiều kẽnh.
+dry độ, chính xắc. | ® Lưu trữ vào CRM an toàn, đây đủ
+THẤU HIEU & PHAN LOẠI KHÁCH HANG e PHAN TÍCH & PHAN LOẠI
+Hiểu nhu chu, hành wi, sở thích để cá nhân hóa Q « Philo tich hành vi, lịch sử mua hing.
+trải nghiệm, ‡ © Phin koại theo nhóm, như cau, gid tri.
+® HO TRỢ & GIẢI QUYẾT VAN DE Ø ® KET NOI & TƯ WAN
+eases see %“. z Chủ động itn hệ, chibo hỏi, tur viin
+O .. n i * Lắng nghe và di xuất gi pháp phù hợp.
+GIAO TIEP DA KẼNH m
+© Erna, điện thoại, chat, mạng xã hội. o id3 HO TRO & XU LY yeu CAU
+sera bs vinnie, * Tiếp nhận yêu chu nhanh chóng
+H « (Giải guyết thn then, ding cam ket.
+XÂY DUNG CHƯƠNG TRINH KHACH HANG e
+Tích điểm, ws Abi, quả tặng để khuyến khách v. CHAM SOC & TAO TRAI HGHIỆM
+rv lại và gu thiệu. * Gửi thing tin hữu ich, wu dl phù hop,
+M s Too trải mghiệm cá nhận hồa.
+BO LƯỜNG & ĐẲNH GIÁ HÃI LỎNG :
+Kibo ait, NPS, COAT để de lường mie độ CG ] £ % THEODỖI & DUY TR] MỐI QUAN HE
+hãi lözzg và cải thiện. chy vụ. L I + Theo đềi dou ban hàng, hỏi thăm định ky.
+= Ghi nhận ghẩn fbi v chi thiệm.
+CHAM SỐC SAU BAN HANG u :
+Theo a sau mus, hướng dẫn sử dụng, 7) a GIỮ CHAN & KHEN THƯỜNG
+chăm pes: fis bey, = Tigh điểm, uu dll aah nhật, trí bn,
+@ GIỮ CHAN & TANG GIA TRI KHÁCH HANG Ỹ * Khuyến khích khách hàng giời thiệu thm,
+peed, cross-tgl, chương triưn khách hàng thân thiết,
+gs ane te] all BO LUONG & PHAN TICH
+» Bo kương sự hai keg [CSAT, MIPS).
+@ BẢO CÁO & PHAN Tick DỮ LIỆU t + Phân tích dữ liệu để tối vụ dich vụ.
+uk oo ro ] rv) TỔI UU & PHAT TRIỀN
+: « Cãi thiện quy tinh & trải nghiệm,
+© BAO MAT & GUYEN RIENG TƯ * Phát triển khách hằng trung thành & giá trị cas.
+Bảo vệ thông cis khách hàn¿, tule he
+Quy định vi char vácP bho ei, s
+JáL- MEO HAY Sue "Phd tách Rishi mua hàng và phảên hoại khách hàng theo giá trị ˆ
+# “viết ømadl chien ude khiẩch: Pu sau khi hing”
+: Rihana eae cee ae - à © "The kịch ban tư vấn che hich hing cas teed phẩm K^
+Ling nghm BOK, nôi 2, & "Soge tis nhs brị dks ainh riba khách ding.”
+TØ Gab quyết Uiện dể ngạy nyt dy, * “XÂy dựng chương tinh khách Ihieg than thiết J cấp, —
+!Ø GA nhậm eb căm on khôch lrg ® “Đố muất RP chim sóc khách hing và cách do hing”
+E a n n n sv rte te ga
+CÔNG cy HO TRO CRM & CHAM 56C KHACH HANG
+HubSgdt = GE zenocnm - (mseoek => 4 đ vssene - Chattuel By cose roms
+(Cid widen Seek kets Red Hepat bea F . Berea (rad maton L H eda hs ấP
+——— (Linh Ppt, a hệm ‘Thea, char n sia ok eon ed khăch hàng Tự động hes Facebook, ee (pede Pol a eg
+
+
+--- Trang 34 ---
+x CLAUDE CO-WORK ®: '
+F
+Claude LAM VIỆC THONG MINH ~ TANG NANG SUẤT - TAO GIA TRI VƯỢT TRỘI | ~ all  f
+10 TRANG TINH GON = UNG DUNG THỰC CHIEN = DE HỌC DE LAM - ae
+1) cLAUDE CO-WORK LA ci? 2 ] GLAUDE HO TRỢ ĐƯỢC Giz 3 ) WORKFLOW LAM VIỆC Vol CLAUDE
+© Ciavde Co-Wherk li cich bạn Viết & soạn thio: email, béo cán, bài viết, oO @ ĐẶT MỤC TIỂU
+Men ihe Seg Chemie ah fa contend, kịch bie. Xho dịnh rð ban clin gi, kết quả mong muốn.
+, = n ¡ |
+— mentees Ra tA 89I nee gl iid a © GIÁO VIỆC CHO CLAUDE
+ae ° aes ah: Hghiên cửu & tìm kiểm: th trường, dl tha, 1991420817 20 a
+Ẹ sath hhh: sige chin he au hướng. ÿ tưởng. Ễ Ø NHẬH KET QUA & KIỂM TRA
+Be B Lập kể hoạch & tổ chức: công việc, dự án, Dige, đẳnh gid và chon phần phi hop.
+N _ % |
+Ẻ fi E ngàn3iorm & sáng tạoc ft i pip, w
+__ 5 J Wf Theg năng sult Tho) chiles lược đột phá | Vi ci i sin Et mn a a
+Gin sai act Ty động hôa: tạo checkin, SOP, kiểu mẫn, Ei @ HOAN THIEN & CNG DỤNG
+of Tip trang vào vide quan trong, | ‘template, công thức.. S dụng kết qué wh tiếp tue cải tiến,
+Claude không thay bạn = Clauele giúp bam lien tit hen! Lập lại quy tinh = Ket qual ngày elng chất beg!
+4 ) PROMPT HIEU QUA CHO CONG VIEC 5 ) ELAUDE CHO DAN VAN PHONG 6 ) CLAUDE CHO MARKETING & CONTENT
+'ÔNG THỨC PROMPT VNG. vinự EMAIL: soạn email chuyên nghiệp, lịch et, 'CDMTEMT SOCLAL: bil ding Facebook, Zak,
+pee) thayit phục. HN Linkedin, TikTok.
+WAI TRỢ Bạn là phyên gia marioeting
+S n s rdv või BO nd kinh nghiệm, a MEETING NOTE: tâm uit ede hon, BLOG & SEO: viết bài chuẩn SEQ,
+a Hãy viết bài uảng củo trịch xuấ ÿ chinh, wetion itera. Sal) outline, mots deseripsion..
+Dect gm Se eee BAO CAO: tao bảo cáo nhanh, rõ rằng, @ 'QUẢNG CAD: tiêu 8, mô th, nội dung ads
+- HGỮ GĂNH thuyết phục, ins gol hành động — cdấy d đứ liệu. Facebook, Googie, TR&TOk .
+oe TThông tin n quand) nanh and, B KE HOACH: lập kế hoạch tulin/thangydy dn, Oo HIGH BAN WIDEO: script YouTube, TikTok,
+yeu chy CHITIẾT chi tiết. wideo ngắn, livestream
+J RE dare, hag . 8 SOP & CHIECKLIST: xảy quy trình, checklist Ý TƯỞMG: tee concent, campign, mới dung
+@ AU RA MÔNG MUSH Las babes công việc chuẩn chinh. I theo cha af, trend.
+See oe . u Vain phang nhg nhằng - Géng việc trôi chảy! Tao nội dung nhanh — Hay ~ Dũng insight!
+7 ) CLAUDE CHO SALES & CSKH 9 ) 20 PROMPT MANH NHẤT (GỢI Ý)
+| KỊCH BAN SALE: kịch bắn eu vấn, chốn sale, XỬ LY EXCEL/CSW: đọc. phin tiệh, lØ Viết bài quảng cle lØ Viết bảo cho KPI
+xử by objections, aad lin doch OU Bậu, (© Vidt content bắn bằng © Phan tích đử Eiệu Excel
+[| CHAM S00 KHACH HANG: teh Boi khách, B PHAN TICH MPI: doanh số, trafic, hiệu sudit, (© Viết email chốt don © Tạc slide nội dung
+email follow-up, tin nhiin, "chủ phd, lợi nhuận © Kịch ban tự vấn © Vide ms th ain phẩm
+| CRM & DATA KH: phẩn lngi khách hằng, @ BAG GAO TY DONG: tao bdo cdo nhanh, © Tém tất thi liệu dài lØ Viết quảng cio Facebook Ads
+ghi cha, lich sử tung tác. biểu đồ, nhận xét. !Ø Lập kế hoạch markating lØ Kich bin video ngân
+B FOLLOW-UP: nhắc lich, chim sóc sau mua, 8 INSIGHT: phát Fiện xư hướng, win đề,. 1Ø Phin tích đếi tha @ Brainstoem ÿ tường
+tps mối quan hệ. eo hội phat triển, E) Ý tưởng bad viết K Vidtow SEO
+B XỬ LÝ TỪ CHỐI: ghận hỗi kháo léo, @ ĐẼ XUẤT HANH BONG: gol ý giải pháp © Viết SOP / Quy trìmh lØ Ted Wi khách hang khó
+chuyén đềi khách hing. due tba Borg, lØ Tạo choekliat công việc © Vide plan content thing
+Hiiu khách hàng = Ting chuyển cbf = Giữ chain lu oli Dữ liệu khủng chỉ là số = Dữ liệu là cơ hội! Ding ding prompt = Claude trả bi nhu ban mong muốn!.
+10) xÂY HE THONG AI CO-WORK CA NHAN
+1, XÂY Al ASSESTANT RIÊNG 3. TY ĐỒNG HOA GONG VIỆ: 3. QUAN LY GÔNG WEG THONG MINH , LIÊN KET GÔNG CY 8. LỘ TRÌMH NẴNG GAD
+Hsin huyện Cinde bila Bae - Tự động toạn emal ~ Lập kế hoych a Claude + Google Sheets + Hige mdi ngày a
+<WNighnts nghỗ, mục tify - Ty động bo cáo. = Theo didi tiến eh Bore + Cal + Cobencier + Thực hành liên tục @
+- Gượng vie, phòng eich uỦ - Ty đặng thane OCPD = Ulu tiện công việc , —- Notion « Trelis + CRM_ .
+- Quy trie, ei bệu riêng - - Ty động ate wit - Ti ưu ha glans c L n : '.'..
+bp FP Y= | DBMB | 1-3 Ý
+. Tạo giá trị lớn hơn s
+We Œ Œ (
+bg CLAUDE CO-WORK - DONG HANH CUNG BAN TRONGMOICONG VIỆC | LAM VIỆC THONG MINH HOW - SONG HIỆU QUAHON-THANH CONG HON! =
+
+
+--- Trang 35 ---
+a 2 CLAUDE CO-WORK SERIES 2 Claude
+all iz ~
+lài nr if m
+= N- an
+= \ ⁄
+TRO LY Al DONG HANH CUNG BAN | * (
+TRONG MOI CONG VIỆC .
+—
+L
+Q CLAUDE CO-WORK LA Gi? : =
+Claude Co-Work là cach ban lam viée cling Q Ñ - '-u_._ .< xm
+Claude - Al thông minh, hiểu ngữ cảnh va ; VÌ SAO NEN CO-WORK VOI CLAUDE?
+déng hành như một cdng sự thực thy.
+Claude không chi tra lời, ma can phan tích, 6) TIẾT KIỆM THO! GIAN
+dé xuất, sáng tao va giúp ban hoàn thành Tang tốc công vide gấp nhiều lan với Al,
+eng việc nhanh hen, tốt hon.
+TÄ NG SUẤT
+l Nhân viên vin phòng, quản ly __ SANG TAO KHONG GIGI HAN
+q@ Marketer, Content Creator =. ua ra ý tưởng mdi, góc nhin da chiéu.
+fii Sales, Cham sóc khách hang s s t
+ee n Y CHÍNH XÁC & DANG TIN CAY
+Shia Sian AnaC es Phin tích dữ liệu, lập luận logic, rõ rang.
+& Freelancer, Chủ doanh nghiệp
+@ Bất ky ai muốn lam việc thông minh han! ai PHAT TRIEN BAN THAN
+all Hee nhanh hen, hiểu sau hon mỗi ngày.
+Fr == Gop
+[4 [al] i aon
+VIET & SANG TAO PHAN TÍCH & EMAIL&GIAOTIẾP OUANLTALAPKEHOACH NGHIÊNCỨU&HOCTẬP  TỰỰ BONG HOA
+Bài viết, kich ban, BAO CÁO Sogn email, trả bi, Ké hoạch, timeling, Tom tất, tra edu, T ưu quy trink,
+‘content, ÿ tưởng.... Dữ Bệu, biểu dé, did xuất, Églkow-=Up... checklist, SOF. hoe nhanh, hiểu sdu... workflow, template...
+ingightt, bebo cáo...
+Claude khéng thay ban - Claude giúp ban lam tét han!
+
+
+--- Trang 36 ---
+~
+Ũ Ì?
+. - Ĩ Ầ \ $ s
+- = ñ B ˆ .. u Ị L ‘3
+Tro ly Al da nang = Ho trợ ban trong moi khia cạnh céng việc ì Ù 5 -
+Ểf-
+* Í
+¬
+Be
+&
+© veresomnmio ( Phásriensi r (Z) nowtvcive  (#) 1iPkEPans r cuore
+XỬ LÝ of LIỆU Thee HOP QUAN LY CÔMG VIỆC HO TRO KHÁCH HANG
+— = =
+> v s z v= Ele
+: lle = =@ &
+- Viết bi, ema, bảo củo - Phin tích dữ Bậu, số Babu "Tìmkiếm,nghiênsửuihdngiin s Lập Bế hoạch, timeline * Sogn email, tin hin
+* Soạn thesia Bde chuyện nghiệp * Tạo bide di, bie biểu » Tổng hợp tii liệu, bão cáo » Tae checkiiat, SOP Tei b khách hàng chuyên nghiệp
+- Viết gi dụng sing tạo - Tôm tất, rữt ra inaaght + Tôm tit nội dung dãi ¬ Gino việc, theo đối tiến độ 1 Xữ lý tnh N ng, khiếu ng
+i diye Vidụ: vidụ: ‘wl dye vidu:
+“Wille email xin hợp tác “Phin tích file Excel dear “Blom tắt 20 trang tal tides “Lip ted hse triển khai “Sogn tin nhắm phản hd
+với Si tác về dap he mới ” số và dưa ra nhận nit" thành 5 trang mgd gọn - s kiện trong # tuận ” khách hing khẳng hill bing ˆ
+( ssersosaoae GY nememes - ( ndmgsmes ổ (uuysuinvicuon (Ï) TvÐ0Nosdk:
+TO wt i Hop's. LAM VIỆC aur
+~ œ ⁄
+9 ad: (Ø r L
+L
+a Gralnstorm ÿ fling « Viến quảng cần, mS th $E: + Viết kịch bản bản hằng. * Tôm tắt cuộc hep «Tao template, quy trin
+¬ Wit coment, hịch Baker * Lin chide dich mariueting * aren chếi, phan ai * GN chủ, action items * Hỗ trợ tich hợp công ow
+= DBE tản, slegan, concept + Phin eich đềi thủ, thị trường + Tạ thì Bệu châo hing + Chun bị aiid, Eậu + Thing hiệu pt tom wie
+Vid: Vide Vidụ: Wi dig Widu:
+“Gợi ý 10 ÿ tướng content Viet mẫu quảng cio Facebook wid Rịch Bain CS3CH Teen Lắt cưộc hợp và Bệt kế “Teo quy Tinh onboseding
+‘cho săn philers eb.” cho siin phẩm skincare.” qua điện thoại cặc việc ees làm ” nhân sự mỗi
+@ \ HHĂNViÊN uNfflỒẺG i TIẾT KIỆM THỜI GAM CHINH XÁC & TIN CAY
+@ \ 16 c công việc hinh chinh, bdo clo, e=ail hf hoạch... Ồ ais iA chad wi @G Indag tr rê ring. legis,
+act MARKETER & CONTENT CREATOR nhanh han gấp nhiều iin, BB kin ching.
+‘Slkeg to nội dong. chạy chiến dich, phiin tich hiệu quả...
+SALE & CHAM SỐC KHÁCH HANG wa TANG Nana sur v -. HIGH THIGH SANG TAG
+S Tu vấn, chốt đơn, chăm sóc và git chin khách hing San) s E ie E ê
+với nguồn lực it her, gác nhữn te pk
+ẳ QUAN LÝ & LÃNH BAG
+Fa Sp a ape ec d paso] nen GIẢM SAI SOT we TET HIỆM cH PHI
+ee FREELANCER & CHỦ DOANH NGHIỆP g) Hỗ trợ kiểm tra, rà sodi, e Gi chi phil thuê ngoài,
+Tat kiệm thai gian, giảm chỉ phí, tg năng SUẾt wag bre dil bảo chất hượng. Adi wu ngận stich,
+6G Claude khéng thay ban - Claude giúp ban lam tét hon! r
+Hay đ. ế Al trở thành đáng tin cậy của bạn m ỗi ngày. #
+
+
+--- Trang 37 ---
+R(t 3 CLAUDE CO-WORK SERIES 2 Claude
+WORKFLOW LAM VIEC N.
+D ñ lại
+“by
+5 BUGC DON GIAN - HIEU QUA - TIẾT KIỆM THỜI GIAN af A
+Lam vide cùng Claude giống như có mot cong sự thông minh. Ey
+Quy tinh 5 bude dưới dy giúp ban dat kết qua tốt nhất! | oz
+ah BAT HỤC TEU ® GIAO VIEC CHO © NHẬN KET QUA © vevesvoueu crn (5) HOAN THIEN &
+RO RANG CLAUDE & KIỂM TRA & MỦ RONG ỨNG DUNG
+s —s
+> »›m»sZ>x.,.;/
+==]Ð€7°ở3m AY
+5 Xác dinhibgn căn gi? = Viết promot rb rằng = c kỹ kin quả Cac trắ về = Yêu chu chinh site cha tiết = Hoàn thiệm nội dung iti ra
+= Bt quả mong muốn l gi? = Gung cấp bối cảnh, = Kiểm tra Biv chin sake, = Bd sung thing tìn nếu elie = Ứng đụng vào công việc
+» Đối tượng. ngữ cảnh, Shing tin Gin quan = Eales giá mức độ phò hợp: » Manning. die sda them * Lưu l để bi sứ dụng
+shel gan? x Miu fosrrrat móng muốn
+Mục tiệu: Mục tiệu: Mục tiệu: Myc th: Mục thu:
+(Claude hiệu ding win de KClaude ii sâu E tri l dm bdo bt quả chia lượng Het quả ngày cảng 284 hơn, (Dura kết quả vào thực 6,
+eda ban, ing hướng. và nt với ntsc by đồ hen, tạo ghả tt,
+RO RANG & CỤ THỂ o BAT Myc TIỂU “Toi muốn lên hể oạch conbent 30 git
+Chnged ring, Claude cảng hiểu n và rậ Bt chính aoe, Ban muốn: Lên kế hoạch: đ quảng bd ein phẩm A cho khách hàng
+owntent che sản phẩm A trên Facebook”
+CUNG CAP BÙ NGỮ CANH 2 GIAO VIỆC CHO CLAUDE "Sin phẩm A là hem dưỡng dạ che nữ
+BSI cảnh cảng đây di, kết quá cảng chit lượng Cung cấp thông tie kin phẩm, 28-35 both, au dire tiện nhiên, an bod,
+© berated it - Gl..'l_J_ìl"jclIì_'ỉ"ìì"lj" l0 NHN KET QUÁ & KIỂM TR Claude dumm rs 30 chủ ib theo nghự,
+: Ú ‘Claude trả v8 be hegeh chỉ tiết, el Fail chang, Pers rape ties
+bạn đọc wh đánh giá. cho từng bài.
+PHAN HO & TINH CHINH ñ
+; : YEU CAU ĐIỀU CHỈNH “Wily thêm gol ÿ vicina ngắn và thay đềi
+ạẢ Tran Si cpu lại ci đạt hết quill tối uw nhất. 0 Bạn muốn Hany bi mặt wd chủ đã. chủ Ab ngày 5. 12. 18 thee E ưông review
+Ib sung thim đựnh: dạng video. khách hàng ˆ
+UU Lal & TẢI SỬ DỤNG HOAN THIEN & UNG DỤNG
+s (Bra Bars Boel kế hoạch, triển khai đăng Ee,
+® Luu peor tốt, kết quả tốt 8 ding cho lần ama. a Habe: hl hoạch hoàn chỉ A eR A
+triển khai và theo oi hiệu quả.
+. œ @ I
+- ‡ all
+‘CLAUDE LA DỘNG sy, BAT DAU NHỎ, renee & GẢ
+.. . N THUUDAN O m
+anne yêu chu thm bcd vachonige thing tin - BẾtđấu v yêu cấu đơn gil, as win nghiệm vi el thiện
+searahinen hết quik tốt nhất. pha hợp. seca al quy trinh lien việc.
+Quy trinh đúng = Kết qua chat lượng - Công việc nhẹ nhang! ©
+
+
+--- Trang 38 ---
+CAR - 3⁄£ CLAUDE CO-WORK SERIES @
+ARs . @ ® m
+e Ặ/Í
+Viết đúng prompt = Nhận đúng kết quả! I * r
+Claude rit thông minh, nhưng chit lượng đầu ra phy thuộc 80% - ^%
+vito cach ban giao vide.
+@ CONG THỨC PROMPT VANG
+VAI TRÒ MỤC TIỂU NGỮ CAMH YÊU cAu cui TIẾT BAU RA MONG MIIỄN
+Briain Clde ff  Egsckenuseode = Cungelipthingtin, - ‡ Format, dộ dis. + Kit quả bạn mong
+ding vai at? giữp gi? di cánh Bin quan inh dang. thu chi. Gem ribs thal mics?
+4 Ø E = -
+“if MẸO NHỎ: Prompt cng rb rằng — cy thể — dilly di bl cánh, Claude cling tr lời chính xác và hơn ich
+C, ví DỤ MINH HỌA # PROMPT MAU HOAN CHỈNH +, KET QUA CLAUDE TRA VE
+
+VAI TRO
+a Bạn là phyên 4 Hạn lã chuyện gla Markgting 16) nuke kính nghiệm, Tolle Ee hen Ce td
+
+Muctoerting SỐ nhm
+
+kành nghiệm Hãy viết Ad fhopels côneerg 30 nghy eo sản phí m ee et) a
+
+MỤC nity mước dp crt. nn ư Ạ T wees
+@ Vale kế hoạch content > =
+
+cha adhe phẩm mới. Khách hàng mục Ribu là ad bu 25-25 boổi, ait
+
+. Tale (Darton car thal - hd
+
+NGỮ cane ae ee ae i ee ea cee ed tenis _ ae spears
+Sel pilin Hước dp cinta
+
+khánh Pang reg) Tah mỘ Ké hoạch che chia theo tudin, bao gém: tush,
+
+5-35 hab tt ew sa hte. = Chủ đễ chink wes cee 388 ,CƠ  tavneik
+1Z Yêu ch cHÍ TIẾT ~ Kănh đăng (Facebook, inatagraen, TikTok} —_ ae Gg | s | hSH
+= pee lgerig ern = (Dirty đạng ra chung fb viết, Hirth din, viden, Peet. na“
+
+- — Mie: tiệu bung Pains GE HÊ H
+
+a G3-NE Wadi be o pours e dh ma sảng
+
+ĐẦU BA MONG MUỐN L
+Ld leg kế hoạch ch tt, Trinh boty đưới dang bing rd ving, a thea đội,
+
+apne. săng t, s g ube, thu hửt vh có Binh ding ding tae. veh oe nhiều nội dụng chỉ tiết khác!
+
+[ H A A UÀ
+% 5 MGUYÊN TẮC VIẾT PROMPT HIỆU QUA
+
+=
+@ q = O *
+
+Rỗ RẰNG & cy THE cone CẤP BỐI CÁNH YÈU CÂU con Tit KIẾM TRA E TIKH CHIH Tad NHIỂU CÁCH Hd
+Md re bạn main gi, Canguntaby thing Bey hough, Hiệu ob torre, dc, Hiểu chels ưng 9 Pally yêu coke Thay đối góc niin, wai trô,
+tránh ma hỗ, chung chung. fife quik công wtt nhà cos "định dang, Biiểu chỉ cụ thế. 'Clsuce chick ada, bE ware. ách hỏi đề có kết quả bốt nhất.
+Vi đực “Viết Š ý hưởng. VỈ đợc robots ili Bulging, Wi diye hang bằng. 1 9 Vide “Rat gon bit Wi dục ie rad Be,
+connect vễ deten” mye tha, tn phẩm, 200 1, ngắm gon Thiết ning tạo hon", adi cach clin at,
+
+Athy rh WME cereal vib dưiom” Page leh, Pa ghế. hk thoện, Che Pe. “Thebes vị dự an MẾ. L I H I G ee
+# CÁC LOẠI PROMPT PHO BIEN
+£ PEDMPT HƯỚNG oan T ÿ PHOMPE Ý TƯỚNG Q PEDMPT Pals TH PROMPT TÔM EAE PROMPT SÁNG TAD
+(INSTRUCTION) ¥v 083AIM3T08M)). [AMALYBIE) BS sas </> (CREATIVE)
+hy cho Chee at Hibs Yêu chy Cirle ha Wha Ce Bhd anh, DBA yeah, Têu cầ He UE rahe charg ihe te AH beg Led.
+mặt nhiện gtd ra ‡ tưởng. ol ert: tan seth nhận dt i rit gon thông tin hinhbản. ha cape.
+De ViếN aera, tiers le VŨ Ý nating corner WEP Pda bok ty ƯỚng. Wie: "hen et bibl viết, WEE ch bản wicks,
+Meech hoạch Thuện eo, vie phẩm. đểi thộ, vố b u tee ek ane og thy cht gan
+PROMPT TOT — KET QUA TOT — CONG VIEC NHE NHANG HON! @
+Hãy luyén tap mỗi ngày dé trở thành trong giao việc cho Al. H
+
+
+--- Trang 39 ---
+A H . . E
+Tro lý Al đắc lực giúp ban lam việc nhanh hon - Gon gang hon - Chuyên nghiệp hon Ẻ @:
+Claude giúp bạn xử lý các công vibe văn phòng hàng ngày: wa
+viết email, ghi chủ cuộc hop, xây SOP, lập If hoạch, tạo checklist... x if
+Tiết khjm thời gian, giảm sai adit vi nding eno hiệu guilt, x
+o EMAIL [2] GHI CHỦ © TAO SOP & 4 | LẬP KE WOACH 5 ] CHECKLIST
+CHUYEN HGHIỆP cude HOP QUY TRINH cone MIỆC & T0-D0 LIST
+EY cỡ fa
+Claude giúp ban: Clude gasp ban: Elaade gous bạnh ‘Claude giúp ban: ‘Claudia geup ban:
+= Sean eradl rhanh = em itn dung cuts hop * (Gy SOP bừmg bước + Lập kế hoạch nguyrtukirutháng = Tạo chạckigt chỉ tuết
+= Việt era ich ou, ering = Gh L qpaplt dink chins + Chuận hóa quy tris + i tiện công abe: 5 Toads list then đ dn
+= Trả LON seman bettas: bts = Prin công công việc : Dễ hiểu, đễ ap charg + Phim b thời gian hợp Hy s Checkin ự kiện, công Wid
+» Emaii xin việc, Od xuất, » Thos de tiến dh » Nhấn Quilt Beg công việc * These das des gal » den bảo không bở oot
+thống Dabs, cher or.
+Prompt gel Prompt galas Prompt gal Prompt gl : Prompt agli:
+ET aera Great doh) gÓi n ONION Uy lẠ Abe đưưng Created ag: "Tao SOP chy [Mis quy Wine], “Lip kế hoạch pông việc che "Tae chaplain cha [odie vA
+(pred cpanel gh chip, Hãy hóm ait ce Á (ed oh cức bước tinge hiệm chí tae, [eager aed. Dee thoh vite: |. | ay hits), Git hạng mục clin
+vale. dã| Gag cea Dts ag í chin, quyết cits, withc clin then BB is, oo na uaa trong Liu tides theno moe độ quae trọng ˆ chuẩn Eé và ta hiện ˆ
+huyện rghit” và người pty trách
+Ðiện quảả bạn nhận được: ửa quả ban rn dupe: ult pak ban nbc được: (UM quill bạn nhận được FOP dead Bạn nhận de
+Ø 179260 rag deg bòng ten © Toe ne rg ger, đề hiểu OG Oy trưới rộ weg terme (© Mi roach khoa noe, ch hes đối © Chrchtot doy đủ, iợ
+) Garg atu phe hoànrả |G) Danhrkrhudeclnikmriring - CB khu fh tabu chuản ele te gt quan trong trước ©) Dễ reed. để tick hoàn be
+1G} Tiệt kiệm 7006 ra glee xiết l Bi đăng theo oi. kewl Be ho tạn Š bằn giao 189 T ưu thời gan hiệu quả l Giles nal sởi bd ace vis
+Tish Bak: Tình huống: 0 Tied hướng: : Thai hướng: Ties hưởng
+ES......... BR ~......... Bevel ty horeesrere det hed edog ors nw Mn
+tg sim tic ha ei mới wong te
+Prompt mau: Prompé mẫu: Prompt mẫu: Prompé mẫu: Prompt mẫu:
+fe =a hắn lch höối với đểu Ahê đề Ee byệi hóP à T hạp RP etka Ales viện i ee 0824 vuỆU (sà huản Tae cherie Wh 00 b head
+became ede lie Pepe. Fl =ssốn fei al lamell Liệthể quel die, tha phòng Mhwwting, CM nit Rig này. Danh sănh wie ok, E C, . E ab ches công tỶ HO người "
+fee Wet a ta sk” wide ll Mam wh người phg EN Ô Bate, ob a > C ibs me a tN
+Hob quả: L Kết aya Nết quả: wt ape
+Tiệu oh Dã mot eh hee wee i ‘Pied TAP CƯỘC HO ee 0npoosbeut een wine fof ues Tudela - E 'C*IECELEIT TỔ CHỨC SỰ KIỆM
+v dy En beg te + up eh abies Seas eval masta ice ae (Be inh myc tt ang ach
+ik git acl L 1 N Nien dự án: 30204 ~ Ch.dis ti khoản, toÉs bị 13 LA lt | pete te
+n gtr hte BOD S 3 Mpls main L ce | i Q u
+B - GI EE căng Tk N 1316 Tag b ] l Choẩn b n đưng
+rm…wmu- Nite ce m aie a i re ete ja jo co | EE Chuẩn bị hậu căn em ra,
+Pet Rib tr sro - Thuết hế maclup Han) - MưỢi
+- bie gi Doe ~ 1 3. Talk đâu tbs oie ‘Trang bint | ảnh ning, backdrop}
+34 E Is aay He bay WR aa A i ra cay al
+[ta 008 baa] sete Sa ta el es qunn 084 chứ: Uh tity hoặn than ] TỔ chức my Mệm
+= A, E ID trate thứ 4 J ư gu & hắng nae
+as Ln nn sander fh ce] =4
+eS
+@- MEO SỬ DUNG CLAUDE HIỆU QUA CHO CONG WIEC VAN PHONG
+mo HỤC TIỂU cung CẤP pd THÔNG TH e itu cy FOSMAT ay RIỂM TRA E Toe CHỈNH uu a TU SỬ oy
+9Ều :ố ben Cần gi. a be cin ØÙ be Yiu cy dink dạng Sao Bape lad, is ecto rà Ley prompt mẫu 8 hết qua
+‘ot quid mong mun id Ciuc hiểu ching hàng, chechist, mrmal. . rn thuện trước fhe tốt đã ding inl cho
+ae ‘ve ed NS chính ae: ể dễ wh dung sử dụng ln san,
+Lam việc théng minh hon = Khéng phai chăm chi hon. an
+à I I E n © ate L A
+là trợ lý giúp bạn tối ưu mỗi ngày! all
+
+
+--- Trang 40 ---
+CYAN  3⁄£ CLAUDE CO-WORK SERIES > Claude
+PHAN TÍCH & XỨ LÝ DULIEU ” @ |
+Bién dữ liệu thanh théng tin gia tri - Ra quyết định chinh xac hon f 0900 S
+..
+Claude giúp ban thu thập, lam sạch, phần tich va trực quan hởa dữ liệu \ * ul v
+đ tìm ra insight, xu hướng va cơ hội cdi thiện hitu qua céng vide. me . ( ¡
+Lz
++ UY TRINH 5 BƯỚC LAM VIỆC VỚI DỮ LIEU CÙNG CLAUDE
+@ wm @ U [3] PHAN TicH © rvceusssóooi © owtncitre
+DỮ LIỆU DỮ LIỆU DỮ LIỆU DỮ LIỆU bE XUẤT
++ aol
+= Xác dirtingude đ baba Logi bỏ đữ liệu rùng tbe * Thống kà m ih » Hiểu đỗ, băng biểu Dida iia
+= Thu thập ny flip, fem, + Xữý giá trị thiểu = Phin sich amu hưàng + Dashbeard dem gilin + Od xuất giải pháp:
+‘wel, APL * Cheks hóa dinh dạng * Tìm mới tương quan Bde ibs nye: quan «Hab trợ rã quyềt định
+» Kaden ira độ đây đãi
+PHAN TÍCH HHANH DỮ LIỆU ĐẦU wa tel dul WET GUÁ CLAUDE PHAN TícH & Excel (Google Sheets
+4 ử lý dữ bu lớn, dice ra kết quá (ais, caw, googie sheet fink)
+tháng hi nhành cheireg. u .. u . .  @ Comhrwigmangrnginn
+=E TN nding Coed dữ thu
+TÌM INSIGHT ¬ - Mle! Ri . E = (SOL, MySOL Postgre5OL.]
+QQ Nerwnnine niin GE IN T u
+cae chim bat thường, TẠ mono dO L-.LÌ E H
+ee 395 - H4 S Số dom hàng rà khách dg mỐi Ệ Odin giá, n tức, báo cho.)
+ạ 50 SANH & DAMH GIA ee ee Tm8 E à
+So sith hiệu suất, do. lưỡng EE B n Dữ ệu khảu sit
+ints giá hiệu quả aimee rena: Gorm, Survey. Feedback)
+aoe Guy bri dik ting trướng.
+de OY BẢO & DE XUẤT rem FEF  50I3ukinheoanh
+BOD Dưndoiiho0ng.2dsufthkhdông ena oe) ie bre, Marketing. CSKH..]
+ius tin dO Mhu: n
+L aad Vis ban & POF
+TAG BAD CAG TY DONG N oe (Bảo cao, hỏa đơn, hợp dồng _|
+Têm ie đữ Bệu, tạc eo cáo ler T n ê
+ab Niểu.
+e c định ef mọ tiệu phản tich tui khi bắt dba "Phin tích dữ lệu này và cho bỗi biết xu hướng doanh thu theo thing.” M
+\ cung cấp d Eu dây dt, 18 rằng, ding định dang “Tim 3 insight quan trong nhất từ băng dữ liệu này và giải tích ˆ Ủ_
+6 ‘tu clk Claude giải thich bet qui bling ngôn ngữ don gil “So auch babu tuất giữa các abn phẩm và đề xuất ein phẩm taben ning” qỎ
+0 fet hợp phản tích deh kượng và định tis, "Tro: biểu đổ và tide tht hủBcùì1'hg.lilffli'ln'.ldĩrlệur!ùl'.' &
+[.] Lưu Bại các prornp3 hiệu quid sử dụng che bin tau, “Dự bđo đoanh thu tháng tl dye trên dữ bu hiện tal” oh
+Dữ liệu không biét nai,
+G nhưng giúp bạn lắng nghe và hiểu chúng! all |
+
+
+--- Trang 41 ---
+vLUÑ 32 CLAUDE CO-WORK SERIES %* Claude
+Tao théng diép din tượng - Tiếp cin đúng khách hing - Ting trưởng bén ving u Fes
+Claude giúp ban lên ý tưởng, viết nội dung, phiin then thi trưởng -
+va tối ưu chiến dich marketing hiệu qué, ttt kiệm thoi gian va chi phi. 7
+5 BƯỚC MARKETING HIEU QUA VỚI CLAUDE
+1) NGHIÊN CỬU 0 XÁC ĐỊNH CHIEN LƯỢC & SANG TAD NOI DUNG 0 TRIEN KHảI KENH 5 ] DO LUONG &
+TH) TRƯỜNG & THÔNG ĐIỆP QUẢNG cho & CHIEN DICH TỔI ƯU HOA
+L ã l
+GF ° 2 °? the đ
+L alll
+= Phie tích thị rưởng, dos ed sides định phản khỏc nuye tiệu » Tabu đã hấp dẫn s Chon kếrh phủ hợp © Theo dõi hike malt (CP
+* Mtuely khản vikhdchhàng == Dịnh vị hating hiệu * Nội dung quảng cho * Liện eb hoạch eae địch: = Phán lích kết cull
+® Xu hưởng nganh, cole » Thông điệp cối bed * Kịch bản vidio, bed đăng = Lịch dling l. ngàh sách » Tổi ưu và mởirộng
+Preenpt at: Prompt gai: Prompt gel ÿ: Prompt geal: Prompt gel Ý
+“Thăn ich thị trường |ngành] “Huby ching Phông đưệo đnh v WARE Hiệu đã Guống dike Tadd kế höạCh chiến định qưống: "Phd ts hiệu quả chiến đich
+Ku huts, oo hội và thách # hượng hiệu (adn phám,cAch eal they ble cho [indie phí ] cho Facetont rong 20 mgày Lb Cane gee ae eb ig
+ong nhm 704" ‘chap tubes hug frac tidal - rider điện |khách eg ˆ wl nghn sách đÔriệu đồng ˆ Habe quả Â giám chỉ phd"
+@ céc vom HỘI ouns CLAUDE HỖ TRỢ 3 vÍ DỤ Ol DUNG QUANG CÁO KHUNG AIDA = VIẾT MỘI DỤMG THUYẾT PHỤC
+BAI VIẾT MAHG XÃ HỘI Tau Sh chord
+ATTEHTION
+L ¬ HS @z- stor
+Th , Fado ‘Te đ nites es - Hag khỏu th gt zy = nđ hoặc mong muốni
+EMAIL MARKETING a đng: My lọc không kh VT cg nghệ eA, 3 cũa khách ig,
+EE TN t ca, log bé TT dr PE ai và 7]
+khuyến eb bản ti eee D INTEREST Caan cấp thông tin mths le,
+Lunes pane & GE (TH Regge Mie re «bee GM rary eg mt HH rự quan the) a eae
+| Tiểu đề et FAR nổi đụng ig
+cm i VED a oe roe ee rt) Pea fare eho
+o Kịch bản quảng cáo, review abe phẩm, Tru đh: Fang wang cna arbi wing cing n n - v I l G rc u i
+ebro gett thiệu, hương dẫn, hing Gảm F
+dang: Ching 2S pup 0enPh regret n â ng chưên L I
+QUANG CAD TRA PHI i cline: / I m áN Ù a n a We
+Google Ad, Facebook hgh, Tả Tak Ack, pty idee Dobe penn dangy OM hing egy, Dăng gy,
+‘YouTube Adu. Liên hệ dể nhậm ưu đ
+ASE Rake t barrie muỗn pt sQ Pe Pay
+® MEO MARKETING CUNG CLAUDE
+"ae ee @ THÔNG Dob i askin & TIÊU ĐẼ HẾP DẪN vf GOLƯỜNGLÊNTỤC đ THỦNGHIỆM & Tau
+Dùng Claude phín tich chun Thông atta gle Gon Tau ell quyế an RỸX alll L PR quan ingng L EU
+dure. nêu chu, Ai đao và sễ hiểu, tập trong ies xhà nămg người đọc CT, CAE, Comcernion, kịnh keh, dS tượng.
+hãnh à để Lạo nhống điệp ig che và giá trị reg L chch vào ibe chung na aw EDMS wh Sana trikes {ibe tọc AV ent i làm ra
+Chunm đhàng cấm múc. ithe khách ding. Hily Shu hot ngay lio boc? ử bêu tage tb Gaby hiệu Guth nhất
+cone cy KET HỢP HIỆU QUA
+Claude Al Canva Meta Ads Manager Google Analytics Google Ads
+We ees GØG.-.m. .. A
+(pili tứch, tl ata chiến ich 4nBogrwohlc, wide. Tacebecd beter fo ong “eh null m m kuấm, hiến tha, YouTube
+. Marketing hiéu qua khhông phai là nói về ban, ma la giải quyết van dé cla khách hang. 4
+©) giip ban truyén tai đúng thông điệp - đến đúng người - tao ra kết quả thực su. #
+
+
+--- Trang 42 ---
+Jat 2 CLAUDE CO-WORK SERIES X Claude
+9 Fd Fd ri a s..,.
+QUẢN LÝ DỰ ÁN & 2.®.:
+/
+(\ \ Ò
+= ~ . F . \ S
+WX =
+wÝ Á
+: y) *
+Phối hợp hiệu quả - Thee dai tiến dé = Đạt mye tiêu chung |
+Claude giúp ban Lip kế hoạch, phần công, theo dit và bie che dự dn
+mt cách théng minh, giúp cả nom lem vide deny va ding han. k
+5 BƯỚC QUAN LÝ DU AN VỚI CLAUDE
+@ xcopememty - (C) LAPkế noạca a. PHAN CONG & L K I Ls .
+oy aN cH TIET Pode HỤP KIỂM SOAT RỦÚT KINH HGHIỆM:
+i. L
+* aml * % #
+ÍEÌ ằ
++ Xic định mục tiệu SMART » Chúa nhỏ công việc (WEST x Phir công nhiệm vọ nh lag = Theo di tide độ công việc * Dánh giả hết qu đạt được
+thi, Bo hưởng, Khả thi, » ke: inh mốc thot gian + Thiết ip inbeh trac didi » Quản lý eb rod vấn đề = Pde khnh nghưệm choy d fies a
+(Lab quan, Thời hạn| » Dự khển nguyồn bya © Chur dante n trinh Làm việc » Diều chínP: kịc thời » Lưu tữ t be, baled c
++ Hiếu rõ vÊu cầu É kỹ vọng
+Prompt gti Premgs got ý: Prompt gợi ý: Prompt gel Prompt get
+“THấy Qiúc Bi nắc dite pret Hie Te bak hoạch hs a ae “et Pode pds Căng nhiệm vụ Tats bảo ide tiện độ chự ae “eh ÿ Các bw c ih giá thks
+5MARE chờ ự i [iện chy r] ˆ Deroy dnl bao gies các hạng à thiết Ua quay trình phối meg {ren cay an] theo dey ngân gon, sòng và bài học kănh nghiệm hg
+mys cing việc wa timeline.” cha dội 3 người ˆ ited" cây din liên dự án‡”
+% CŨNG CỤ & MAU HỖ TRỢ MẪU KE HOACH DỰ AN (TOM TAT) VAI TRO TRONG NHOM
+& BANG HE HOACH DUAN Un aye Webepte ge they rs pee cB e UAH LY Car AN [PM]
+niet, Ganga Sait, Rates kể noạch, these
+Cee ee amin MIEAE —_‘abnthinheabuer ven meni 20044 ih ieee
+Page vt Toa ULE, Laid cl, Tr t
+oa LỰU TRỮ E.CHIA go TẢI LIỆU Tet gia 0099/2025 - X/062021. -. THN VIÊM
+Google Dxsve, Deepbor, OeeDxiee Thực hiện cing việc được gia, cle
+a che "= ade asete . . Sees — nhật tiến đội Ro củo kết quả.
+hanhsiăm c 5nguời 9S De, Devigner: Content, Trunr|
+CỀ TRAD Odi & RAN THH See.
+Stock, Microaam Teas, Zale dl nb plod yp eb
+[Thilo uận nhanh, thông bobo lly nAdit} = capone er Tee ....
+¬ Š KHÍCH HANG/STAMEHOLDER
+.] cud LÝ CÔNG wpe E E . S Ố N u c n ổ Chang chp pha chs phe,
+Tree, Asana, CEcsip, Mesion lh Nox n =< = Đố eet shred í. re ee n gl ba gk,
+TÚNyản by lant, chesctirer, mevb rn L T I Der Ae — 0709 ne G n T mie
+2 _ E . ree
+WX + inne tne ounce emia, OF Sino Ô eg ch the
+Google Mice’, Tioom, ri Tear ¬ © Tên trọng - hd trợ - tìn tưởng.
+ii ee nk ế v đ § “Annhzkumn - teen KHHEPENH à Iu i ch rain
+(Sid chủ: Cp nhật tiện độ hàng ta der thử 2 © Tập trườg eke ere ae cheng
+(BH giúp tôi lập bế hoạch ci ctw khy de bin ied] m 2 kháng Hạng mọ - Ạ i thài H rake tan cong ate
+(GE) PsbS” ogc G rl Enks re ỮJ 58 Sông việc ching han
+Thưết ế 1L m Daag ta hành
+hy “Tee bằng thao a tiến đội đự de etl ke he a gua trong ˆ Livin Eromesil m Đăng M Boch HE H sien
+(Wel email thông nko clip nhật tiển dộ d án gi cho inhi” =ondsosmdsusmr,l = k.om.indeustrd G NI đỡ Pe Wing khánh hhng
+an at > ncn te
+KE) Dima cách ct thiện quy trib lãm wide ola đội ing hiệu suất ^ EE os ‘Ganka Bh reat er etcnnn
+Một dy an thanh cõng khong chi nhờ kế hoạch tốt,
+ma con nho đội ngũ tuyệt voi va sự dong hành ding cach.
+- Trợ ly dang tin cay cla ban trong
+
+
+--- Trang 43 ---
+SJAl'm >⁄- CLAUDE CO-WORK SERIES 3* Claude
+TU 0 ! Am. . E
+r# G N a (=| l í. 4
+Lam nhiều việc han với it thời gian hon *
+Claude giúp ban ty ding hóa cdo tác vy lập lại, tối uu quy trình và l yw
+tập trung wo những việc quan trong nhất. ts)
+Lo
+5 BƯỚC TY BONG HOA CONG VIỆC VỚI CLAUDE
+oO XÁC DặNH TAC VỤ 0 XÂY DUNG e TAO PROMPT oO CHAY & [5] TÍCH HOP &
+LAP Lal Quy TRINH ã MẪU KIEM TRA MỞ RONG
+L
+Y + ,_lì + + >
+~ ial @
+- Nhậmdiện các công việc bn A qu trình từng bước * Viết prompt chs hóa + hogy thử với i liệu mẫu » Tich hợp sào công cụ khác.
+thời glen. Kip lýi thhướng xuyện + c định đữ Robe đấu be? * Egoimẫu du whos ra » khểm le quải Lạề
+* iệc tính thời gian lr suất LUN * Thiết lập biến á tùy chính «Tuna prompt & quy trinh Mba ke Ak ere rg
+* Guy dink tiệu chỉ hoản thin
+Erarpt gel ý: romp gel ‡: Dreempt gel È: Prompt gly Prompt gol r:
+“LH bab các cônng việc lập la “Pil giúp sồi x đựng quy M E “Tp prorat mẫu đề hự động Rebs fra và i u preety gs FG Bh A quy BR
+‘broray val tn (re #8 ean bạn) t động hóa cbs [uke gốm [ibe ] với các biển sau: liệt i kiệt quả efi xác, lly đủ này les [tông eu] và mô rộng
+à đ muất aks en động hóa 5 0b DAC) tah và dữ lb ‘ed Babe)" it erg” OPO Cake rusty hợn khn
+sell riết ˆ
+TỔNG HOP EMAH HANG NGÀY x Taner
+Tider tlle các eae chïng ea Retin nein) K hàng
+E ỀJ.ull'-Jja«;c.`Iịco-v`crll-'Ĩ-t`\›.n-\|e\›q'vJn—'-\.s eg he à B i i ce ee es me cs NH yognuceiae ngắn ứng charg.
+BAO CAD TY BONE “Pinch i naa iba. Tạo báo cáo F
+= Tha tT be, pb eich và tao bee cd Mocks fin Miah pA th ba ã và A mai én Na aese es Le oe ag i es
+định kị Crane Pe : a ecb opr
+TTạo lịch nội taney 20 ngây ch [te il
+LIÊN LỊCH NỘI DỰNG:
+. -H H n c n
+Ecosrgriigisndo i N ghar em Luưu trữ, xử Oy đử Ea và ips ako cab
+Cuhw LÝ DỮ LIỆU “Chuốn hóa và lim nạch dữ Bu mi aioe:
+EF Lien tach phn gi chudaita viedo ring, LPe*EhHiSEEn [Fu Ul ring n cia wk
+ii sense GR) aie uitetarein
+đ \ TRÁLUIOHÁCH HANG "ir phinhềt Chưyện nghiệ pho yêu ba trong mới re
+W N ¬E ae | a ae nee ria NCS G EE ey et i
+toạn phẩn bal nhanh, ngkn gee hữu ich .II.l Hhận hairy dk, gửi bảo các và cho nhậc
+wow
+7 MEO TANG NANG SUAT VỚI CLAUDE
+Ø B “Oo i m "9
+TU Ti RỘ RẰNG LAP HOẠCHMÂY - CHA We THÔEG kẽHH  THY NIỆM TH GA THẾU 6d Tos ĐỘ HC HÊN TỨC THỮ NĂNG LƯỢNG
+T dnh việt guờn rong ac el ChinheeanRrhá - Tudệnghênldevpdeig.  ClpshatbeeOewường Clie et Re he: Nighi ge Pa hr
+saul ods nghy Cima heen AN, Ce RE ebm maine | teri GeO Ng ha OF li ate
+gopbenlkeienguks - phinbdPosgienhợpli han hua ab ee sich i cle hee havkghinhdmun. S al và bln vững.
+toa tp rg à
+th ugich
+E - @ ee ee cg]:-...
+N n Sp die ual sót rà ting iS chánh mic
+Nhận Hips -
+n serot: ì Sr ool lai Lan trữ Thông bás Bis ek Gh Tập trưng ohn công việc an ory
+Chama RE, iil a pa a (Ga thống ae pa Tah Dai a it động Oh Tổi cu chế phi và nguồn lực
+`ỈÍ"ầ"_el""j°fẦỀ"'~ sẽ l bee ba eh aa Shestuticton Exat=ei E eck lM Túng nàng suấn và hiệu ook vuợt ol
+Ĩ Tu động hóa khéng phải dé thay thé ban,
+ma dé ban lam những diéu hơn! -
+- Trợ ly Al giúp ban lam việc thông minh hon mỗi ngày.
+
+
+--- Trang 44 ---
+s[tVattm 3 CLAUDE CO-WORK SERIES 3 Claude
+> H A =
+~ wv ˆ -`
+LÀM VIỆC CÙNG CLAUDE ø ấ =,
+Hanh trình 10 trang = Ung dying Al để lam việc théng minh hon mỗi ngày \ |
+55
+Chic ming ban đã hoàn thành hành trình 10 trang! ie
+@ Buby giờ là lúc ấp dụng những kiển thức này văn công việc thực tế 4
+OE tno ra kết quid vượi trội ed
+10 TRANG - 10 CHU ĐỀ CHINH - 1 MỤC TIEU: LAM VIEC THONG MINH HON
+@ van ( cvrsniiote [3] VIẾT LACH & Đ xiưcônovtt - ) Phinrien:
+CLAUDE HIỆU QUA ‘SOAN THAO VAN PHONG XỨ LÝ DỮ LIỆU
+_ ® À 5
+s
++ Claude là x ich dit cles hởi bot = WAR ermal, dbo củo. cb muất * XỬ lý ermal, cưộc hop + The thận Ñ L mech dữ bệu
+¬ Tạ n nên động CS = Mạu glee liểp hiệu gu - WEL Dk nội đung margting - Tae SOP, quy tinh * PIMA toch & neve quae iia
+* Mhững videt Clsode có thể » Vĩ đ hởi đâp thục tế » Chúnh ela S18) U nội dung, «Kd hoạch công việc, checkiit » Diễn giải l đó xuất
+giúp bạn
+0 MARKETING & @ nuânt/Dváns - ()} wodrcroas (Ø cosestuors ( Tồng kếrs
+QUẢNG CAD LAM VIỆP NHŨM TANG WANG SUAT ỨNG OYNG THỤC TE LO TRINH
+, s.s.. ]
+nea ran *
+- Nghiên cỮu thị rường. - Lập ba hoạch đ n - TỰ động Mba te vụ - Mì dụ theo esha nghệ * Tag hợp khến thse
+ohh dung marketing. quảng toe » Phăm ming, the ci tale độ. TF ha Quyy Le evr * Tin hướng thực tế * Lộ Wish ứng dung
+= Kế hoạch ã tối uu chiến cịch x LEm việc nhóm hiệu quả + Tiểt kiệm thới gins v Kilt quả & bii học + Duy tid phảt triển
+‘OIA DOH 1: LAM QUER GIA DOAN 2: (NG: DUNG G1) DOAN & NHẰNG LAO OIA! DOAN 4: THOU
+% n + S . n > à T n * Ổ 1Ngày 34 - 30)
+= Lim guan với Claes = Ứng dụng vào công việc hàng ngây ¬ Phản tích dữ kệu, m esac: + T ưu quy trình làm việc
+= Thực hknh elt của hỏi hiệu geek = Viết grru, bake củo, hế ewes ¬ Tự động hóa quy Y = Xây dying hệ thống cá nhăn
+= Ứng dung vào các tắc vụ dom giản » XỬ By công việc vàn phòng + Ứng dụng vào dn, marksing + r: giá d cải ie iện tae,
+= igo tia Hinh enh tide gues + Mụt tiều: The hiệu sabe rÓ rột * Móx Khbec Lờn a + khục thar Bip hết cake td
+Pe cicimmccusoens ro |
+Ley po he ” ku cụ thd. (Bi cảnh
+l à eg: Canny cấp thy A cảnh và ybu che © l al s & a
+l Cond tiết: Cáng cs tiết, Cede chng hiệu rà trẻ lới tết: Wierik Puch, rR aaah
+l Ngân gore Reh bhy muses n rag trong tm .. ee n - ễmc…u-n
+l KiỂm trae Lướn à sod vit en thông n ee or ị = i YEscku cuiế
+Pb di: Duu prin hồi S Canta ngh cling ỖI om ima, Tose ince (kag tek, đựnh lier. wl chal
+(to mt Không chin ad tng tin shay che + ht qud meng main
+(Sing tạoc Thứ nghiệm nhiều cách hối wk gic ni khấc hi, Q 7 @ beste haesdcnres
+iat Scape ines = Pomythuánhio
+2Ø HANH BONG NGAY HOM MAY! T CAU NHAC NHỚ CUdI CŨNG
+Oem @ x @ eee Al không thay thé ban, + +
+Ẹ\`lỄ1z"_"'í'_`_ * n hae nhưng người biết sử dụng Al +
+@ sẽ thay thi người không bide! + +
+U Claude luôn sẵn sing ding hành cing ban
+Bắt đầu nhỏ — Nght lớn = Hành dling ngay! trên hành trình chinh phys hiệu suất dinh exo!
+Lam việc théng minh hon - Khong phai cham chi hon. re
+la tro ly dang tin cay cua ban! #
+
+
+--- Trang 45 ---
+m HIẾU AT
+= H GIAO VIỆC ĐỨNG
+(KHóNHộc ˆ faa nae U
+ams} > i :
+c AG D E Al € Claude í v
+CHO CÔNG VIỆC VÀ KINH DOANH y= 4 CD % =
+x Lam chủ Claude Al dé tang nang suất GI
+= téi wu công việc = birt pha kinh doanh
+S LAM cHOCLAUDE AI ( DE TANG NANG SUẤT af BỨT PHA KINH DOANH h
+1 ÿ GIỚI THIỆU KHOA HOS 0 KHOA HOC NAY DANH CHO Al?
+Khỏa ges thực chiến Grom Bees hiếnx: cách pdhối ep Gillie Oot “xzười và Al & (Sheb đoanh ngưiệp: EMME, CG, Pewter muyốn Ứnng chưng Ail wie wiles Pal
+di airy dying om hình “Al Co- Work” trong công vite và doanh nghiịp Markating, Sates wh quin hy dee mhóm:
+„ Nhân viên Marketing, Content Creator mutin bing tic nin xuất nội dung.
+SBP chee tc khách hàng và fel uia hiệu nll bản hàng
+andy THYC CHẾM CHO DUR NGAY  KHÔNG QUÁ { BAM SÁT N5HU CẤU Ẻ Qude by vis anh, qin lý ự n tradi mcm masts ihe kiế hp,
+ay THUẬT Cea MeSH my EON", quuảm By cen vibes vớà EE Ae vee heey 0d dees
+EN Ste egrets, eb, actin ern giảm tne alan ty
+Thang qua là trin) 6 Bast, Poe viện ed ruin ving BỰ đ Al, welt Prompt ding, ong wake Hip lại, ting hiệu aud công việc hing ngler
+ily eter res les việc OC AN wih rg ire bbe Al lho riba CÔ6Ng việc * Finbetarced, Ageracy, ORC ROL rib alert Tie khủi.
+thực bik: Cenert, takes, CGH, EirbearcP, potter tích chil luệu, n kế hoạch, đuuy rls ben wide rii tility hiện: truốtt ci rn
+xây SOP, tạo cde wh tối uu công việc wie phòng. Gi HS mt a thu em nd A, muốn học the chiến i hiếy
+viang dụng dược ngay
+ủ Droanh nghiệp ersten mice ayes esd hành “Aud Cheer” i lee n
+ee Se Sia Oe N CG H ie ĐIỂM KHÁC BIỆT CỦA KHOA HỌC
+vf Sử dụng Hiệu qué Crude Al trong công việc hằng nghy :
+wf WHEL Prornpa bal bển thea nđhưiệều myc tiểu công việc 1mẳ ay = thiệu tool” hay “Wit Prompt dan le, khóa học tại
+w DM cách xhy veorkflow lim việc cùng Al
+wf Ong dung Claude Al ube nhuếu hoạt động: WORKFLOW LAM VIỆC THỰC TE CUNG Al
+z H Q l =] Hie viện khẳng chi học “Al là gi?” ma sẽ học
+m al “All giúp giải quyết cong việc như thổ nba?
+— A — pal n Khóa hee được xây dung theo tự dụy:
+rF
+B oe g él 27>
+Lp hy BOP oul Techies - Inseermi
+kdhoạch chackănh ùng wife L Ý tường Hn at ciao VIỆC xâY TANG
+cứng WORKFLOW NANG SUẤT
+s Ting tốc nd heading việc S 2-5 hn nA) r.
+of Kee hạp Clause với ede công ey Al khác [ChabPT, Carve Al, MOT SỐ WORKFLOW Al THỰC TE SE ĐƯỢC HOC
+‘Geminid, Google Sheet Al Notion Al) [CONTENT AD] Research —s inuight —+ Mook — Script — CTA —
+wf Từng bước xhự dung hệ thống “AlGe-Werk" cho cá nhăm L s m d , =I c.
+Triặc doanh nghiệp IN N L‹ss — noeeerse r Procosal = C5KH
+[ xaricz r= HHH RUMEUMBML. | Pi — Report
+ñ Reuearch — Content — Campaign — CRM —- Report
+4] OUTLINE CHI TIẾT 6 BUỔI
+BUuỔI 1 HUỔI 3 HUỔI 4 HUỔI 5
+HOU CLAUDE AI PROAAPT EMOINEERIMG A ONG DUNG CLAUOE Al CLAUOE AN TROMG WANG 5
+TƯ DỤY Anco Wine LAM VIbC Won FILE THÙNG SALES & WAN HÃNH & QUAN LÝ mA U .
+DŨNG ROAY TU od THOMG MINH CSKH CÒNG VIỆC. i
+- Tie ar Chai + H NH "hưeneh neigh hing - rT hờnipeenienhhdkhhàng = bina phn ie n Tamale b af
++ dl Comin U Pneguswsrg + Dông Tag Poem inthe Gell Làn tag, dle ( nanei = el l bees arin, ownage s Nâp BCA ech, guy trình «it bapa ec
+» Cach Clad hogt động * Clic hag Prompt: thực chiến Vi6bitioglinpugw,umel - »iVutemedsnnhdn,propoms = Jgobdocio sốnghep-ddiRệu fg cp Ale
+x Chem hen Cima x Lien wie wl PEW Wom ling as » ùn aa od ak = esting: numer. m mgdmm - x hy Al WAnsnpaou ing
+aki ri ua ere, ae. «SD carmen el ath | CER Ghee APSR, = Gale Rees Og cg me ann nghiệp
+sha tg « ie il phẩntrh,vhhimudi Lut ach commun sich bowie rp = CL a gd a i ong
+ight bs Phin tkh 8 ah
+L milo THƯỜ Ha Te Hitbe Feat dot
+fe) ecg chasm ipl PEM i grit sia ant By cp ten tana iy SO, che K of gn ee
+m Yak 5 Preenpe ths tte Bg : .„ Vi ce hit N pecan Tipu bob cake ba động Fes tf Aa Mr
+Ts meri e hên ee Letina ait he i Acris meat che ahd meer gi
+Hehe ean n ced Robt
+aA Tui CHIẾN 4 ỨHg DỤNG = TÀULIỆU DÓC QUYẾN HỖ TRG SAL KHÔA HỘC HB 8 1L TT
+ẸI'l 1005% NoAY |i WOEKFLOW MẪU a cons DỖHG HOD VIÊN B E
+
+
+--- Trang 46 ---
+1/10 CLAUDE CODE SERIES Claude
+ge a
+u | /
+ñ | Ờ
+. * ail L N
+LA GI? © | ma
+Ld i
+Trợ lý lập trinh Al = Hiểu code, viết code, sửa code cùng ban. — J ye
+Claude Code kà trợ lý Ep trình Al được phat triển bởi Arthhnopöc. ae . a
+(</>) Né hoạt động trong terminal / IDE, giúp ban hidu codebase, \ |
+viết code, sửa Wi, refactor và ting tốc mei cing việc lập trình, a ' L
+# CLAUDE CODE CO THE LAM Gi?
+. r/ BR
+HIỂU CODE VIET CODE ã REFACTOR VIET TEST
+'Đọc và giải thich Tro cude mdi theo Tìm lỗi, glad théch T#ươcode,cảithiện ẩ Tạc unit test, test case Tur động hóa tắc vụ,
+codebase, logic yêu cău: function, nguyen rhằn và edly tric, hiệu nding ‘wi ghúp ting độ bao soạn tải liệu, tao
+chương trinh mét component, APL 6 xuất cách ‘el khả năng phủ kiểm thử cho Script và hỗ trợ
+tkch nhanh chồng. #orip4, module khắc phuục. db bo tri dyan. workflow hàng ngày.
+# VÌ 5AD NEN DUNG CLAUDE CODE?
+NHAMH HON Gi CHIH XÁC HON & HIỂU SAU RONG AN TOAN HOM e@, HỖ TRỢ 24/7
+gas và thus eg vie: ( ) Hiệu ngữ cánh a, OF Xử H nhiệu ngôn gt Đề xuất gibi pháp MD in pin sing ding
+lập trình nitewh tise A sura gel Ý chính xác framers en kuin true an ton, huẫn hii hành ging ban trong
+hahaa hn, và phù hợp. thự din khác hou, beet practics. m yin.
+# CLAUDE CODE HOAT DONG NHƯ THE NAG? ¡
+oO Benge Tce - FTì Js JavaScript / TypeScript ẵầ React / Mest js
+n 005 Code, MtlIrsini à A ê E se) ® Python vedas / Express
+e ‘Claude Cocke phán tình
+io] lợc Re. haha regi cdưê, lage z N N ấ jee Ja deem Django í Flask
+‘WEL coc si kh, ga Thee 6 Go BG vim scss sess
+1 và dễ mah giải ph
+om :- E . ® ==
+S — E n ® n‹ @ vànhiêu hơn nữa
+MOT vi DỤ THỰC TE CLAUDE CODE KHONG THAY THE BAN!
+8 pn Viết APT endpoint ly dant sch rgười ding trong hệ thống Claude Code là trợ lý = không phải người thay thé,
+bằng Mode je + Express + Mongo. Ban vẫn lh nguaiquydét định, thiết kế, kiểm tra
+aude Code: và chịu trách nhiệnh với sản phẩm cuối cing.
+© Tyo reste GET /apifunere ¿
+@ Kết ni MorgoD wa query dữ lity {..-} @
+Ø Xử hy phan trang. lọc, skp ofp ay -
+ee 78 n n Ban dẫn dất Al hỗ trợ Kt quả tuyệt với
++ + * Claude Code = Tro ly lập trinh Al théng minh, +
+: + giúp ban tap trung vào điều quan trong nhất: X ÂY DUNG SAN PHAM TUYỆT VỪI + :
+
+
+--- Trang 47 ---
+Palm 2 CLAUDE CODE CO-WORK SERIES % Claude
+: L : te)
+9 . =
+ry E i
+Banh cho moi lap trình vién = Tir người moi đến chuyén gia | |
+Claude Code là trợ lý lip trình Al link hoat, in) l
+phi hợp với nhiều đối tượng va nhị cầu khác nhau. = , \
+* AI PHÙ HOP VOI AI?
+LAP TRINH VIÊN CA HAM HGƯỜI HOC LAP TRINH POUNDER / STARTUP FREELANCER / FULL-STACE. TEAM ƒ DOAHH HGHIỆP
++ Wilt oode nhanh bon r Gill thich kiến thd dễ hy = arching MVP nhạnh ching + Mhậánriệc-Lâmnharh-Dônghạn + Chuẩn hóa code  quy fie
++ GIải Ehích beagle ol hiếu + Vide thus S, dap dụng » Teo tinh năng. APT, serist » Hỗ tre da ngắn nee E framers » Revere code, đã xuất cl thiện
+» Tes v sửa lỗi hiệu quả od ed ihm biitip, project - » Tying hóa công vide » Thing chất ượng sản phẩm » Tho Abi iệu, best, checkist
++ TN s và relacSor code « Hục nhanh qua thye hành = Tat hikes chi piv phat triện = (Dib dàng ened nộng kỹ nằng + Ting hiệu ruấi cả dọ riba
+Tiểt kiệm thời gary, Hiểu shu hơn-Họcnhanhhon- - Biển ÿ ướng thánh sản phẩm Lam nhiều diy án hơn, Pht triển sản phẩm dn ih,
+erg nhỏg sal roll nghy. Ty te bese kh eee, shah a epee lB ta, ig thơ abi ã uy Bi liên xững wih chuyền nghiệp
++ LỤI ÍCH CHUNG KHI DŨÙNG CLAUDE CODE
+NHAHH HOW 'CHÌMH XÁC HOW HIỂU SÂU H0N AM TOANHOH de ino suilr came pelea
+Vhết cee, te i (Ob a gh le 066 What eh ab 104 aa kh DY alll Tự động hóa t s đ ‘Tate Cocke Later als lrg
+và hoàn hls vhêng ngời che loại, thuật boa fon koàn, talks Hh, bh, Lập trưng wis (ra i hanh nững hạn
+coding vuệc ribose Pe phe sai sối và l va chch hoạt ding, bet practice những wide quan trong (hong dud hnh tinh
+nhiều l khả phút hil la onde ‘vila mặt sà ng tao hon, Mo brink,
+šJ% 50 SANH TRƯỚC VA SAU KHI DŨNG CLAUDE CODE T AI SẼ HỖ TRO Gi CHO BAN?
+TRUSC EHI DONG SAU KHÍ DŨNG 4
+cova VIỆC i alias ai posta @ HIEU & PHAM TÍCH CODE .
+lỢc tod bộ co2ghang, giải thách logic, luồng hoại ding,
+Ten kien, gi ibe, (Di xuất thông re, quan be ghữa cis fide, moduie
+</> vik oat heal ict hah ity - ;
+TAO & CHINH SUA CODE
+5K l Wl Eh i gian, khó xắc Phin tics nhưhh, chỉ ri Tạz code mới, chinh gửa, md rộng tinh năng thea lu cl
+Tenth 9599 ih nguyện hin nguyên rin eg sữa oy thể của ban
+. Đọc tài iu i, khó ‘Dib thio dễ hiểu.. Tim LO & OE XUẤT SỬA
+CT) nxkkeesns c apts oO vide tae S Phd Piện lỗi, phản bich nguyên nie về haa ra giải pháp
+khắc phực an loàn.
+n Làm thủ rộng, adit, Di mod tt wu, epch conte,
+ã u i ai bie i & REFACTOR & TỔI UU
+(im cưán gọn hain. dễ đọc hơn, riba Ban và ib Ede trị Ban.
+re} ‘Ties thời gián viết feat Teo beak Aah, đấy do
+[wr] vé
+E ei thù công xà phùhợp VIẾT TEST & KIỂM THỪ
+Tee ) ler, tert cane, mock dita và hướng oils khím thủi
+Viết ny, Bis nhs: Tu tạo dens, README,
+E es Chel gian labo các chuyên nghện TẠU TAI LIEW
+‘Sinh README API doce, hudng đẫn ed dung. comment
+a Wife lien ike, DỂ pe, er mỗi Hite nhing hến, th trng a
+a khở khăm vào giả trị cốt i
+b ư TU DONG HOA
+Tre-seripe, morkfkew, CATE, crơn jets và shiều tube vụ lập lại
+KET LUAN Dù ban là ai, ở trình độ nas, Claude Code T Ô E E
+ĩ du có thé trở thành tng hy lập trình ding tin cậy, © BAT BAU CUNG NGAY HOM NAY
+giúp bon viết cotle tốt hon, nhanh han và thông minh hen! ia và ming cấp ky nding lập trình của bạn!
+
+
+--- Trang 48 ---
+Rat 2 CLAUDE CODE CO-WORK SERIES % Claude
+Hướng din từng bude dé sin sing lam việc với trợ lý lập trình Al, a r.
+Chi vai phứt cai dt, ban đã có một Al developer VG :
+kuồn sẵn sảng hỗ arg ban 24/7 trong terminal ofa minh, 1 ì E .
+@ CHUẨN BỊ TRƯỚC KHI CAI ĐẶT
+HE BIẾU HANH NGDE JS Ẻ KET NOI INTERNET fe) TÀI KHOAN AINTHROPIC
+Se
+= moe S Phiên bản. n r trở lên ICin kết nổi ấ dịnh để Iu Băng igang nhập int:
+» Windows HTT (khưyÊn dung LTS) laude Codie Bat ding console.anthropic.com:
+«Ubuntu 20049 © mim ra bing và đồng bộ ngữ cảnh. t lấy APY hay (ếu ce
+Thoặc distro tương đương) fede xsự
+© cAI ĐẶT CLAUDE CDDE
+A. CA BANG NPM (DON GIAN WHAT) B. CAI BANG HPM + NXP [KHUYẾN NGHỊ) E, CÀ ĐẶT THỦ CONG
+© ã terminal Ø C đ egy (rts run ct © Try the HEEEAEEEEOEORPHHPR
+a "|
+| peewee ote vin ena nce ing ctu nan a bon
+©) Chay Claude Code: ©) G nên và thêm vào PATH
+!Ø Sim tra ch oe
+=a So tines
+: © Wat ban ang nina foie as]
+L s n s lonllirolá L mma nhóng clin i dt In @ @
+là Cải A n cde!
+AE Lưu ý: Hếu one lỗi quyền truy cp. thir chay lại Hinh với sudo. ImacOS/Linunl hoặc mn terminal với quyền Administrator (Windows!
+© chev LẮN ĐẦU & ĐĂNG NHẬP © cấU HÌNH co edn (roy cHon
+o ay werrdadl = Toy chin dll inkl ngưiệm bối hon
+n n se i "Thiết lập APY ey Uyểu động kếy cả r)
+@ one : t
+Ls Parsee FS 2958775
+(Chen gian diện mau (EpPt/dari]
+@--==e¬si.".. R @
+De ee a L : .. ; =@ Xem cles birth hiện tại
+= EN
+a QUY TRINH BAT BAU LAM VIỆC
+Led ie 2 NA chy Canale Cocke 3. Dặt cấu Beli Yêu thes 4 ahs ba ga > © 5 LỆC Bại & Tene
+ỉ (inches in thar > EEE cues > =| Wai Clute vicode. > & ‘Claude phẩn sich, viện code, Kien teats ecm và
+Oy ie của bạn. 1Clsgrig ni doc và hiểu phe cầu Ups tint ling. Cele ale ls để xuấn lậo es đề At quả
+oa my project G cle: bie wna Bs, refactor tach tie nuit t utah.
+ÿ Meo HỮU icn hy LỖI THƯỜNG ea BAN OA SAN SÀNG! X
+. sy athicieesvedl cakes . & ‘command not tour ea (Chm atic chưa Hho LT. fas ising iid wir bg
+ig ghiền aa đã sem ‘ , Tashertcvom lsazT ¬ Kal te gl đăng nhs b :
+n Bay git hay để Claude Code
+aaa ee Be "Pinko Brel neoerdnd" —- Bạn eth wang gr emai, hãy hử lại nae 118 thet be l Họ trình
+6 tt teeinal ein eon Pande bằng Peale hoặc Cor» 5 Sa a alan lee ad oes dinh cao của ban!
+rey CAI DAT XONG — CHI CON BƯỚC VAO CODE! >
+4 luôn sẵn sang đồng hanh cùng ban. =
+
+
+--- Trang 49 ---
+4/10 CLAUDE CODE SERIES a Claude
+Pa
+x af „ #
+l \
+Hạ „ @
+E | Reading files
+Để Claude Code hỗ tre ban hiệu quả, H ® Understanding
+nó cin hiểu rõ codebase, luồng logic vi ngữ cảnh da an. i: đ Building context
+ế
+Claude Code dos, phin tích vi by dung bức tranh Ung thể obs dự án m Ỉ Pasdy to help!
+36 dun rã gol ý chính xác, dũng ngữ cảnh và phir hop etait. Lt
+L
+Ø G1AU0E code aoc oy An THẾ Nor ÑR €3} CẤU TRÚC DỰ AN THƯỜNG GAP CLAUDE CODE Tim RIỂM ĐIỀU Gir
+a. eer @ Fie chubion
+QUÉT cAU TRÚC THU MỤC oa Mi nguồn chirh của Ong dp. ipackage jeer, tucontig jon,
+Hhận din các Ghat mục, fle Fy a E pempeniatel a, ibn conlig it]
+qean-irpeg và môi kén Pat EE ee © Gm bắt đba của ứng one
+features! (rede ja, mairutes, Appia...)
+Í sarvdoen Các t năng thee domain.
+DOC NOI DUNG FILE ee ee @ Cie edule, servicn chinh
+a arwcent
+(Doe ene, config, rg I~ app. jax FPEYHE EN EEHT business logic hung dd liệu và dependencies
+Hiệu ing: và quy t - main, jue ela © Quy ude dặt tên và clu trúc code
+7 .. [ public be him tiện ich, heiper T liệu ễ cọcrneri qauan tr
+XÂY DỰNG NOU CANH L— costs, n ratchet bi
+Hida tripe Úu ChỰ din, hae I- dees Kiểm thứ din v4, integration teat.
+schinh.depencierstles, ae s eal gan CÖ THỂ KIỂM TRA BẰNG LỆNH:
+và cách các phám lsên hến, | packepe. joo ‘Ta iba, hướng dẫn ie. # Liật be thle § ther mực
+J— tacenrig. fHơn Package jon ¬
+GI GHI NHỮ NGỮ CẢNH ế m at (Gud iy dependencies E rinks # Đọc file ey tl
+K ngũ cảnh trong sat phan fread urc/App. jax
+: pitigeore README m
+der việc diệ hỗ erg bạn tốt se, 090 thiệu và hướng dẫn nhanh. a Tis kiếm trong ay aA q
+Jwenrch “epeAwth”
+© CÁCH GIÚP CLAUDE cone HIỂU DY AN NHANH & CHINH XAC HON
+1 Glu trúc rõ hing . README dy đủ 3.0zmenthgplý 4. Thchmedulenhd  S.Fdecomig huin  B.Logi re không cho thiết
+EA GI u © ữ
+Tế chức thay =ục, đặt tên Ma tả mục tiệu dy dn, Qiảithich logephứctạp,  Chia nhỏ chức năng (Clu hinds 08 rằng Sử dụng .qitignere dil
+file, Fide thee guy wwe cách chạp tds tle, ig xữ Hi và cuyết giảm pty thưộc, tránh erator cuả nhiệu, loại bỏ ile uae, log
+nhấn quale công nghệ sử dung. deh quan trong, 1ăng tanks thd it cheng. gai dion gabe etek prone.
+# Ching rõ reg = Cliude Code cing hidu Aaah — Hỗ trợ ban cảng chính xhe!
+© vi DỤ: cLauoe cope PHAN TicH DỰ AN © LỆNH HỮU ÍCH KHI LAM VIỆC VỚI CODEBASE
+i claude LỆNH MỤC DECH: vi ty
+» fanaiyse Ge} tiếp thee
+E i dl ư E Ma [path] Liệt bob file & thu mục fle arefcomponenti
+= wt 343 file, 38 th C n . ã 2 ; fread [file] Dos nội dung fag fread ercuikpp. jez
+EE dim whe chính: areymadn. jex Xem APL endpoint Semanch [kepwond| Tes hides trong didn feearch "useEffert"
+@ art an! arefarviecsiiel. H Hướng ddin chạy ay an Jorem [battere] Tes the gamer Crepes) /grep "TU09"
+Test: Yitssk (Eweta/] tree [path Hiện thị cây thư mục ftree are
+¬ # Mes: Hãy bản dẫu bằng fonalyre d Clsudg Cods năm tống quan ự áni
+TÓM TAT TRANG MAY - : l
+sf?  Clmede Circe đọc wh hiểu dự dn của bạn HIẾU DỰ AN KY = LAM VIEC HIỆU QUA GAP BOI!
+b Chum . l U nikanh Set ee . ath H T
+z + eon ie = Hay dé Claude Code trở thanh "ban da
+z ì n củ thể đùng các Lịnh để khim phả cosebast - š . x
+1 Hiểu d án idk = Gel bốt hơn, dig ngữ cảnh hon ¿ din ban di nhanh va đúng hướng trong codebase.
+ữ re Vi ¡ ¬ : H r !
+# Tiếp theo: Viết code mới bing Teo chức nding, component, AP! thee yếu clu của ban! >|
+
+
+--- Trang 50 ---
+JL LỆ =X CLAUDE CODE CO-WORK SERIES a X Claude
+ể = : ` gum
+r3 Pry) b, ie E Coneecting API
+` ì ¬ ư ............
+if L Sending request.
+CUNG CLAUDE CODE rt
+Tích hep API dé dang dé mỡ réng site mạnh cho dy án cia ban. \
+\ F;
+Claude Code gúp ban ft nổi, gọi và sử lý API nhanh chóng, an toàn A
+vib hiệu quả ~ tir REST API phd biến đến các dich vụ Al mach mã, 7 a |
+|
+wat, REST API ibe định APT che dong
+‘Vina clk fIbeqquesti Emmai Ge) Prd biển nhất sữ đụng HTP 9 @ Đọc thibệu, Hiểu enspoirt
++ #.. — m T GET, POST, PUT, DELETEI {ve thers,
+= k A . jE eo Ly API Key induce)
+Ứng dụng PRA Ne EPesesresl API Bich ny ey Graph@L API ier ef khoản và lấy
+ele bạn Server YAM Truy vấn o2 Btu teh hoạt [AP Ripa
+Ÿ vàiiệu quả hơn. Ø BQ 5nrsetbeoc
+AP [Application Programming interface) Ub cầu ni cho phép BM s dpng Claude Code ll gol
+ứng dung của bart Gio tiếp với các địch vụ, Ì!dll'ủ'ỤI.`\.Ìc F SOAP APL API với phere thúc phù hop.
+Wide —+ H Xử lý retro [phản hồi]
+fn hs bie nd coe o — thận và xử bý dữ liệu trả về
+ñ Ê TRAP,
+9950 l
+¬ a (ike AF A mạch mã ces © .X 0 U
+K n N N E ư at RP uu rd, riến th) hoặc nfs hợp
+Seah n Se Open deaheopse, Hugging Face wight
+Í €} GỤI REST API VỚI CLAUDE CODE = VÍ DỤ THỰC TE J
+A. GỌI API (GET) = LAY DỮ LIỆU THỜI TIẾT
+I response 1 fetehiurl);
+t data m await: resgonse,jranl];
+eondéle.tog(” & T ti 4 $(cityl: $idate.main.temp)*Ct*);
+B. GỌI API (POST) = GỬI DỮ LIỆU
+a MO EMI LAM VIỆC VỚI API
+ened: OST of l lực kỹ thi fu API (Documeneationl
+readers: ( © 'Gi an toàn APH Key, không commit Hin Git
+N T N G Wake ie lØ Xữ H kỗi [errox Parsdling) cfm than
+¡ E l Gới hon 08 Bin gol APT [rate limit).
+lài
+@ Các AP1 HỮU ÍCH gan CỦ THE THỨ | () KIỂM TRA API NHAHH 1
+. Perr _ a
+©-- @- Bm http
+đ ==san Thy pkn các model Mimạnh mt bêngnrdisisrm.npenoi.con =
+(i) xerees v ử dụng Claude que APL ea d Cd erga, ide ao cine Dùng ting Ret, CU thăn than,
+tari nee seg pre arers cob pio dom ge
+Q Ssogxluesit led Shain, enhvi Nv guugie :
+Wi dy ba r a vỢi b
+Py Wrath AP ự bác hes tiết rcs claw he pena: .
+LY nnetesbcal Real muoicrr RTE SS EEN pie heer ea L
+4) : = TIEM NANG MỠ RONG!
+ũ „ Với Claude Cade, ban od thé kết nổi thế giới và xây dying những dmg dyng mạnh mẽ hon bas gid hat.
+
+
+--- Trang 51 ---
+VALU >⁄- CLAUDE CODE CO-WORK SERIES % Claude
+` 3 . a ot
+` ˆ . = ©) Kiết nổi we toàn
+= © Phin tich dữ by
+Kết nổi, truy vấn va quản by dif liệu dé dang, an toàn, 1 ( c m oữ u |
+= Claude Cade giúp bon kết nổi database, viết truy vấn, . — Ạ ¬
+NH phản tích did liệu và tdi ưu Fiệu suất nhanh hong.
+1
+@ cic DATABASE PHO BIEN | @) KETNOI DATABASE VOICLAUDE CODE |
+MySOL Postgre5QL SQLServer SQLite MecgoDe - F -
+Quanhệ ed, The hoe Mi Nhe shang. L à -
+mđ ngườnmd { mãnôngVết vớihệsảnh chill ghú hợp nuờde,  Enh hoạn, iepert free pa; [
+Mecrosolt lat 0 liệu Je u Reader lng K . a tale}:
+await cliesg.conmest( Heit ng
+soba. tege: E an todn
+A. THUY VAM CO BAN 8. JOIN TABLE C. AGGREGATION D. TỔI ƯU HIỆU SUẤT
+NHẸEE u.ntatur pent ot eae Trinh SELECT *
+oleae Gary m FY hata ner OS ©
+SELECT name, email f=] Phin T, OfFSE]
+wR wate tr =a | re | Q Clrude Code có thi giúp ban:
+ORDER WF created_at PESE aie air [eit] 54 dóng PLA a che tics
+THET 18) care pees title Ø Viết truy vấn phức tap
+r. weer_id (FQ © Tiley hiệu eat eden, PLA : .
+a = —— ©) Chopin đối giữa các latent SOL, ¥ secs xgEredbch
+SQL
+© PHAN TÍCH & XỬ LÝ DỮ LIỆU Gc TH yc H Tac OU LIEU " ]
+Trich audit dữ lệu Wi dụ: Thống Ba mgười dùng hee thán NSERT INTO ween drome, email)
+hy Xuất Oo BEM Z9O Bevel c = . Thebes d bệu mới VALUES {'An', 'œhðexamgls,com'l
+Ñ Thống kt & Bio cáo “eo a uPOATE a
+L | eev .. Ẻ2j qTWW -. SET station » "Kaactive
++ L # iổ s i;
+Lien sạch đỡ hu ne
+Ts nail ie ring Rie hia. a di tang H o DELETE DELETE FROM users
+n T m ta T Th Xóa đử ibe WHERE if = i;
+|? Phin tich na hưởng
+E Patch theothtigion, hin wi hike Clie Cocke od ahd git bare: @ TRANSACTION MIN:
+lØ Vit fray ein phn tich phe tap Pim bis keh tele wee ee Se aimee;
+Ø Tes bbs các trực qean
+© Phất hiện ar be thing é Lun gử dụng transaction cho cắc thae tic quan trong!
+( Bho MAT & BEST PRACTICE
+Sa hte a rah WO, Poaraterosd Geary Prk guyln tang by aa bra ad ba ain it Leg Kaien trị E Thane
+a a ak Raed @ Teh %% Recher, & av cae cpr > Bach dit ig @® Thee đội howl động. ~ (Cyr ep aa nem,
+Ping Ln adie. Wee WME d n 11 - gản ths (aides tra phục hội phảt biện bấn hường. tray vie chi,
+= ‘SHI RH
+= „ H H H 2 H ñ f ao -] i a teak,
+. DULIEULATAISANQUYGIAE - S CN
+# với „ ban lam cho dữ liệu - Birt pha hiệu suat! 3 is tch hiệu nuà
+UC, HH
+
+
+--- Trang 52 ---
+WAN 1 CLAUDE CODE CO-WORK SERIES _.. 7 Claude
+ˆ .- . n
+ey. \
+(ais if
+Aan Building backend
+me “SS = Running server...
+"hal i
+Bién ý tưởng thành hộ thống backend manh mẽ, sẵn sang md rộng. H *
+WD claude Code giúp ban thiết kế, viết code và tối ưu backend y+ ¥
+me Thanh chóng, chuẩn cấu trúc vidi bảo trị = =
+at
+Os) n ad ue rich is (BD > rratstch catatonia os i
+. - à i : ~ Thuết hế APH
+Python + FastArt „ Bae eg thie OGM, PGT, PUT, DELETED,
+fee eee  Lihhoạt et mdrảng lự động tao doce Gi > Khôi t dự án wi Claude Conte
+org dưng ane Sb des t ih Pang hệ trey H al Yêu cde Chace Cocke tạo cấu trúc dự dim,
+Nests be Pichi, Ph
+x x ] > chutes men, u . nất n a
+7 Typeeriet tain Ø:s MBL kập m mLgrRH, see ane
+.. — Geo (ind re Villt logic & APY
+ae pa ế Hiệu suche come 5 | * Xữ N nghiệp vụ. waite, rử lý kš
+. phù hợp hệ thing ite Py Teit Te ie
+Catan taba Ắ Java + Spring Hoot Se
+€ ie bảo m gm . Triểnkhai
+entrireu © Serer pana en
+A GAU TRÚC PROJECT B. BMH HGHĨA MODEL [MUNGDDBI G. ROUTES (EXAMPLE) D. CONTROLLER (EXAMPLE
+eee eT JS eeail: (tpt: Pieaey, repeiceds ure cont rewtar = aupewes Sevier; tes. ont
+l ¬ erautect- | type: Date, defiatt e . getinar&y3s| cmt ner = H EE E nt
+FEE md
+h = c. 20.8 . Swagger
+ee 4 sport cont erwateoarsctoms spect n goip 1 Bog mer doce
+ashame patos vt errecterr G c T n ¬ -
+ì c ee — =
+a U Late agree er reer Fo-soetsy angen aa tage
+ae arn et tees varies
+gi) Take te EST Hào mặt ae Tích iếi he 2202 Viết Tear Tâ kệu hui
+CP Benign LJ APL = koe Ast. il & Monitor Es] cho AP TT
+se tang shag \atcien gut, ting Caner —Serce Tribe aba a Ohio thas ey ri et, mara eruh ning gi tase
+(eae HTH, wg Jere, geo ee bsg ã hos are nes gh i eg ee kes a phn sitargé nd
+ph ợ ra, TTP cok tra bbs =
+| GHI NN E H
+E) Backend tốt = API rd rhng + DG bệu an todn = Hiệu năng caso, XÂY DUNG BACKEND VỮNG CHAC
+Cs Cin là trợ thủ dắc lực ghúp bạn nhy đựng nhănh, 4Ạ fflI.lNl3
+Bong chain và ob mớ rộng. . !
+B Luôn do lưởng = 8) uta = cl tin liên tat Mặch mẽ - An toàn - Sẵn sing md ring!
+
+
+--- Trang 53 ---
+Al >1 CLAUDE CODE CO-WORK SERIES = Claude
+% z Fa ¬ wf i
+XU LY XÁC THUC & : í
+. r1 ñ m R och
+~ E . L
+LẠ - _j' Authenticating
+H 3 Access granted Nẽ
+VOI CLAUDE CODE (| 3k
+Béo về API của ban = Đúng người, ding quyén, ding dữ liệu. By a
+i Vt
+‘Claude Code ghúp ban tich heap xác thực & phan cuyền L |
+28 ing, gp AP) an tod vã tudes khủ nguyyễn tác bdo mặt L .
+By AP Key |
+r . gin, 08 ding (o=] — m — — —
+eee Caer APL Seewer po. NT Client AM Server
+ff are | JWT (JSƠH Web Toker] Bang nde Mic thuực thông tin Ted về token Cae n hog Kaden bribes
+kldl| Tpke chia thing tia n guối dong. mmỗi request Sukh
+ko mặt, rd sộng tốt ‘Vidy tạo Binnie thực JWT [hede.ja « Erpress]
+ĐAath 2.0 fi aicat = _
+ube the cua Eb thd ba . GG .C angen T E ne
+ass prin aang rid trie aren, augirentn ene
+abe :
+Pha hợp ứng dụng eb ruyền thing, m N tag
+[í E) PHAN QUYEN (AUTHORIZATION) ‘© BẢU VỆ api ~ NHỮNG LÚP PHÒNG THO
+iach HÌNH BEAC (Bolg-istedl Ancess Control) ‘Virdy hiểm tem quyền (ede fs + Empresa: g HTTPS
+.. f B = TU Pitas Soán ah BT Rag trưyền bbl
+› E E req, mwa, sant} n
+a - l E Paes ala P APL Koy ƒ JWT
+[ » ein ares Erol tials Dies thực danh Rin guts dùng
+fae + chi ata ie 3 Phân quyền
+Uyer viewer | : (GA cho phên hành động hợp l
+sÙ Sem a kêu . Ụ Rate Limiting
+(Ci hạn số hượng request
+meen tie H N NH ủ An thông tin nhạy cảm
+BD ib cee thuặc về một hoặc nhiều rote ma one, ree Rhông trả về er pe không cies thi
+©) liệt szâa có ks hợp quyền Ipermevssvg)
+tr chet Logging & Monitoring
+(Riles tra quyền trước khd cho phép truy thie bd nguyẽn, = (Dh log, cảnh ke leh vd bất thướng
+H u UO AALBAAEILOSGCh1 GD |
+WEN LAM TRANH Lisa babest() ử N s E EE Ding nhập ¬+ Nhận BT
+Scien at m . rateLinitt) eo N rrr ae
+A ongeenesvem bone getty i EF a zoom athe Aa oe
+ia); sauce ae ã rrr Ø  Kiếm tra quyền (authorize)
+kit s xO by request nd hợp l
+F age E Teh oft quả hoặc Di phi hợp
+1) 1oEnhenskskeon £7] ri vẽ mông t ree rubeLinit s rggrirr|
+. . 1 i } © U1 Unaschoriced - Chu nic thực
+a 3410/00835. 6 © 200 Pecbidden » ing có quyền
+xgg.vAsirrisLinit|| mindosEm: 554 mas: ) 473 Tos Hăny Repeeiti - Ged giải hặc
+@ BEST PRACTICES
+Thiết gun te, l . (POM Rone A revo th H H M “Tain thi chuản ko mặt a] (idles thờ ka mật
+“Least Privilege” @ mãtkhhs(errg] = G ự token dink by BD heal ting bác tevirg [OWASP Top 10H Being may
+> BAO MAT VỮNG CHẮC - HE THONG BEN LAU! É
+~ Với „ ban kiểm saat ai : truy cap va ho duc igi,
+
+
+--- Trang 54 ---
+Alt > CLAUDE CODE CO-WORK SERIES fT 3 Claude
+as . .. . . Ạ
+TEST & TO UU HIEU SUAT —“ (
+=
+. i a - Patbed: 78
+ií Vf Failed
+Kiểm thử kỹ kưỡng = Bo lưỡng & tối ưu = Ứng dụng ốn đạnh, nhanh, tin cặy. \ brett
+— nguời
+(9ude Code giúp ban viết test, do hiệu suất, thm bottleneck et 4 At
+và BE af hệ thống đề ứng đụng hades din định E hiệu quá. - c
+O rrimouresrrancoe PO werrsrviicanccwe |
+Đăm bảo cht ượng Lepl Test Mục dich vidy 3 đục Line Teak với beak (Mecha HỊ
+os. SS —
+r Hiệu suất vượt trội vasgienten SRE (AP go, erwin 1 Tectevt case
+D Org 355 ennnnon nay n tuo the (oot seereios he .. :
+O Kia taendpot - GET fare ee purses
+API Tew im font agi ri i @ Teme
+i gee giảm donoma, bối u Gin EZE Feet Fads bea lation tg ih iia A ri . - Ø Dã ruất u
+u Enemy người ding + Tạc dữ kệu : cùn thiệu
+u Kiếmtrahiậu m 9190, HOO, LOO epee saat, ther © ba d hac phú
+Trill nghiệm tốt hơn iii a t ied L I n lv gd
+© Phảm hồd nba, n định, urne fll bing Ak. rm d Kien tra hing «= SS, SOU, ath, expect (mum kobe) © Relsesor code
+a haa ae or ate bier Sha tne
+o BO LƯỚNG & PHAN TÍCH HIỆU SUẤT
+A. CAG CHÍ SỔ CULM TRONS H. CONG CỤ HỮU ICH . O HIỆU SUẤT VỚI Kế (VEU . PHẨM THO KET QUÁ
+Eetporion Tara Powtean | khoosrrea mpert hing from "i Raqeete
+@ So kage requent mi lý pike A 1553 Tent E la NH # 230 m
+TỊ Mada oer, Se % Do hiệu mallt Webs ( aeration @ ia.
+CPU Mesery Hew Relic ! Dutadog thee -
+2 , | @ s u Pers
+s — Chưrg T q3 Promatheun + Grafana a G aa s rl Se
+Tha gian truy elim Co aka eke 2] —
+& Cache Hit Mate 7.) ees beapect A r eet h ili
+TỊ Mcache được hit ng ong đụng .. " rh =e pnt @ cra
+rou yo patanan I ¡ Ư .
+X Tönzu ư vw pea $ com Even nes </>) = ử c © as #)
+© testi HH Beer rà hae ©) ache be tet © Y EE .
+Or 50 đựng truệt ae te K Tey rie oe SUNT chee) ein / Mamcachund © hen dU E tanies orcas) ton ii u 00i
+1 Selah phúc tap gt @ Pinney par KØ Cache res ting L A U H Chay Wet Tene tegen Tent
+Ce hibgsd - i “ránh m khảng năn khon @ Timmy 3 Horrerse kosng Ø kếm a Commeage x B
+© tent gery L © Cacheleatiiaton ding nh ) thenerche the musing L rt
+@ Loud tent cơ bản
+Deploy ki tlt ch pase EF
+5 L EH H N ¬ ° © Veet shenh chông
+„ a (Ci) Q as PAs 4 @ Ø Phot hiện vile dễ sớm
+- (Ø nhông at hản age nghàờm apg N Od xuốt i s hiệu suất
+i a n 1EAHVØP 0210099 cmiswneh c 0yeknhe, c Thố s m N e s E E
+” n m . ee - ngdngie - Dme- Á- hike đ GÝ
+- ii Salat ee ee L u © Gip te ieuse sảnghám
+(Gh neck clue lle eg | l E m K eo
+: p = T61 UU HAY - UNG DUNG CHAY MƯỢT MA!
+i với „ ban xây dying hệ thống chất lượng cao, hiệu suất cao, sẵn sàng mở rộng!
+
+
+--- Trang 55 ---
+ilyatt) - 3 CLAUDE CODE CO-WORK SERIES 3 Claude
+w af a L
+TONG KET & TRIEN KHAI ; l
+4 Š =  Preject Completed!
+DU AN VOl CLAUDE CODE 2 a
+- Ready to Deploy 4
+Bién ÿ tưởng thanh sản phẩm thực tế = Nhanh hon, thông minh han!
+.. vei Clsude Code, bạn có thd xây diag. test, tt au và deploy A
+ig: ứng dụng hoàn chính chỉ trong vài bước.
+Gees Bevin || m _-
+ậ Hoga Data (Ơ) mátiế atin -
+ĩ Frontend Backend Database Higu suất cao
+@ yay ©) ieee Ls) Li pope Te ư tốc độ Bt ngưyên
+L Ị ị t Beece
+© dade thực phn quyền @ na ý đữ liệu E ike thực, phn guyền, mã hóại
+. . - ..
+@ Test AbSiuebitu sult cS a O = oP 08.46ng mining
+— rd & morvtoring A ~
+: uth Cache Monitoring ‘ee
+© Tribes khái & Brainy } CANT Ceca đrorathani ớỀJ =o a
+HOD tự động kẵn
+hPa) Coe
+Claude Code Chulin by
+© A Coding Aasitant . A, 0 Euuresk.diii © Luận quản lý secret bằng rw
+: Gs Le ©)  Viên code module hela, đã bdo trị
+đ m2 1 ae
+Bacher Ý ra-=evecrl
+2] Sea © Sử dụng logging & manitering
+K 4 PostgreS OL / MengeDB loft nÃi database @
+NH nsusan .. @; © Tu quany & coche dữ liệu
+: — Ø owas .. 7
+@ T ae z i — : et © Kiểm tra kỹ trước khi deploy
+G n ỤỦỄ Ủ = n F- -.
+„ Docker /GI-CD i m E
+NH Tidak Dep 4 ] Hines meee 4 ¬
+(EhubfvP5 s
+= = an —
+Few $ E E E “ @
+Web App REST API Dashioard A Agent Mobile Backend Doce Examples Coenensaety Updates
+uên Ha Tigh oom Fob egg  PhintihB hati ik L ISH H ner a ng Tid iệu chính hoe, Dự án mẫu Cặmgsốngklwg  Clạgrhjg m
+CHÚC MUNG BAN DA HOAN THANH SERIES ! CH
+Ẻ Với „ mọi ý Ũ i L
+_Ỉ|' Hay tiếp tục sang tao = xảy dung những san phẩm tuyét wii!

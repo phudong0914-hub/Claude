@@ -1,0 +1,65 @@
+--- Trang 51 ---
+L :
+(6/10 9 CLAUDE CODE CO-WORK SERIES con > Claude
+A i ¬ iA Claude Code
+LAM VIEC VOI DATABASE (9) , (n^ ) ......
+` = „ | ® Truyvấnthôngminh
+CUNG CLAUDE CODE ís Ÿ Aw A oe
+Ả à ro r Sy C
+& Két néi, truy van va quan ly dữliệudễ dàng,antoàn.. ———- ‹ l
+— t o mat dữ liệu
+—< Len :
+> Claude Code giúp ban kết nối database, viết truy van, ⁄Z2 ², E ‹
+È— phan tích dữ liệu va tối uu hiệu suất nhanh chóng. —S —X — ek
+CAC DATABASE PHO BIEN ì KẾT NỐI DATABASE VỚI CLAUDE C0DE
+= | DATABASE_URL="postgresq1://user:password@localhost:5432/dbname”.
+# Hodc sit dung file .env
+# DATABASE_URL=mysq1://user:password@localhost:3366/dbname. ủ’tnõi
+MySQL PostgreSQL SQLServer SQLite CMongoDB - H
+Quanhệ  Mạnhmẽ, TíĨchhợptốt Nhẹ,nhúng  NoS0L Tae a ấ c H i
+mãnguốnmở mởrộngtốt vớihệsinhthái phùhợp mobile, linhhoạt, import { Client } from 'pg';
+Microsoft lo dữ liệu JSON const client = new Client({ connectionString: process.env.DATABASE_URL });
+await client.connect();
+Ạ console.1og('@ Kết nối thành công!');
+VIET & TOI UU TRUY VAN VỚI CLAUDE CODE
+‘A. TRUY VAN CO BAN B. JOIN TABLE C. AGGREGATION D. Tối UU HIEU SUẤT
+| — Lấy tat cả người ding SELECT status, | QB sizdung INDEX hop lý
+SELECT id, name, email ia PK) idk) COUNT(*) AS total_users , i
+FROM users; st ath FROM users ® Trành SELECT *
+êt Ễ á GROUP BY status
+ak hae m n ORDER BY total_users DESC; â
+SELECT name, email | status created at pe) | Phan trang (LIMIT, OFFSET)
+FROM users. = = s + G | | ¬
+WHERE status = 'active' Í sELECT u.name, p.title, p.created_at ; Œoeorgagos Il [4 Sử dụng EXPLAIN để phan tich
+ORDER BY created_at DESC - FR0M users u @ Viét truy van phức tap a eB:
+LIMT 10; JOIN posts = ON u.id = p.user_id aimee?
+ee v a I @ Tốiuuhiu sult (index, EXPLAIN) 4 Cache kết qua truy van
+| | ORDER BY p.created_at DESC; | @ Chuyén đổi giữa các dialect SQL
+PHAN TICH & XU LY DU LIEU @ THỰC HIỆN CÁC THAO TÁC DỮ LIEU
+X Tích xuất dữ liệu ( 'Ví dy: Théng ké người ding theo thang col INSERT INSERT INTO users (name, email)
+2s xuôơnieseS.0kEed. u Thêmdữlệumð | VALUES ('An', 'angéxample.com');
+Thống ké & Báo cdo 800 UPDATE UPDATE users SET status = ‘inactive’
+alla. dé, ting ho, bigs , .v A ae pie
+pair Pal Ổ cậpmgtdriệu | WHERE id = 1 ld .
+Làm sạch dữ liệu 200 - l DELETE DELETE FROM users WHERE id = 1;
+4. Logi bỏ di iệu tring lập, 0 - x Xóa dữ liệu J
+thiếu, sai dịnh dang TN 72 T T Tổ 7 aE
+¬ . a Ae a TRANSACTION - . :
+Phân tích xu hướng Claude Code có thé giúp ban: ẨỶ bambao tinh toan ven - Thực hiện các thao tác
+R Phan tích theo thdi gian, — COMMIT; -- hoặc ROLLBACK; J
+hành vi, higu suất @ Tao bio cáo trực quan
+@ Phat hién dữ liệu bat thường Luôn sử dung transaction cho các thao tac quan trong!
+\ | a
+l \O MAT & BEST PRI ¬
+‘Sir dụng biến mai trường Parameterized Query Phan quyền hợp ly Sao lưu dữ liệu Giám sát & Log Kiểm tra & Tối ưu
+a không hard-code Ig) Trinh SQL Injection. & Chi cấp quyền (A) Backup dah kj, <OD Theo dei host dong, G Dinh kj t6i wu index,
+thông tin kết nối.. \Vi du: WHERE id = $1 can thiét. kiếm tra phục hỏi.. phat hiện bat thưởng. truy vấn chim,
+=
+7 - L : GHI NHớ Ø
++ — : + : FP: NHớ Ÿ
+. Ả N I n ee : ia |
++t-+ DỮ LIỆU LÀ TAISANQUYGIA! - , Ory vent ]
+. ũ l B Yvan théng minh |
+¬ > ” 4721Ä 4 rane Ky Phan tic i 3
+Với CLAUDE CODE, ban lam chủ dữ liệu - Bứt pha hiệu suat! + han tích hiệu qua !
+a + a = ( Bdo mit tuyệt 464

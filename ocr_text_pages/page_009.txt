@@ -1,0 +1,63 @@
+--- Trang 9 ---
+m < KHÓA HỌC CLAUDE TỪA -Z > m N
+_ G a n
+zo⁄ss w w CÀI ĐẠT & TUY CHINH CA NHAN
+7
+x¬ ” ˆ :
+© Hiếu các tiét tp quan trong trong Claude Ñ L
+© Toy ction pao dện hành theo nhc Tối wu trai nghiém Claude theo cach của ban -
+@ Quản Ij tai khoản, thông bao & bảo mat vi SAO NEN TÙY CHINH CLAUDE? `
+© por trang im vie tha tin hse G S @ ® ì
+3 Tối ưu higu suat ‘Trai nghiệm phủ hop Nang cao hiệu qua Tang cưỡng bao mat r.
+' u — à tốc độ phan hi ‘di phong cách của ban và độ chinh xác va kiểm soat :
+⁄ = G ~ - we x
+í r HUONG DAN CAI DAT & TUY CHỈNH
+Truy cap cai dat menu - theme &sidebar artifacts - giao diện preferences - hành vi account & privacy - bao mat
+Vao Settings để tùy chinh Quản l thông tin, chủ 68 Tuy chinh giao diện Quan l các thy chon hành vi Kiém soát thông tin tai khoản
+trai nghiệm của ban. ‘va giao diện. cc artifact (ndi dung Al tao). va phan hii va bao mat Claude.
+Í claude ‘Appearance Artifacts Preferences ‘Account & Privacy |
+® Profle Theme wa Asosnnsieoss - C@ None |
+lan © vat ark Inter e ˆ - |
+Ø Pt — ‘Suggest follow-up c all
+® Biting © Spm Smal || Medium || Large acne e trungyt@examplecom Verified
+© sady sidebar em t ce Two-fctr auth c
+n os ¬<+ Comput | antrobe (Space Websearch c m a F
+® n © Proets c — i Manage your data &pivacy
+esponse leg 3
+| © Arter c code theme n XH E
+© neei c Claude Dark = Language Download your data |
+| © pe @ Seared c Tiéng viet = Delete account
+‘+ Nhấn vao avatar géc tráidưới - » Chon giao diện sáng/tổi/hệ thống. -. = Chon phõng chữ & kich thước. * Bật/tất tinh nang phan hoi * Quan ly tai khoản & xác minh email
+|= Chon “Settings” (Cai dat) - + B§Vtất mục hin thio sidebar + Điều chinh mat a hin th + Chon độ di câu tr i + Bat xéc thực 2 bước (2FA)
+| * Truy cap tat ca tùy chon 1* Sp xếp myc uu tién hiến thi * Chon chi dé cho code & nội dung . « Chon ngôn ngữ mac định. 1+ Xuất hoặc xóa dif liệu tai khoan J
+u 2 2 L aX .
+Lia
+CAC THIET LAP NOI BAT KHAC MEO TUY CHỈNH HIEU QUA
+Language - Ngôn ngữ. .XY Á at .
+N n N u NH H QO U tiên chế độ Tei (dark) ban đêm để giảm mai mat
+- Keyboard shortcuts - Phim tat LỄ . - N N |
+) .? Poe n n T agtary ffs thas ts near © Bật tinh nang gợi y tidp theo (follow-ups) dé có trợ ly thong minh hon.
+Beta features - Tinh nang thử nghiệm. ` - - ˆ F - |
+A Ea ae a ế (@) Sử dụng mau prompt (templates) cho công việc & học tap thường xuyên |
+Integrations - Tích hop E E L |
+ge Kết nối với các công cu khác: Google Drive, Notion, (  Thường xuyên sao lưu (export) dữ iệu quan trong |
+i) Security - Bao mat n N. AN L K i
+(8) s xh © Bao mat 2 lớp (2FA) va kiểm soát dữ liệu cá nhân chat ché.
+⁄ vi DU TÙY CHINH THEO NHU CAU s
+NHÀ NGHIÊN CỨU / SINH VIÊN NHÂN VIÊN VĂN PHÒNG CONTENT CREATOR / CHU DOANH NGHIỆP.
+© Chế độ Tối | © Chế độ: Theo he thống Ay © Bah do: Tối „
+Ss @ Sidebar: Projects, Chats, Artifacts | rz] @ Sidebar: Recent, Projects -(_ )-S sidebar: starred, Artifacts 74
+@ Tinh năng: Web search, Citations @ Tinh nang: File Upload, gợi ý “ Xg @ Tinh nang: SEO mode, POF, Tools 1
+@ Ngôn ngữ: Tiếng Viet + English © Phim tat: Bat @ Mẫu tra loi: Chuyên sau
+Pi : , @ Ngôn ngữ: Tiếng viet @ Bẽta features: Bat
+Tối ưu cho học tập, nghién cứu & trich din Tối wu cho công việc, báo cáo & xử lý nhanh chóng Tối vu sáng tao nội dung & quan lý dự én hiệu quá
+— = — ~ = = . — ¬ — E GE ⁄
+7 T H “ n T m £35
+PHÍM TẮT HỮU ÍCH Í GỢI NHỚ <5 CHECKLIST CAI DAT NHANH
+@ +{K) Mở Quick search se * Banh dau quan trong (Star) cho chat E Bera
+ế 17 ] \ © 0ã chon ngôn ngữ & giao dién phi hop
+®z[7) - Xemtấtcả phim tat M v S
+(aes oe + Kiểm tra dinh kj các cap nhật mới © Đã kích hoạt 2FA dé bảo mat.
+Reza) Ma Command palette l © a tht lập dữ iệu export & quyền riéng tu
+TIẾP THEO CAC MO HÌNH CLAUDE & CACH CHON -
+BÀI 7 Tim hiểu các mô hình của Claude va cách chon mô hình phù hợp với nhiệm vu.

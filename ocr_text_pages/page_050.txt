@@ -1,0 +1,71 @@
+--- Trang 50 ---
+5/10 | | 3€ CLAUDE CODE CO-WORK SERIES > Claude
+=. ¬ „ ⁄ à
+eS / ‘ny A @ Claude Code
+NAO BR | >
+s ° - = Ø Connecting APT....
+l @ Processing data..
+A i - ầ © Success!
+Tích hop API dé dang dé mở réng sức manh cho dy an của ban. % y | WwW
+Zz.. WZ
+(AP!) Claude Code giúp ban kết néi, goi va xử lý API nhanh chéng, antoàn .. . — M Ỉp
+va hiệu qua - từ REST API phé biến dén các dich vy Al mạnh mẽ : =< = J
+Ø APILÀ 6Ì? CAC LOẠI API PHO BIEN QUY TRINH LAM VIEC VỚI API
+s Yêucấu REST API G Xác định API cần ding
+[o==| (Request) B Phổ biến nhất, sử dung HTTP. 9Ø oc taillzubien endpoint
+ee a § > ¡ - và tham số.
+(GET, POST, PUT, DELETE). Ũ
+= ‹ — i
+ã rT API F e £ Lay API Key (nếu có)
+Ung dung gene, Dich vu / GraphQL API Đăng ky tai khoản va lay
+cia ban Server Truy vấn dữ liệu inh hoạt | ÿ APikeytoken
+và hiệu quả hơn. i a H ..
+API (Application Programming Interface) la cầu nối cho ° & Gửi request (yêu cau)
+phép ứng dung của ban giao tiép với các dich vy, hệ thống khác. SOAP API | ‘SU dung Claude Code dé goi
+| APL với phương thức phi hop.
+Vidu: Giao thức cổ hon, ding XML, | Ũ
+độ dinh, bao mat cao. © GS Xửlýresponse (phan hoi)
+gies ) u Nhan va xử lý dữ liệu trả vé
+5 ove nae
+Gy e (By we) AI API eee es
+trode Secs Ye GONG i Ci APAinyh mh © (O) Ladina vo yin
+‘APL 'OpenAl, Anthropic, Hugging Face... Luu tris, hiển thị hoặc kết hop
+với logic nghiệp vụ.
+@ GI REST API VOI CLAUDE CODE ~ vi DY THỰC TE
+“A. GOI API (GET) - LAY DU LIEU THO! TIẾT ) Response (vi du)
+$ claude t
+// Goi API thoi tiết (0penWeather) “coord”: { "lon": 105.85, "lat": 21.02 },
+const apiKey = "YOUR_API_KEY"; weather” iL wi ae ay"
+const city = "Hanoi"; (main": "Clouds", “description”: "dam may",
+const url = ‘https: //api.openweathermap.org/ ee oe n }
+data/2.5/weather?q=$(city}ñapp1d=9(apiKey}&units=metric' ; "main": {
+“temp”: 28.6,
+const response = avait fetch(url); “feels Like": 31.2,
+const data = await response. json(); humidity": 74
+console.log(" i Thời tiết tai $(city)}', $(data.main.temp}°C) ; x
+P — U L
+B. GOI API (POST) - GUI DU LIEU
+$ claude -Q¢ MEO KHI LAM VIỆC VỚI API
+—
+const response = avait feteh("hetps://api.exomple.con/tasks', { © Doc kj tai ligu API (Documentation).
+headers: { ae ae © Giữ an toàn API Key, khong commit lên Git.
+"Content-Type": ‘application/ json’,
+‘Authorization’: ‘Bearer YOUR_TOKEN' '® Xt ly lỗi (error handling) cần than.
++ „
+body: 2S0N.stringify({ © Giới han sé lan goi API (rate limit).
+Se kh Loe © Ding biển môi trường dé lưu API Key.
+ dueBate: "2024-05-20" — nr”7”T ¬
+Wi const apiKey = process.env.MY_API_KEY;
+const result = await response. json(); 77 Lưu terong: .env: MY_API_KEY=your_key’
+console. log('M Tao task thành céng:', result);
+CAC API HOU {CH BAN CO THE THU KIEM TRA API NHANH
+APL Mô tả Website Ñ „ [P8kuth
+EH EE E S QG reve Dwi Fo http
+AnthropicAPl - Si/dung Claude qua API —_‘hitos/consoleanthopiccom Gui request, Giao didn dep, Ding dang nh, —_CLithn thién,
+kiém tra va test API dé ding nhẹ & nhanh cú phap don gian
+© Google Maps API Bin d8, di diém, dinh vi https 7ldevelopers google.com/maps.
+Vi du kiém tra nhanh với curl:
+18 veeesin tad aad Se ope et) curl -X GET "https://api.github.com/users/octocat" \
+© GiSbRESTAP —Quénty repo fle, isue,.._psi/éoce. github convenes -H "Accept: application/vnd. githubejson” 2
++ ; API MO - TIỀM NANG MG RONG! + H
+i -. Với Claude Code, ban có thé kết nối thé giới va xây dựng những ung dung mạnh mẽ hon bao giờ hét. ˆ

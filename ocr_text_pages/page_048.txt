@@ -1,0 +1,58 @@
+--- Trang 48 ---
+3/10 | Í 3# CLAUDE CODE C0-WORK SERIES | . =. / * Claude
+- K ¬ - :
+
+a K b R \ if N œ= 3
+CAI DAT & BAT DAU oy UE
+
+~ R HN . | Claude Code
+VOl CLAUDE CODE Á Y đ@ —
+Hướng dẫn từng bước để sẵn sàng làm việc với trợ lý lập trình AI. * N — (,
+
+Chi vai phút cai dat, ban đã có một Al developer = r= | p)
+
+Y) luén sẵn sang hỗ tro ban 24/7 trong terminal cia minh. | — I =¬ | * P ;
+@ CHUẨN BI TRƯỚC KHI CAI DAT SS
+HE DIEU HANH N0DE.JS | KET NOI INTERNET © _TAIKHOAN ANTHROPIC
+= * mac0S 12+ s Phiên ban 18.x trở lên | C&n két nối ồn định dé IŒ. Đăng ký/đăng nhập tai:
+
++ Windows 10/11 (khuyén ding LTS) Claude Code hoạt động console.anthropic.com
+* Ubuntu 20.04+ © Kiém tra bang: va d6ng b6 ngircanh, để lấy API key (nếu céin),
+(hoặc distro tương dudng) node -v i} |
+Ø CAI DAT CLAUDE CODE N —- —- =
+A. CÀI BẰNG NPM (BON GIẢN NHAT) | B. CAI BANG NPM + NXP (KHUYENNGH) .“ 0 CAI BAT THU CONG
+@® Mở terminal @ Cai dat npx (nếu chưa có): | @ Truy cap GitHub: github.com/anthropic-ai/claude-code |
+@ Chay lệnh: | npa install -g npx @ Tai ban phù hgp với hệ điều hành của ban. |
+npm install -g @anthropic-ai/clauée-code - @ Chay Claude Code: eyed
+@ Kiếm tra cai dat: npx claude @ Kiémtra:
+C A n '@ Uv điểm: luôn ding phiên ban mới nhất claude --version
+@ Nếu thay phiên ban hiện ra ma không cẩn cai dat lai. Y
+la cai dat thành công! js? (2) | ()
+TỞ Luu ý: Nếu gap lỗi quyền truy cp, thử chạy lai lệnh với sudo (macOS/Linux) hoặc mỡ terminal với quyền Administrator (Windows).
+CHẠY LẦN ĐẦU & ĐĂNG NHẬP © CẤU HÌNH co BAN (TÙY CHỌN)
+Toy chỉnh để ri nghiệm tt
+@® Méterminal $ claude ì d A Tey
+. Thiết lập API Key (nếu dùng key cá nhân)
+@® Chay lệnh: Welcome to Claude Code! Ø S awe config set api-key YOUR_API_KEY
+aug Sign in to continue m Thiết lập thu mục lam việc mac định
+) Đăng nhập bang tai khoản 7 Open the following URL in your claude config set workdir ~/projects
+Ce U (eA ge fe ce aed Chon giao diện mau (light/dark)
+s A mice 7 claude config set theme dark
+(nếu duge hỏi) @ Successfully signed in!
+© Bắt dau phiên lam việc Claude Code is ready to help you code. z egnie suing iblerica!
+với Claude Code! 4 .] =9 claude config list
+@ avy TRINH BAT BAU LAM VIEC v NH EN aE
+ra — — - G »
+1. Mở dy án ==] 2 Khởichạy Claude Code :3. Dat câu héi / Yêu cdu 4, Nhận kết qua 5. Lap lai & Tối vu
+Se > c 2 : i
+Di:hyêndntưmp ~ (2==] claude Hỗi Claude về code Clade hin ch it ce, Kiến va, choh ava
+dự án của ban, Claude sé đọc va hiểu yêu clu tạo tinh nang, giả thich va đề xuất. Uap lai dé dat kết quá.
+alent n feodelies® cialben: sia lỗi, refactor. cách tốt nhất. tối ưu nhất.
+*Ở Meo HOU ÍCH Q 161 THUONG GAP =| 2Ø BAN DA SAN SANG! X
+© Dũng claude --help dé xem tất cả lệnh có sẵn. | @ “command not found: claude” ¬ Chua cdihodc chva them PATH. gi ty u C
+@ Dũng/help tr hit cht 6 xem Wong dn nhanh. - | | @ “Authentication failed” Kim tral dng ir AP ky. Bay gi hay để Claude Code - 4
+© Cie Cadidvngg cindy in nn Sdingtrmedtée | | đ Rae lnitecede + BondbwntyamsshbyBObisM te thanh trgly tp tinh =F
+@ Gia terminal ngin gor host bing /exit hoặc Crt +b Œ Kết n6i mang yếu ¬ Ảnh hưởng đếntếc 45 va phin WS. | inh cao của ban!
+; L i
+. + CAI DAT XONG - CHỈ CÒN BƯỚC VAO CODE! . .
+~ . = Claude Code luôn sẵn sang đồng hanh cling ban. : — l

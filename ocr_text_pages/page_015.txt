@@ -1,0 +1,63 @@
+--- Trang 15 ---
+Ế. . KHOA HOC CLAUDE TU A - Z 1
+BAI 12 z i ¬ ~ Claude
+«00 ) TOM TAT VAN BAN !
+N
+z
+->`NHANH CHONG: |=
+@ Hiếu cach Claude tóm tắt B =;
+vn ban hiệu qua Biến van ban dai, tai liệu phức tap thanh các ý chinh ngắn gon, =
+© Nhận đ / 0 a dé hiểu chi trong vai giây với Claude. N
+‘tém tat phd hop Fa
+@ Biết cach yéu cau tom tắt ế A AT LA GÌ?
+theo mục dich cu thé POMMAT A IE . „ , m
+© ngdyngtón ee a wt ‘Tom tat là qua trinh rut gon nội dung dai thanh các ý chinh quan trong nhat, 4
+res ae ea ry giữ nguyên thông tin cốt lõi, loại bỏ chi tiết thừa va trinh bay ngắn gon, n J
+mach lac, dé hiéu.
+ợ : | cor Claude giúp ban tóm tat tai ligu, bai viết, báo cáo, sch, video... |
+- - ˆS nhanh hon va theo đúng yêu cau.
+KHI NÀO NÊN TÓM TẮT?
+Khi ban căn nắm nhanh Khi nghiên cứu nhiều Khi chuẩn bi bao cáo, Khi cần trich xuất ý quan trong Khi ban cần hệ théng
+nội dung chính tài liệu thuyết trinh để ra quyết định hóa kiến thức
+= a 4
+\ CÁC MỨC ĐỘ TOM TAT PHỔ BIẾN 2 CONG THỨC TOM TAT HIỆU QUẢ _)
+@ Siêu ngắn gon Rút ra ÿ chính cốt lõi, phi hop dé nắm. Ban muốn tóm tat dé lam gi?
+(-3cau) Ô bat ÿ quat nhanh Ñ (Hiểu nhanh, học, báo cáo, ra quyết định...)
+( ‘VD: Tom tắt báo co trong 1 cau.
+— a m T N i XÁC ĐỊNH Muốn tom tt ngắn gon, trung inh
+(3-5 gach đầu dong) yp. tom tat bai vidt trong 5 ý chính. =
+‘Tap trung vào phần du, thong điệp chính,
+@ Trung binh ‘Tom tat thanh một đoạn van mach lac, kết luận, số liệu hay toàn bo?
+day du ý chinh.
+(1 đoạn van) VD: Tém tat T 1 doan. CHI ĐỊNH. Nêu rõ phong cách va dinh dang
+— ˆ DAU RA ban muốn nhận.
+. Chỉ tiết ‘Tém tắt có chon loc theo chủ dé, me
+đối tượng hoặc yêu cau cu thé, ‘ua ra yêu cầu cu thé cho Claude
+(theo muc tiêu X 5 te K f y
+( ) 'VD: Chi tóm tat phan liên quan đến ‘YEU CAU BO SUNG (hin mạnh ÿ nào, bỏ chi tit gh.)
+\ marketing. S
+Ví dụ công thức prompt:
+IL + * “Tóm tat bai viét dưới day thanh 5 ý chính,
+: — trinh bay dang bullet, tap trung vào sé liệu va kết luận quan trong.”
+CÁCHVIẾTPROMPTTÓMTẮT&VÍDỤMINHHĐA — N
+MỤC DICH CÁCH VIET PROMPT KET QUA MONG HỢI. vi DU AP DUNG
+A “Tom tat tai liệu dưới day Hiểu ngay ý chinh trong ‘Tom tat bai bao, email dai,
+G Năm nhanh nội dung thành 1 câu ngắn gon nha.” vai giây. thông báo...
+— "Tom tat tai liệu dưới day Ghi nhớ nhanh, ôn tap ‘Tom tat chương sách,
+EME GN) thành 5 y chính dé nhé.” hiệu qua. slide bai giảng, van ban hoe thuật...
+Chuẩn bj báo cáo “Tom tat tai liệu dưới day Doan van tóm tat mach lac, Báo cao thang, kết luận dự én,
+thành 1 doan van mach lac, logic.” ‘sn sang dura vào bao cáo. ban tóm tat nghiên cứu...
+@ m . “Tom tat thành các ý chinh (bullet) Danh sách ý chính rõ rang, ‘Tom tat phan marketing trong
+[2] Trình thuyết trinh để trình bay slide thuyết trình.” dể dua vào slide. chiến lược, kế hoach
+Bo sánh nhiều ta eu "So sánh va tom tắt diém giống, Bang/bullet so sánh —
+khác chính giữa các tai liệu.” rõ rang, trực quan, 2 phương an...
+MEO DE TOM TAT TOT HON UNG DUNG THUC TE TOM GON - HIEU QUA - VƯỢT TRỘI
+Truyền muc tiéu rõ rang, nhat quán Doc nhanh sách, bao cáo dai s
+ory . \ ae. t A Ĩ ~ We Tém gon ý chính, không bỏ sót trong tam .
+@ Cung cấp ngữ cảnh va phạm vi cẩn tóm tắt v u „ Tổng hợp bao cáo nhanh cho sếp, khách hang :
+@ Yêu cầu dé dai & dinh dang cu thé à \_| | GQ Tóm tat hội hop, buổi tam việc We DE hiểu, dé áp dung, tiết kiệm thời gian
+@ Úu tien số liệu, kết luận, thong điệp chính ^ ` | | 03 Hoc, n tập, chuẩn bi thi TN Giúp ban xử lý thong tn nhanh hon / Ố
+(@ Sau khi tóm tat, kiếm tra và yêu cầu ® Trịch xuất thông tin quan trong va dua ra quyét định tt hơn! . ˆ
+Claude tinh chinh nếu cin dé ra quyét dinh ee
+đ TÓM GỌN - HIỆU NHANH - NHỚ LÂU - LÀM TỐT HƠN l ⁄ J ="
+Khai thác sức manh của Claude dé bién thông tin dai thành gid tri ngắn gon, súc tich! — ⁄

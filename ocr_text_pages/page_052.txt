@@ -1,0 +1,60 @@
+--- Trang 52 ---
+7/10 || 3& CLAUDE CODE CO-WORK SERIES) __ : X Olaude
+XÂY DỰNG API & BACKEND ba] » eee
+= ¡ m > Connecting 08.
+com Ú | > eunning server.
+-. © Ready!
+Biến y tưởng thành hé théng backend mạnh mé, sn sang mé rộng. Ầ J N ) ÿ
+. m r T : - I N.v / ⁄ SS aN
+J Claude Code giúp ban thiết kế, viết code va tối uu backend * S = - IZ Ố
+3. nhanh chóng, chuẩn cấu trúc va dé bao tri. 3 — Siz ai w
+s = —- .
+@ KIẾN TRÚC BACKEND PHG BIEN CHON STACK VỚI CLAUDE CODE QUY TRINH XÂY DUNG API
+: Xác định yêu cầu
+egal n @ đ uty edn ordpot cn ti
+Nhanh ph bin, hệ sin thin ee
+i
+8 Chọn phươngthúc (GET, POST, PUT, DELETE),
+Monolithic Layered - Microservices @ l ial ad c n E n
+‘on gin, phahep - Phẩnkprồràng, - Línhoạt dễ mởrộng, ự động tao docs —
+Sing dung ns 48 bio ti phùhợphệ théng in  Y Nests | enw, config, router, model -
+Cu tric mạnh mẽ, ‘i
+m Pci vì s Kết nối Database
+Business Logic Service ¬ Go (Gin) Vist logic & API
+Data Access Repository AL lý đồng thời tốt @ amitgeie
+Detebes Detabe Java + Spring Boot Kiém thử API, tich hợp test, Swagger/OpenAPI
+== - ~ 6n dinh, bio mit, @ Tires!
+enterprise-ready Deploy lên server/cloud, giám sat & tối vu
+Vi DU XÂY DUNG API VỚI NODE.JS + EXPRESS
+‘A. CAU TRUC PROJECT B, ĐỊNH NGHĨA MODEL (MONG0DB). C. ROUTES (EXAMPLE) D. CONTROLLER (EXAMPLE)
+ae, nodels/oser.model.Js routes/user.routes.js controllers/user.controller. js
+ee » | : { type: String, required: true, t router = express.Router() ie
+[+ midd1ewares/ || I'oser'eerevin'], default: tueer!) + Èi x x đ x n E raed ere ara
+ms — K n a N I I
+ư Pa port default n0n90096.500) CUseF , users . getuserty
+export default routers
+"2 ì
+@ KẾT NGI DATABASE | (Ø VALIDATION & ERROR HANDLING DOCUMENT API VỚI SWAGGER (0PENAPI)
+— —Ơ F = X — — = ]—“o ,
+M0NG0D8 (MONGOOSE) VALIDATION (Joi EXAMPLE) .Ví dụ khai bảo (YAML).
+| @ swagger
+77 en039/0.35 — T
+Inport wongoose from ‘mongoese"; export const createUserSchena = Joi .object({ sete: ar Tự dong sinh docs
+sE ak ee a > have: dot. string ).min(2)-required(), poe E .
+t catch (err) { = =) bond 6
+console.error('X Connection error’, err); ERROR HANDLING (MIDDLEWARE) a ers a sey aul
+n export const errorHandler = (err, req, res, next) => { requestiogy u t
+P ¬| || console.error(err); Foquted: true aoe Se ding
+POST SRES CC ERISA) const status = err.status || 500; "yea SeationySnon © swaggerui-express
+model User { res.status(status). json({ ‘components: Qe
+...ỀỀ K il oe © enestps. swagger
+ee | nessage weet © fastept.operept
+3 createdkt DateTine edeFault(nox()) 5 ype: integer
+@ BEST PRACTICES
+‘Sir dyng biến mỗi trường. Parameterized Query QO __ Phan quyén hợp ty, D Sao lưu dữ liệu G)> Giám sat & Log ® Kiếm tra & Toi ưu
+Không hard-code Trinh SQL injection. Cf) Chieấpquyen AD Backup dion, ‘Theo d6i hoạt ding, Dinh kj tổi uu index,
+‘thong tin két nối. Vi dy: WHERE id = $1 can thiết. kiếm tra phục hồi. phat hiện bat thưởng. truy vin chim.
+GHINHỚ A = r
+2 pacend t= AP ring Dotan ohn Ht ingcoo. L XÂY DUNG BACKEND VUNG CHAC ;
+Claude Code Ia trợ ly dấc lye giúp ban xây dựng nhanh, i CUNG CLAUDE CODE! - TÀ x .
+l u C u n n : Manh mé - An toàn - San sang mé rng! = 5

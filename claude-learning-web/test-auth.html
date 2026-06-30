@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <title>Test Auth - Claude Learning Web</title>
+  <style>
+    body { background: #0a0a0f; color: white; font-family: 'Inter', sans-serif; padding: 40px; }
+    .test-card { background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; padding: 24px; max-width: 400px; margin: 0 auto; }
+    h2 { margin-top: 0; color: #3b82f6; }
+    input { width: 100%; padding: 10px; margin-bottom: 12px; background: rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.15); border-radius: 6px; color: white; font-size: 14px; box-sizing: border-box; }
+    input:focus { outline: none; border-color: #3b82f6; }
+    button { width: 100%; padding: 10px; background: #3b82f6; color: white; border: none; border-radius: 6px; font-size: 14px; cursor: pointer; }
+    button:hover { background: #2563eb; }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .tabs { display: flex; margin-bottom: 16px; border-bottom: 1px solid rgba(255,255,255,0.1); }
+    .tab { flex: 1; background: none; border: none; color: #71717a; padding: 8px; font-size: 13px; cursor: pointer; border-bottom: 2px solid transparent; }
+    .tab.active { color: #3b82f6; border-bottom-color: #3b82f6; font-weight: 600; }
+    .error { color: #f87171; font-size: 12px; margin-bottom: 12px; display: none; }
+    .success { color: #34d399; font-size: 12px; margin-bottom: 12px; display: none; }
+    .log { background: rgba(0,0,0,0.4); border: 1px solid rgba(255,255,255,0.05); border-radius: 8px; padding: 16px; margin-top: 24px; max-width: 400px; margin-left: auto; margin-right: auto; font-size: 12px; color: #a1a1aa; max-height: 300px; overflow-y: auto; }
+    .log-entry { margin-bottom: 4px; }
+    .log-error { color: #f87171; }
+    .log-success { color: #34d399; }
+    .log-info { color: #60a5fa; }
+  </style>
+</head>
+<body>
+  <div class="test-card">
+    <h2>🧪 Test Đăng ký / Đăng nhập</h2>
+    <p style="font-size: 12px; color: #a1a1aa; margin-bottom: 16px;">Trang test riêng không load app.js (không freeze)</p>
+
+    <div class="tabs">
+      <button class="tab active" id="tabLogin">Đăng nhập</button>
+      <button class="tab" id="tabSignup">Đăng ký</button>
+    </div>
+
+    <input type="email" id="email" placeholder="Email">
+    <input type="password" id="password" placeholder="Mật khẩu">
+    <div class="error" id="errorMsg"></div>
+    <div class="success" id="successMsg"></div>
+    <button id="submitBtn">Đăng nhập</button>
+  </div>
+
+  <div class="log" id="logBox">
+    <div class="log-entry log-info">⏳ Đang tải Supabase SDK...</div>
+  </div>
+
+  <script src="supabase.js"></script>
+  <script>
+    const SUPABASE_URL = "https://jnqmfghlnyvrlqiepfac.supabase.co";
+    const SUPABASE_ANON_KEY = "sb_publishable_VZRfLai9Ee1BauvY8m_Ojg_0nLqWZhV";
+
+    const logBox = document.getElementById("logBox");
+    function log(msg, type = "info") {
+      const entry = document.createElement("div");
+      entry.className = `log-entry log-${type}`;
+      entry.textContent = `[${new Date().toLocaleTimeString()}] ${msg}`;
+      logBox.appendChild(entry);
+      logBox.scrollTop = logBox.scrollHeight;
+    }
+
+    let supabase = null;
+    let activeTab = "signin";
+
+    // Init
+    try {
+      supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+      log("✅ Supabase client khởi tạo thành công!", "success");
+      log(`URL: ${SUPABASE_URL}`, "info");
+      log(`Key: ${SUPABASE_ANON_KEY.substring(0, 20)}...`, "info");
+    } catch (err) {
+      log(`❌ Lỗi khởi tạo Supabase: ${err.message}`, "error");
+    }
+
+    // Check current session
+    if (supabase) {
+      supabase.auth.getSession().then(({ data, error }) => {
+        if (error) {
+          log(`❌ Lỗi getSession: ${error.message}`, "error");
+        } else if (data.session) {
+          log(`👤 Đã đăng nhập: ${data.session.user.email}`, "success");
+        } else {
+          log("🔓 Chưa đăng nhập", "info");
+        }
+      }).catch(err => {
+        log(`❌ getSession exception: ${err.message}`, "error");
+      });
+    }
+
+    // Tab switching
+    const tabLogin = document.getElementById("tabLogin");
+    const tabSignup = document.getElementById("tabSignup");
+    const submitBtn = document.getElementById("submitBtn");
+    const errorMsg = document.getElementById("errorMsg");
+    const successMsg = document.getElementById("successMsg");
+    const emailInput = document.getElementById("email");
+    const passwordInput = document.getElementById("password");
+
+    tabLogin.onclick = () => {
+      activeTab = "signin";
+      tabLogin.classList.add("active");
+      tabSignup.classList.remove("active");
+      submitBtn.textContent = "Đăng nhập";
+      errorMsg.style.display = "none";
+      successMsg.style.display = "none";
+    };
+
+    tabSignup.onclick = () => {
+      activeTab = "signup";
+      tabSignup.classList.add("active");
+      tabLogin.classList.remove("active");
+      submitBtn.textContent = "Đăng ký tài khoản";
+      errorMsg.style.display = "none";
+      successMsg.style.display = "none";
+    };
+
+    // Submit
+    submitBtn.onclick = async () => {
+      const email = emailInput.value.trim();
+      const password = passwordInput.value.trim();
+
+      if (!email || !password) {
+        errorMsg.textContent = "Vui lòng nhập đầy đủ thông tin!";
+        errorMsg.style.display = "block";
+        return;
+      }
+
+      if (!supabase) {
+        errorMsg.textContent = "Supabase chưa được khởi tạo!";
+        errorMsg.style.display = "block";
+        return;
+      }
+
+      submitBtn.disabled = true;
+      submitBtn.textContent = "Đang xử lý...";
+      errorMsg.style.display = "none";
+      successMsg.style.display = "none";
+      log(`📤 Gửi request ${activeTab}: ${email}...`, "info");
+
+      // Timeout 15s
+      const timeout = new Promise((_, reject) =>
+        setTimeout(() => reject(new Error("Timeout 15s - máy chủ không phản hồi")), 15000)
+      );
+
+      try {
+        let result;
+        if (activeTab === "signin") {
+          result = await Promise.race([
+            supabase.auth.signInWithPassword({ email, password }),
+            timeout
+          ]);
+        } else {
+          result = await Promise.race([
+            supabase.auth.signUp({ email, password }),
+            timeout
+          ]);
+        }
+
+        log(`📥 Response nhận được!`, "info");
+        log(`Data keys: ${JSON.stringify(Object.keys(result.data || {}))}`, "info");
+
+        if (result.error) {
+          throw result.error;
+        }
+
+        if (activeTab === "signup") {
+          const user = result.data?.user;
+          if (user?.identities?.length === 0) {
+            throw new Error("Email đã được đăng ký. Hãy đăng nhập.");
+          }
+          successMsg.textContent = "✅ Đăng ký thành công! Kiểm tra email (cả Spam) để xác nhận.";
+          successMsg.style.display = "block";
+          log(`✅ Đăng ký thành công cho ${email}`, "success");
+          log(`User ID: ${user?.id}`, "info");
+          log(`Email confirmed: ${user?.email_confirmed_at ? 'Yes' : 'No - cần xác nhận email'}`, "info");
+        } else {
+          successMsg.textContent = `✅ Đăng nhập thành công: ${result.data.session?.user?.email}`;
+          successMsg.style.display = "block";
+          log(`✅ Đăng nhập thành công!`, "success");
+        }
+
+      } catch (err) {
+        const msg = err.message || "Lỗi không xác định";
+        errorMsg.textContent = msg;
+        errorMsg.style.display = "block";
+        log(`❌ Lỗi: ${msg}`, "error");
+        if (err.status) log(`Status: ${err.status}`, "error");
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.textContent = activeTab === "signin" ? "Đăng nhập" : "Đăng ký tài khoản";
+      }
+    };
+  </script>
+</body>
+</html>

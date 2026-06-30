@@ -1,0 +1,52 @@
+--- Trang 13 ---
+Š KHOA HOC CLAUDE TỪ A - Z
+BÀI 10 : 3 Claude
+<5 CAC LOẠI PROMPT
+- - .
+mma THUONG DUNG
+sce hee Sử dung ding loại prompt giúp Claude hitu rõ ydu chu và trả li chinh xác, hữu ich hen,
+8 oe PROMPT LA GI?
+om hie qk bo Setar ee
+thời gian và tổi ua hết qu Al hiểu và tạp ra phản hồi phủ hợp.
+ị Chon ding loai prompt = Nhận ding kết qué ban muốn!
+10 LOẠI PROMPT THUONG DUNG & CACH SỬ DUNG
+1. CAU HO! GIẢI DẦP. 2. TOM TAT 3. VIẾT NOI DUNG 4. PHAN TÍCH 5. 50 SÁNH
+x B À Q ðJa
+Dairy điể Pb thông tin Diary ol ntere tile nội dong cll Dùng để bạp bởi viết, ernad, Dùng để phần tích dữ libs, Dùng để sợ kănh 2 hoặc
+chung. kiến thức, định ngưửa, hank ÿ chứi mgắn geen. bởi đăng, kích bản, rh a văn ii, tinh hướng nhiều AS) tượngg, aa chon,
+giải thích.
+Widy: Vike Vide V dụ: Vide
+Í “Tảmtitbkiviétass | | “Viết một bei blog "Phản tích điểm mạnh, | E
+. Pel thành 5 ÿ chính: và cách học Al hifw qa | | điểm yếu của chiến dich aly
+~ [din nội dung)” | che người mới lit. đấu." marketing này: [bir Bệu]" a Qv
+Muc đshc Tum hiểu nhành. Mục dache Tali khệm thêế gine, Myc dich: Tạo rd dung Myc dich: Habs shu. khục đách: Bare ra qual dan
+hiệu rã vấn để nắm nhanh thing t hash, chit lượng. dun ew innight, diya tnd ne alin,
+6. HƯỚNG DAN 7, BRAINSTORM 8.5ỦAĐỔI&CẢITHIỆNM  “®.LẬP KẾ HOẠCH 10, MO PHONG VAI TRO
+TUNG BƯỚC \
+= ÀẲ s
+v= % À-
+lùng dd ply chy hướng din Bing il to ý bưởng, Dòng để chin wis, cỗi than: Đùng để Lập bof hoạch, Đùng Of Clade dong wal
+chỉ tiệt, buản nye gol md aking tạo rei charey co ale bộ wink, chiến lược. "choyệm gia, nhưen xật cụ thé.
+Vide Vide Vide Vide Vide:
+"Hướng dike từng bus “Opi ý TỦ ý tường vides “ha lại doạn văn aaa “Lập kế hoạch 30 ngày “Qld dich ban là chuyền gis
+'cách lập tod hoạch esd dung YouTube wh cha dd cho ini chap và chuyên hee Al cho người mới rraerloeting, huby by wire chee
+he hiteh YouTube.” hee tip.” nghiệp hơn: [lin nội dụng]” (bila el” ‘dai chide Hhương hiệu ˆ
+Hie ach: Lien thee quy trie Mục địch: Kích Ehich, lg Be, Mie doch: Mhng ene chit kượng c Miye dike Tổ chức công vibe Mụt ich: Mhận bi boars
+JE dikes, không be ede ppd rộng ode rho win bi Apt rc u cthurpbn alu thee wai int.
+CACH CHON LOẠI PROMPT PHO HOP MAU PROMPT NHANH CHO TÔ LOẠI
+2 Ban chen thing tin? ¬* Dùng Clu hỏi gah din 1. Sy niái hich [chủ cil] mt cách don giảm, dễ hiểu "
+BB Ban cle nit gon nội dung? s Dùng Tá= tt #. “Tam tit nội dung sau thành [edi ý chink] ÿ chính: [nội dụng]”
+Ban cần viết nt dang? Ding Viết ni dung 3. "Vib Jloại nội dung] wd [ch BE] che [45 naseg)”
+QL Hạn cầ hiểu allen dh giá? Ding Phin ich 8. "Phin tích [vấn đề//d0 liệuutinh uding] và niệu inaight.”
+Sj5 Hạnckskrschaysgiữacdephaengin? sk Ding So neh 5. Se anh |) wa [B] theo các tiểu chế [Eiễu chỉ 1, 2 3..]”
+EEE) Bian che hướng dẫn chỉ te? Se Dăng Hướng dẫn từng bước 6 “Hướng dẫn ting bude cách [thục hain công vic]”
+TỨ Ber ele nhiệu ÿ tưởng? ¬ Gling Ersingiurm 7, “gi ý [ed koơng] ‡ tang về [chủ đãi)
+2% Ban clin chinks sửa nội dang? > Dung Sửa đối & obi thiện BL "Sữu lai dean sau cha |yễu chu| |nội dung)”
+CE Ban che phm. acheter? > Ding Lập bế hoạch 9. “Lig kể hoạch [mye tid] trong [thé gian] với các rước cụ the.”
+Ber cần bb khuyện chuyên gat =e Dang Mô phẩng v trở 10, “Gi dich bạn th [vad tr. blk tur win cho 4 về [rein a”
+X wr BÍ QUYẾT
+= Cheng cấp đây dù ngũ cánh và chỉ tiết khi vit prompt n :
+* Mẫu rõ mục tiểu. dil tượng, định dang mong muốn Ỹ I1"itỄ.dI'.1Il1I1Ihal`.lF"l1fITÌàỂ'tlÙ'Ii1"1i'lĩ'1l›'.i1'al't
+Ô ĩ a Ck Cal RAR s al Ma ak c H sẽ giúp ban khai thác tối da sức mạnh của Claudel
+- +
+prs THANH THAG 10 LOA) PROMPT — LAM VIEC THONG MINH, HIEU GUA VUOT TROI +

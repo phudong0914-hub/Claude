@@ -1,0 +1,49 @@
+--- Trang 51 ---
+VALU >⁄- CLAUDE CODE CO-WORK SERIES % Claude
+` 3 . a ot
+` ˆ . = ©) Kiết nổi we toàn
+= © Phin tich dữ by
+Kết nổi, truy vấn va quản by dif liệu dé dang, an toàn, 1 ( c m oữ u |
+= Claude Cade giúp bon kết nổi database, viết truy vấn, . — Ạ ¬
+NH phản tích did liệu và tdi ưu Fiệu suất nhanh hong.
+1
+@ cic DATABASE PHO BIEN | @) KETNOI DATABASE VOICLAUDE CODE |
+MySOL Postgre5QL SQLServer SQLite MecgoDe - F -
+Quanhệ ed, The hoe Mi Nhe shang. L à -
+mđ ngườnmd { mãnôngVết vớihệsảnh chill ghú hợp nuờde,  Enh hoạn, iepert free pa; [
+Mecrosolt lat 0 liệu Je u Reader lng K . a tale}:
+await cliesg.conmest( Heit ng
+soba. tege: E an todn
+A. THUY VAM CO BAN 8. JOIN TABLE C. AGGREGATION D. TỔI ƯU HIỆU SUẤT
+NHẸEE u.ntatur pent ot eae Trinh SELECT *
+oleae Gary m FY hata ner OS ©
+SELECT name, email f=] Phin T, OfFSE]
+wR wate tr =a | re | Q Clrude Code có thi giúp ban:
+ORDER WF created_at PESE aie air [eit] 54 dóng PLA a che tics
+THET 18) care pees title Ø Viết truy vấn phức tap
+r. weer_id (FQ © Tiley hiệu eat eden, PLA : .
+a = —— ©) Chopin đối giữa các latent SOL, ¥ secs xgEredbch
+SQL
+© PHAN TÍCH & XỬ LÝ DỮ LIỆU Gc TH yc H Tac OU LIEU " ]
+Trich audit dữ lệu Wi dụ: Thống Ba mgười dùng hee thán NSERT INTO ween drome, email)
+hy Xuất Oo BEM Z9O Bevel c = . Thebes d bệu mới VALUES {'An', 'œhðexamgls,com'l
+Ñ Thống kt & Bio cáo “eo a uPOATE a
+L | eev .. Ẻ2j qTWW -. SET station » "Kaactive
++ L # iổ s i;
+Lien sạch đỡ hu ne
+Ts nail ie ring Rie hia. a di tang H o DELETE DELETE FROM users
+n T m ta T Th Xóa đử ibe WHERE if = i;
+|? Phin tich na hưởng
+E Patch theothtigion, hin wi hike Clie Cocke od ahd git bare: @ TRANSACTION MIN:
+lØ Vit fray ein phn tich phe tap Pim bis keh tele wee ee Se aimee;
+Ø Tes bbs các trực qean
+© Phất hiện ar be thing é Lun gử dụng transaction cho cắc thae tic quan trong!
+( Bho MAT & BEST PRACTICE
+Sa hte a rah WO, Poaraterosd Geary Prk guyln tang by aa bra ad ba ain it Leg Kaien trị E Thane
+a a ak Raed @ Teh %% Recher, & av cae cpr > Bach dit ig @® Thee đội howl động. ~ (Cyr ep aa nem,
+Ping Ln adie. Wee WME d n 11 - gản ths (aides tra phục hội phảt biện bấn hường. tray vie chi,
+= ‘SHI RH
+= „ H H H 2 H ñ f ao -] i a teak,
+. DULIEULATAISANQUYGIAE - S CN
+# với „ ban lam cho dữ liệu - Birt pha hiệu suat! 3 is tch hiệu nuà
+UC, HH

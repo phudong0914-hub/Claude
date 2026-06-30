@@ -1,0 +1,57 @@
+--- Trang 40 ---
+6/10 | Í 3 CLAUDE c0-WORK SERIES ) a > Claude
+= rŒ
+ˆ z = à >À & ỉ
+PHAN TICH & OCA”
+: lm ¬ (@ =
+2 z ~ na É Q . í .t_Ệ ]
+4 A —
+: ¡ a
+Biến dữ liệu thành thông tin gid tri - Ra quyết định chinh xác hon S ) q Ồ\Ở
+l Claude giúp ban thu thập, lam sạch, phan tích va trực quan hóa dữ liệu s \ = | a ¬ Ĩ 4
+ODL  để tim ca insight, xu hướng va co hội cai thiện hiệu quá công việc. le 2
+J .
+Z QUY TRINH 5 BƯỚC LAM VIỆC VỚI DỮ LIEU CÙNG CLAUDE : ZEN
+1] THU THAP @ LAM SACH 3) PHAN TICH í 4 TRỰC QUAN HOA 5 DIỄN GIẢI &
+DỮ LIỆU DỮ LIỆU 9 do LIỆU * # DỮ LIỆU ĐỀ XUẤT
+ñ
+=¬ 4 n
+=.. > > 4 -G:
+~ t ⁄ Ñ
+= Y =
++ Xác định nguồn dữ liệu * Loại bò dữ liệu trùng lap. * Thống ké mô ta * Biểu dé, bang biểu » Diễn giải insight
+* Thu thập tis file, form, * Xử lý gid tri thiếu * Phan tích xu hướng * Dashboard tổng quan * Dé xuất giải pháp
+‘web, API... + Chuẩn hóa định dang + Tim mối tương quan * Báo cáo trực quan * Hỗ trợ ra quyết định
+* Kiếm tra độ đảy dt,
+a N b —Z X i ^4
+Po SS oe. x A Se - HƯN n N n I .
+(So CLAUDE CÓ THE GIÚP Gi? ) vi DU CLAUDE PHAN TÍCH DU LIỆU (fe LOẠI DỮ LIEU CLAUDE HO TRO
+eee —hRâđ
+PHÂN TÍCH NHANH DỮ LIEU BAU VÀO (vi DU) KET QUA CLAUDE PHAN TÍCH | Excel / Google Sheets
+Xử ly dữ liệu lớn, dua ra két qua f r J (xlsx, .csv, google sheet link)
+r 20% mỗi thang. Ss ơ sở dữ liệu
+Q ine, I n a aay qeo 3 sỞ l (SQL, MySQL, PostgreSQL...)
+hat him xu hướng, mố inh và [ Real E đ 1Z Tăng 62% so với thing 1 va 91%
+các diém bat thưởng. tng 92% 5 vi thing 1
+“13 800089 89 - HH Ệ Dữ liệu web
+SO SÁNH & ĐÁNH GIA 14 210000000 520 105 ¥_S6dan hang va khách hing mới (Bang gia, tin tức, bo cdo...)
+So sánh hiệu suất, do Vỡng KPI ting én inh
+ee mie 15 29000000 50 Ô H
+để đánh giá hiệu quả. ~ Eị] Dữ liệu khảo sát
+A 99860 D8 xuất © BIẾU 06 DOANH THU _ Đề sua: Tap trung chién dich =) (Forms, Survey, Feedback...)
+GAOL] \ Dự báo xu hướng, dé xuất hành ding 2509 ‘marketing va tối uu trai nghiệm c
+dựa trên dữ liệu. 200m để duy trì d& tng trating. yp Dữ liệu kinh doanh
+150M. o (Ban hang, Marketing, CSKH...)
+TAO BAO CAO TU DONG 100M
+‘Tom t&t dữ ligu,bign bio cáo rõ rang, som =| Van ban & PDF
+dé hiểu. H t T N T] L ie (Bao cao, hóa don, hợp ding...)
+@ MẸ0 LAM VIỆC HIỆU QUA VỚI DỮ LIEU @® prompt col Ý HỮU ícH
+) Xác định mục tiêu & gid thuyét trước khi bat dau. “Phan tích dữ liệu nay va cho tôi kết qua những diénzaian trong nhất.” 4ä |
+(cng cấp dữ iệu dy 6, rõ rang, đúng dinh dang, “Tim 3 insight quan trong nhấttừ bằng dữ liệu ny va gi thi.” Q
+| Yêu cau Claude giải thich két qua bang ngôn ngữ đơn giản. | So sin higu susie cde sin phim vb db ut sin phim témning” SIS. |
+GF Kết hợp phan tich ịnh ượng va dinh tinh. “Tao biéu dé va tém tat béo céo ngan gon ty di liu nay.” œ
+© Lưu tai các prompt hiệu qué để sử dung cho lan sau. "Dy báo doanh thu tháng tới dựa trên dữ liệu hiện tai.” z
+⁄ à%
+. Dữ liệu không biết nói, . CN
+s iP Ề See r .
+: „ * nhưng Claude giúp ban lang nghe va hiéu chung! all I | ..

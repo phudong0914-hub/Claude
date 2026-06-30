@@ -1,0 +1,66 @@
+--- Trang 54 ---
+9/10 | 3 CLAUDE CODE CO-WORK SERIES | a X* Claude
+TEST & TOI UU HIEU SUAT ey? FEE
+ae
+= ; > Passed: 28
+( | .
+„ ie E a ˆ . > Coverage: 92%
+Kiểm thir ky lưỡng - Bo lường & tối ưu - Ung dung ổn định, nhanh, tin cay. i TU i H
+Claude Code giúp ban viết test, do hiệu suất, tim bottleneck Ề * = _ .
+va tối uu hệ thống dé ứng dung luôn én định & hiệu qua. S \/ < è =
+Vi SAO CAN TEST & TOI UU? PHAN LOAI TEST THUONG DUNG VIET TEST VỚI CLAUDE CODE
+Be a eae ae | ae G
+o Dam bao chat lượng Loai Test Mục dich Vidu Vi dụ: Unit Test với Jest (Node,js) ie Code
+Phat hiện bug sdm, tang độ tin cay. Unit Test Kiém tra tung Kiếm tra him tinh // sum.test.js .
+ham, module toán, validate.. export function sun(a, b) { W@W; Tao test case
+Hiệu suất vượt trội return a + bị
+„ r Kiếm tra sy API goi DB, service L T k dat:
+“người ding hon. ieee Kim tra endpoint GET /users test('cộng hai số dương", () => { đấu vào
+T . = API POST /login. expect(sun(2, 3)).toBe(5); ee.
+Tiết kiệm chi phi - » (Ø Đẽ xuấttest
+Giảm lỗi, giảm downtime, tối ưu tai E2ETest Ion rang) I T E mnie cop this
+an 0 ư người ding 2 Tao dữ liệu test('cộng hải sé Sm’, () => { @ 9o độ bao phù
+guyê expect (sum(-1, 1)).toBe(®); 1
+T. . Kiếm tra hiệu suất =- 100, 1000, 10.000 (coverage)
+Trai nghiệm tốt hon dưỡi tải ca0 request/giiy b @ Refactor code
+Phan héi nhanh, ổn dinh, user hai long. Security Test ea e lề hống ee em Auth, pes bine a Cae y a6 guest
+b;
+@ 90 LƯỜNG & PHAN TÍCH HIỆU SUẤT
+‘A. CAC CHI SO QUAN TRONG 8. CONG CỤ HỮU ÍCH C. BO HIỆU SUẤT VỚI K6 (Vi DU) D. PHAN TÍCH KET QUA
+© Response Time & Postman / Insomnia import http from *ké/netp"; Requests
+Thổi gan phan hai trang bin, Test API thi công fmport ( check, slepp 3 from *k6"s 42.5K read
+Ø Throushout &% k6 / JMeter / Locust CE ACEO | 2) ‘Aug. Response Time
+Sé lượng request xi / iy. Load Test — — 220 ms
+Error Rate Lighthouse { duration: '1n', target: 260 }, | P95 Response Time
+Si W Om
+CPU/ Memory. New Relic / Datadog thresholds: { Ecrodrtate)
+Database Query Time Prometheus + Grafana h Throughput
+© saoyewvnm ® Metrics & Dashboard ee x | @ i ars
+ches E ..g Tet res = hetp.get(etps://yourdonaincon/sers’); |
+J x x s n —À AJ n T.
+b Hiệu suất én định!
+er, ˆ z ˆ
+@ TỐI vu HIỆU SUẤT voi CLAUDE CODE @ KIỂM TRA Ty BONG (CI/CD)
+
+TOI UU C0DE TỐI UU DATABASE CACHING TỐI UU HE THONG ) Rà @ &; ® c @
+© toạibỏ code tia Ø Index phi hop © Cache dữ liệutinh © CON cho static assets È= l l Dae
+(Ø Srdmgthuktoint§u © TrwyvincinSELecTentti& | © Redis/Memeached C Nén dtu (zip, Brot) |g hay Unit Test & Integration Test
+© Giảm độ phic tap (Big-0) Phan trang (pagination) © Cache theo từng © Rete limiting BB Kiếm tra Coverage 2 80%
+© Tảis0dụngcschekếtqud (Ø Tránhjoinhhông edn thiết - @ TIL hop iy Horizontal scaling © Lint, Security Scan
+'© Tranh N+1 query Connection pooling ( cache maidation dingcich C) Queve chotéc wining _|- Load Test co bin
+
+Ø Deploy khi tát ci pass lØ
+== ee eee |
+CHECKLIST TRƯỚC KHI DEPLOY @ Best PRACTICES ¡ Ý GB CLAUDE cove LUÔN ĐỒNG HANH
+a @ Tat ca test pass |Ø Viết test nhanh chong:
+LZ] # osesoeotyis Ụ` 19 Phat ign vind sém
+ZL] & Không 6 18 bio mst nghiém tong t 1Ø Đẽ xuấttối u hiệu suất
+Vittetvôe Đoköntường | Timboteneck Tiwi ty, PhổiNpteam < tv Ẹ
+© Hiệu suất dap ang mong muốn atc songstng||noar ing! bing cfu, | tng dng pt | Dev = OA ZOps k Ø Ty dong hỏa quy tra
+© Đã c6 Monitoring & cảnh bảo | — @ ° | !Ø Giúp ban build sin phim
+Ø Rollback plan sin sing = .- mạnh mẽ & bén vững.
+GHI NHỚ : m m : h ĩ
+
+— ÿ „ TEST KY - TOI UU HAY - UNG DUNG CHẠY MƯỢT MA! :
+Es n s ee 0 vô n a 77 + +  Với Claude Code, ban xây dung hệ thống chat lượng cao, -. +
+Eun doing asc nin! —‹ hiệu suất cao, sẵn sàng mở rộng! —z

@@ -1,0 +1,52 @@
+--- Trang 50 ---
+JL LỆ =X CLAUDE CODE CO-WORK SERIES a X Claude
+ể = : ` gum
+r3 Pry) b, ie E Coneecting API
+` ì ¬ ư ............
+if L Sending request.
+CUNG CLAUDE CODE rt
+Tích hep API dé dang dé mỡ réng site mạnh cho dy án cia ban. \
+\ F;
+Claude Code gúp ban ft nổi, gọi và sử lý API nhanh chóng, an toàn A
+vib hiệu quả ~ tir REST API phd biến đến các dich vụ Al mach mã, 7 a |
+|
+wat, REST API ibe định APT che dong
+‘Vina clk fIbeqquesti Emmai Ge) Prd biển nhất sữ đụng HTP 9 @ Đọc thibệu, Hiểu enspoirt
++ #.. — m T GET, POST, PUT, DELETEI {ve thers,
+= k A . jE eo Ly API Key induce)
+Ứng dụng PRA Ne EPesesresl API Bich ny ey Graph@L API ier ef khoản và lấy
+ele bạn Server YAM Truy vấn o2 Btu teh hoạt [AP Ripa
+Ÿ vàiiệu quả hơn. Ø BQ 5nrsetbeoc
+AP [Application Programming interface) Ub cầu ni cho phép BM s dpng Claude Code ll gol
+ứng dung của bart Gio tiếp với các địch vụ, Ì!dll'ủ'ỤI.`\.Ìc F SOAP APL API với phere thúc phù hop.
+Wide —+ H Xử lý retro [phản hồi]
+fn hs bie nd coe o — thận và xử bý dữ liệu trả về
+ñ Ê TRAP,
+9950 l
+¬ a (ike AF A mạch mã ces © .X 0 U
+K n N N E ư at RP uu rd, riến th) hoặc nfs hợp
+Seah n Se Open deaheopse, Hugging Face wight
+Í €} GỤI REST API VỚI CLAUDE CODE = VÍ DỤ THỰC TE J
+A. GỌI API (GET) = LAY DỮ LIỆU THỜI TIẾT
+I response 1 fetehiurl);
+t data m await: resgonse,jranl];
+eondéle.tog(” & T ti 4 $(cityl: $idate.main.temp)*Ct*);
+B. GỌI API (POST) = GỬI DỮ LIỆU
+a MO EMI LAM VIỆC VỚI API
+ened: OST of l lực kỹ thi fu API (Documeneationl
+readers: ( © 'Gi an toàn APH Key, không commit Hin Git
+N T N G Wake ie lØ Xữ H kỗi [errox Parsdling) cfm than
+¡ E l Gới hon 08 Bin gol APT [rate limit).
+lài
+@ Các AP1 HỮU ÍCH gan CỦ THE THỨ | () KIỂM TRA API NHAHH 1
+. Perr _ a
+©-- @- Bm http
+đ ==san Thy pkn các model Mimạnh mt bêngnrdisisrm.npenoi.con =
+(i) xerees v ử dụng Claude que APL ea d Cd erga, ide ao cine Dùng ting Ret, CU thăn than,
+tari nee seg pre arers cob pio dom ge
+Q Ssogxluesit led Shain, enhvi Nv guugie :
+Wi dy ba r a vỢi b
+Py Wrath AP ự bác hes tiết rcs claw he pena: .
+LY nnetesbcal Real muoicrr RTE SS EEN pie heer ea L
+4) : = TIEM NANG MỠ RONG!
+ũ „ Với Claude Cade, ban od thé kết nổi thế giới và xây dying những dmg dyng mạnh mẽ hon bas gid hat.

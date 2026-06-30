@@ -1,0 +1,61 @@
+--- Trang 13 ---
+~ Ñ KHOA HOC CLAUDE TU A - Z Á
+Í BÀI 10 - € Claude
+x" ` .
+v l HUONG DUNG J
+@ Hiéu các loại prompt phổ biến f & 00 4 een =
+v me dich sir dong . Sit dung đúng loại prompt giúp Claude hiểu rõ yêu cu = i
+© Chon ding tsi prompt cho va tra lời chính xác, hữu ich hon. ĩ - ° ‘
+từng tinh huống m
+@ Viết prompt hiệu qua, tiết kiệm PROMPT LA GI? . l
+thời gian và tối ưu kết quả Prompt la yêu cầu, câu lệnh hoặc hướng dan ban gửi cho Claude | J
+Al nhằm tao ra phan hồi phủ hợn. Ỹ
+: “3 oa À Chon đúng loai prompt = Nhan ding kết qua ban muốn! É
+Y . 10 LOAI PROMPT THUONG DUNG & CÁCH SỬ DỤNG: - Ề
+1. CAU HOI CO BAN 2. TOM TAT 3. VIET NOI DUNG 4. PHAN TÍCH 5. SO SANH
+® 2 a 5]
+Dung dé hỏi thông tin Dung dé rit gon nội dung Ding dé tao bai viết, email, Ding để phan tích dữ liệu, Dung dé so sanh 2 hoặc.
+chung, kiến thức, dinh nghĩa, dai thanh y chính ngan gon. bai dang, kich ban, mo ta. vn dé, tinh huống. nhiéu déi tượng, lựa chon.
+hi ai thich.
+ysis teh: vo: VO: Vo: vo:
+“Tom tat bai viết sau “Viết một bai blog “Phan tich diém manh, . Pr -
+“Claude, marketing thanh 5 ý chính về cách hoc Al hiệu qué điểm yếu cba chiến dich Ề“"ƯỀ“g² Bale,
+la gi?” (max 250 chữ)” cho người mới bat dau” marketing nay (SWOT)” onnet và G Puss
+Mục dich: Tim hiểu nhanh Mục dich: Tiết kiệm thời gian, | | Mục dich: Tao nội dung Mục dich: Hiểu sau, Mục đích: Đưa ra quyết định
+kiến thức cơ bản. nm nhanh thông tin. nhanh, chat lượng.. dua ra insight. dya trén so sánh..
+6. HUONG DAN 7. BRAINSTORM 8. SUAB6I&CAITHIEN | | 9. LAP KE HOACH 10. HO TRO & TU VAN
+TUNG BUGC ris %
+g= Ye % pA
+Ding để yéu cdu hướng din Ding dé goi ý ý tưởng, Dung để chinh stra, cai thiện Ding để lập kế hoạch Dung để nhận lời khuyên,
+chi tiết, tun ty. sng tao, mở rộng tư duy. nội dung có sẵn. công việc, chiến lược, hé tra giải quyết van dé.
+lộ trinh, checklist.
+vor vo: vo: bas vo:
+
+“Hướng dẫn ting bước “Goi ý 10 ý tưởng video “Sia lai đoạn van sau “Lap kế hoach 30 ngáy “Tôi da ban tối chuyên
+cach lên ké hoạch TikTok về chi để. cho dé hiếu hon va thuyết E gual marketing, hay tư van
+marketing cho startup! hoc tap” phục hon (giữ nguyên ÿ)” mới bat đầu” giải pháp tang hiệu qua”
+Muc dich: Lam theo quy tinh | | Mục dich: Khơi nguồn sáng tao,| | Mục dich: Nang cao chat lượng | | Mục aich: Tố chức công việc, Mye dich: Nhận tu van chuyên
+
+16 rang, khong bỏ sot. mé rộng góc nhin. van ban. dat muc tiêu. mén, hé trợ ra quyết định.
+CACH CHON LOẠI PROMPT PHU HOP MAU PROMPT NHANH CHO TU LOẠI TEMPLATE PROMPT THAM KHAO
+® Ban cén thing tin? > Ding Cav hỏicơ bản | | (1,) “Hãy giảithích [chủ đề] một cách don giản, đễ hiéu. [VAT TRO]: AT chuyên gia ...
+Ồ Bancin it gon n6i dung? > Ding Tom tit (2) “Tom tất nội dung sau thành [số ÿ chinh}/{s6 tử] ngảgọn” [NHIỆM VU]: Viết, phan tich... E
+A nae ed ee he S| | CB) “vie v (haa tenaVna đ via SiGe ts
+n EE > B n n [MỤC TIÊU]: Mục tiêu cuối cùng
+F 4) “Phan tich [vấn đẽ)/dữ liêu)/kế hoạch] theo [góc nin)”
+‘SB Ban cin so sánh,lựa chọn? x —» Ding So sinh ig Ne . Ö : [ĐỊNH DANG): Bảng, bullet...
+IB soncinhuig dnc ss? > ing bain | (S “So sto (AaB ee ce chi, 2,3. tn aches bn.
+"Ban cin j tưởng sing tao? - — Ding Brainstorm (©) “Hướng din timg bước cách (lam vie gi (ees ic Oop atta
+2  Bạn cin chinh sửa, caithién? —> Ding Sita dai & Cải hn | | (7.) “Gợi y [số lượng) ÿ tưởng về [chủ đề]” [8ỐI TUONG): Người moi bat đẫu...
+(Ban cấn kế hoach, 6 trnh? x —> Ding Lip kế hoach ““Sửa lai Indi dung text] theo yéu cu: [cụ thé yêu câu)' [YẾU CÀU]: Yêu cầu cy thé...
+Q Ban cin oi khuyén, tevin? —> Ding HO trợ& Tư ấn. “Lap kế hoạch [mục iêu] trong [thoi gian” [RANG BUỘC]: Những điều cần lw y...
+=< R (40), “Tư vấn gsi pháp cho {vn đề] vai các bước cu thé” [VÍ DỤ]: Néu c ví dy minh hoa...
+we wuy &@ soly GHI NHỨ
+* Cung cấp day đủ ngữ cảnh va chi tiết. ding 1 loại prompt & dp dung linh hoạt Prompt tốt = Hiệu qué cao '
+ghar iby e y t cal Sos n = Tiết kiệm thai gian & nang cao nang suat!
+- Thứ nghiệm & digu chỉnh dé tối ưu kết qua.
+pert
+r ˆ e ¬
+TIẾP THE0 ì N N N aaa Ê T H À an = =
+BÀI TỊ THANH THẠD 10 LOAI PROMPT - LAM VIEC THONG MINH, HIỆU QUA VƯỢT TRO! . ~ E
+x m

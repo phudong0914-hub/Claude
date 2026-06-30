@@ -1,0 +1,66 @@
+--- Trang 49 ---
+4/10 | | > CLAUDE CODE CO-WORK SERIES - p ˆ Claude
+2 . Hề Ể `
+T ~ z z
+@ Claude Code
+6) é rã
+z _ . Analyzing
+VOI CLAUDE CODE ‘|: m rA à ..
+— =I ® Reading files
+Dé Claude Code hỗ tro ban hiệu qua, 3 — Be © Understanding
+nó can hiéu rõ codebase, luồng logic va ngữ canh du an. f= n ÿ @ Building context
+[=] *& Va 11 | @ Ready to help!
+QQ _ Claude Code doc, phan tich va xãy dung bức tranh tổng thé của dy an >> T
+@®? đẻ dưa ra gợi ÿ chính xác, thông ngữ cảnh va phù hop nhất. > = | |) „
+{Ø GLAUDE cove ĐỌC DỰ AN NHU THE NAO?) { ÍE} CẤU TRÚC DU AN THƯỜNG GAP CLAUDE CODE TÌM KIẾM DIEU Gi?
+ae : B sre/ @ File cấu hình
+— my-project/ A N
+= aver DẤU TRÚC THU MỤC y-proj: Mã nguên chin của dng ung (package.json, tsconfig.json,
+Rani các i ae file L sres components/ .env, vite.config.js...)
+an trong và mối iên hệ x
+a 9 pa  Các component tai sử dung. © Điểm bat đầu của ung dung
+. jeagares & features/ (index.js, main.tsx, App.jsx...)
+DOC NOI DUNG FILE services/ Cac tinh nang theo domain. . i
+| Doc code, config, docs dé utils/ l i © Cac module, service chính
+hiểu logic va mục tiéu. App. jsx Xử ly API, data, business logic. @ Luồng dữ liệu va dependencies
+main. jsx i Fae _ @ Quy usc dat tên va cấu tric code
+XAY DUNG NGỮ CẢNH public/ s © Tà liệu & comment quan trong
+„ . 4 tests/ E tests/ x
+Hiểu mục tiêu du án, luồng ae 7”TP”1¬171
+Oo docs/ Kiến thủ don v interation tet.
+chinh, dependencies, . #Ƒ F fi =
+va cách các phẩn liên kết A env/ a U BAN CO THE KIEM TRA BANG LENH
+N. N + m A package. json x
+m nee B tesmtig son pacane. jn r Sy ich fh n u
+B Jo depenceces ci
+Giữ ngữ cảnh trong suốt phién EB) READHE.nd - ats a, b # Đọc file cụ thé
+lam việc dé hỗ trợ ban tốt han. I .gitignore Gá i ign hah | /read sre/App.jsx
+ST FL #Timkiếm trong dự án
+/search "authh"
+CACH GIUP CLAUDE CODE HIỂU DU AN NHANH & CHÍNH XÁC HON
+1 Cau trúc rõ rang 2. README day di 3. Comment hợp ly 4,Tach module nhd  5.Fileconfigchuẩn 8.Loại trừ fle khang cẩn thiết
+| = |
+Tổ chic thư muc, dat tên Môtảmuctiêudựán, Gidithich logic phic tap, Chia nhỏ chức năng, Cấu hinh rõ rang, ‘Su dụng .gitignore dé
+file, folder theo quy ước cách setup, cSu tric, - luông xis lý va quyết giảm phy thuộc, tránh custom qué nhiều, loại bỏ file build, log,
+nhất quan. cong nghệ sử dung. dinh quan trong. . tăng tinh tai sử dung. giữ don giản. node_modules...
+ke Càng rd rang - Claude Code càng hiểu nhanh - Hé trợ ban càng chính xác!
+@ ví DỤ: CLAUDE CODE PHAN TÍCH DY AN @ LỆNH HỮU ÍCH KHI LAM VIEC VỚI CODEBASE
+ị 2:fflư Gợi ý tiếp theo: LỆNH MỤC ĐÍCH vi DỤ
+> Dang phan tich dy an... > Xem luõng dif liệu chinh /1s (path) Liệt ké file & thu mục. /1s src/components
+ee cee 02 I n ] Doe ni dung fle eae Sie oe
+> Điển vào chinh: sre/main. jsx > Xem API endpoints ; : E 5
+> Router: sre/routes /index.jsx > Hướng din chay dy an Jsearch [keyword] Tim kiểm trong dy an Jsearch “useEffect
+> API elient:. sre/services/epi.Js rep (patter Tim theo pattem (egex Jarep "T000"
+> State mangement: Zustand (sre/store/)  > Viet tinh nang moi dsp? lose) 5 u oe
+> Database: Supabase (src/1ib/supabase. js) analyze Phan tich toàn bộ dự án. /analyze
+“Pitre wae Á [tree [path] Hién thị cay thy mục. [tree src
+Updates 90 to Supabase Ne | | . E
+77 ˆ. Meo: Hay bat dau bing /analyze dé Claude Code nắm tổng quan dy án!
+Ẩ I rN
+TRANG NOY i HIỂU DU AN KY - LAM VIỆC HIEU QUA GAP BOL ©
+© Claude Code doc va hiểu dy dn của ban. An xe w xv Z=VZ
+—] © céutric 5 ring gidp Al hiếu nhanh hem, Hay dé Claude Code trở thành "ban dé’ Bay
+Z | 9 s cô thể ding các inh dé khim phí codebase m Y
+@ Hiếu dy án tốt = Gai ÿ tốt hon, dung ngữ cánh hon. > m
+2G Tếp theo: Viét code mới bằng Claude Code Tao chức năng, > # BAT DAU CUNG CLAUDE CODE NGAY HOM NAY |
+Ụ “¥> component, API theo yêu cau của ban! | va nang cap ky nang lập trình của ban!

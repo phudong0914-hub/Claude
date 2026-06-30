@@ -1,0 +1,59 @@
+--- Trang 49 ---
+4/10 CLAUDE CODE SERIES a Claude
+Pa
+x af „ #
+l \
+Hạ „ @
+E | Reading files
+Để Claude Code hỗ tre ban hiệu quả, H ® Understanding
+nó cin hiểu rõ codebase, luồng logic vi ngữ cảnh da an. i: đ Building context
+ế
+Claude Code dos, phin tích vi by dung bức tranh Ung thể obs dự án m Ỉ Pasdy to help!
+36 dun rã gol ý chính xác, dũng ngữ cảnh và phir hop etait. Lt
+L
+Ø G1AU0E code aoc oy An THẾ Nor ÑR €3} CẤU TRÚC DỰ AN THƯỜNG GAP CLAUDE CODE Tim RIỂM ĐIỀU Gir
+a. eer @ Fie chubion
+QUÉT cAU TRÚC THU MỤC oa Mi nguồn chirh của Ong dp. ipackage jeer, tucontig jon,
+Hhận din các Ghat mục, fle Fy a E pempeniatel a, ibn conlig it]
+qean-irpeg và môi kén Pat EE ee © Gm bắt đba của ứng one
+features! (rede ja, mairutes, Appia...)
+Í sarvdoen Các t năng thee domain.
+DOC NOI DUNG FILE ee ee @ Cie edule, servicn chinh
+a arwcent
+(Doe ene, config, rg I~ app. jax FPEYHE EN EEHT business logic hung dd liệu và dependencies
+Hiệu ing: và quy t - main, jue ela © Quy ude dặt tên và clu trúc code
+7 .. [ public be him tiện ich, heiper T liệu ễ cọcrneri qauan tr
+XÂY DỰNG NOU CANH L— costs, n ratchet bi
+Hida tripe Úu ChỰ din, hae I- dees Kiểm thứ din v4, integration teat.
+schinh.depencierstles, ae s eal gan CÖ THỂ KIỂM TRA BẰNG LỆNH:
+và cách các phám lsên hến, | packepe. joo ‘Ta iba, hướng dẫn ie. # Liật be thle § ther mực
+J— tacenrig. fHơn Package jon ¬
+GI GHI NHỮ NGỮ CẢNH ế m at (Gud iy dependencies E rinks # Đọc file ey tl
+K ngũ cảnh trong sat phan fread urc/App. jax
+: pitigeore README m
+der việc diệ hỗ erg bạn tốt se, 090 thiệu và hướng dẫn nhanh. a Tis kiếm trong ay aA q
+Jwenrch “epeAwth”
+© CÁCH GIÚP CLAUDE cone HIỂU DY AN NHANH & CHINH XAC HON
+1 Glu trúc rõ hing . README dy đủ 3.0zmenthgplý 4. Thchmedulenhd  S.Fdecomig huin  B.Logi re không cho thiết
+EA GI u © ữ
+Tế chức thay =ục, đặt tên Ma tả mục tiệu dy dn, Qiảithich logephứctạp,  Chia nhỏ chức năng (Clu hinds 08 rằng Sử dụng .qitignere dil
+file, Fide thee guy wwe cách chạp tds tle, ig xữ Hi và cuyết giảm pty thưộc, tránh erator cuả nhiệu, loại bỏ ile uae, log
+nhấn quale công nghệ sử dung. deh quan trong, 1ăng tanks thd it cheng. gai dion gabe etek prone.
+# Ching rõ reg = Cliude Code cing hidu Aaah — Hỗ trợ ban cảng chính xhe!
+© vi DỤ: cLauoe cope PHAN TicH DỰ AN © LỆNH HỮU ÍCH KHI LAM VIỆC VỚI CODEBASE
+i claude LỆNH MỤC DECH: vi ty
+» fanaiyse Ge} tiếp thee
+E i dl ư E Ma [path] Liệt bob file & thu mục fle arefcomponenti
+= wt 343 file, 38 th C n . ã 2 ; fread [file] Dos nội dung fag fread ercuikpp. jez
+EE dim whe chính: areymadn. jex Xem APL endpoint Semanch [kepwond| Tes hides trong didn feearch "useEffert"
+@ art an! arefarviecsiiel. H Hướng ddin chạy ay an Jorem [battere] Tes the gamer Crepes) /grep "TU09"
+Test: Yitssk (Eweta/] tree [path Hiện thị cây thư mục ftree are
+¬ # Mes: Hãy bản dẫu bằng fonalyre d Clsudg Cods năm tống quan ự áni
+TÓM TAT TRANG MAY - : l
+sf?  Clmede Circe đọc wh hiểu dự dn của bạn HIẾU DỰ AN KY = LAM VIEC HIỆU QUA GAP BOI!
+b Chum . l U nikanh Set ee . ath H T
+z + eon ie = Hay dé Claude Code trở thanh "ban da
+z ì n củ thể đùng các Lịnh để khim phả cosebast - š . x
+1 Hiểu d án idk = Gel bốt hơn, dig ngữ cảnh hon ¿ din ban di nhanh va đúng hướng trong codebase.
+ữ re Vi ¡ ¬ : H r !
+# Tiếp theo: Viết code mới bing Teo chức nding, component, AP! thee yếu clu của ban! >|
