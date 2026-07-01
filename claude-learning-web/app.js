@@ -6695,23 +6695,18 @@ async function renderLesson() {
     sourceLink.innerHTML = "Mở trang gốc";
     sourceLink.onclick = null;
 
-    // Load dynamic premium contents if Supabase is active
+    // Always use clean lesson summary (poster images already show full visual content)
+    pageSummary.innerHTML = renderPageSummary(lesson);
+
+    // Load bonus agent content if available from Supabase
     if (typeof fetchPremiumLessonContent === "function") {
       const premiumData = await fetchPremiumLessonContent(lesson.id);
-      if (premiumData) {
-        // If Supabase returned custom OCR text, render using it
-        pageSummary.innerHTML = renderPageSummary(lesson, premiumData.ocr_content);
-        if (premiumData.bonus_agent_content) {
-          if (bonusAgentContent) bonusAgentContent.innerHTML = premiumData.bonus_agent_content;
-        } else {
-          if (typeof renderBonusAgent === "function") renderBonusAgent(lesson);
-        }
+      if (premiumData && premiumData.bonus_agent_content) {
+        if (bonusAgentContent) bonusAgentContent.innerHTML = premiumData.bonus_agent_content;
       } else {
-        pageSummary.innerHTML = renderPageSummary(lesson);
         if (typeof renderBonusAgent === "function") renderBonusAgent(lesson);
       }
     } else {
-      pageSummary.innerHTML = renderPageSummary(lesson);
       if (typeof renderBonusAgent === "function") renderBonusAgent(lesson);
     }
   }
