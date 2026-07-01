@@ -290,11 +290,9 @@ let _premiumFetchPermanentlyDisabled = false; // permanently disable if table do
 
 async function fetchPremiumLessonContent(lessonId) {
   if (!isSupabaseConfigured) {
-    // In Demo mode, read from client-side window.sourcePages
-    return {
-      ocr_content: window.sourcePages?.[parseInt(lessonId, 10)] || "Nội dung bài học mô phỏng hệ thống demo.",
-      bonus_agent_content: null
-    };
+    // In Demo mode, skip OCR text (often garbled from poster scanning)
+    // The system will fall back to the clean lesson.summary instead
+    return null;
   }
 
   // Skip API call entirely if user is not logged in
