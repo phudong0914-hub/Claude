@@ -8095,18 +8095,6 @@ function renderDashboard() {
             </div>
           </div>
 
-          <div class="dashboard-course-card">
-            <span class="course-card-badge future">Sắp ra mắt</span>
-            <div>
-              <h4>AI-First Business Automation with Claude & Zapier</h4>
-              <p>Xây dựng hệ thống tự động hóa văn phòng và kinh doanh sử dụng các mô hình ngôn ngữ lớn làm lõi điều phối công việc.</p>
-            </div>
-            <div>
-              <button class="course-action-trigger" disabled style="opacity: 0.6; cursor: not-allowed;">
-                🔒 Chưa mở đăng ký
-              </button>
-            </div>
-          </div>
 
         </div>
       </div>
