@@ -6611,11 +6611,17 @@ function setupNotesVault(lessonId) {
       noteSaveStatus.className = "note-save-status typing";
     }
 
-    safeSetLocalStorage(`claude-lesson-note-${lessonId}`, lessonNotesTextarea.value);
+    const currentNotesVal = lessonNotesTextarea.value;
+    safeSetLocalStorage(`claude-lesson-note-${lessonId}`, currentNotesVal);
 
     // Subtle feedback lag for natural feel
     if (window.notesSaveTimeout) clearTimeout(window.notesSaveTimeout);
-    window.notesSaveTimeout = setTimeout(() => {
+    window.notesSaveTimeout = setTimeout(async () => {
+      // Sync to Supabase Cloud if authenticated
+      if (typeof window.saveProgressToCloud === "function" && typeof window.getCurrentSession === "function" && window.getCurrentSession()) {
+        const isCompleted = completed.has(lessonId);
+        await window.saveProgressToCloud(lessonId, isCompleted, currentNotesVal);
+      }
       if (noteSaveStatus) {
         noteSaveStatus.innerHTML = `<i class="dot-blink"></i>Đã lưu tự động`;
         noteSaveStatus.className = "note-save-status saved";
@@ -7667,6 +7673,13 @@ function ensureActiveLessonVisible() {
 
 function saveCompleted() {
   safeSetLocalStorage("claude-completed-lessons", JSON.stringify([...completed]));
+
+  // Sync to Supabase Cloud if authenticated
+  if (typeof window.saveProgressToCloud === "function" && typeof window.getCurrentSession === "function" && window.getCurrentSession()) {
+    const isCompleted = completed.has(activeLessonId);
+    const savedNote = safeGetLocalStorage(`claude-lesson-note-${activeLessonId}`, "");
+    window.saveProgressToCloud(activeLessonId, isCompleted, savedNote);
+  }
 }
 
 function checkCelebration(count, total) {
@@ -9034,7 +9047,51 @@ function initSurvey() {
   }
 }
 
+// Sync progress from Supabase Cloud helper
+async function syncProgressFromCloud() {
+  if (typeof window.loadAllProgressFromCloud !== "function") return;
+  try {
+    const cloudProgress = await window.loadAllProgressFromCloud();
+    if (cloudProgress && cloudProgress.length > 0) {
+      console.log(`[Sync] Syncing ${cloudProgress.length} progress entries from cloud...`);
+      cloudProgress.forEach(entry => {
+        const lessonId = entry.lesson_id;
+        
+        // 1. Sync notes
+        if (entry.notes) {
+          safeSetLocalStorage(`claude-lesson-note-${lessonId}`, entry.notes);
+        }
+        
+        // 2. Sync checklist completed state
+        if (entry.completed) {
+          completed.add(lessonId);
+        } else {
+          completed.delete(lessonId);
+        }
+      });
+      
+      // Save local storage cache for offline fallback
+      safeSetLocalStorage("claude-completed-lessons", JSON.stringify([...completed]));
+      
+      // Update UI
+      updateAll();
+    }
+  } catch (err) {
+    console.error("[Sync] Error in syncProgressFromCloud:", err);
+  }
+}
+
 // Call initSurvey and updateAll
 initSurvey();
 updateAll();
+
+// Listen to auth state changes to trigger cloud progress sync
+if (typeof window.onAuthStateChange === "function") {
+  window.onAuthStateChange(async ({ session }) => {
+    if (session) {
+      await syncProgressFromCloud();
+    }
+  });
+}
+
 

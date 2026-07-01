@@ -7,36 +7,29 @@
 // ========================================================================
 
 // ═══════════════════════════════════════════════════════════════════════
-// 1. CẤU HÌNH – THAY CÁC GIÁ TRỊ SAU BẰNG THÔNG TIN CỦA BẠN
+// 1. CẤU HÌNH – ĐỌC ĐỘNG TỪ SCRIPT PROPERTIES (ĐÃ BẢO MẬT)
+// Hướng dẫn: Để bảo mật, không viết cứng key ở đây. Hãy vào Project Settings
+// (bánh răng ⚙️ bên trái) > cuộn xuống Script Properties > Thêm các khóa sau:
+// - TELEGRAM_BOT_TOKEN
+// - TELEGRAM_ADMIN_CHAT_ID
+// - SUPABASE_URL
+// - SUPABASE_ANON_KEY
+// - SUPABASE_RPC_SECRET
+// - SPREADSHEET_ID
 // ═══════════════════════════════════════════════════════════════════════
+const scriptProps = PropertiesService.getScriptProperties();
+
 const CONFIG = {
-  // Lấy từ @BotFather trên Telegram (xem hướng dẫn bên dưới)
-  TELEGRAM_BOT_TOKEN: "8961104144:AAF4NiZwJLta8QTsv-wkWD2XZoKiD9v010c",
-
-  // Chat ID riêng của bạn (admin) – xem hướng dẫn lấy ở bước 2
-  TELEGRAM_ADMIN_CHAT_ID: "1790844371",
-
-  // Supabase Project URL (giữ nguyên nếu đúng project)
-  SUPABASE_URL: "https://jnqmfghlnyvrlqiepfac.supabase.co",
-
-  // Supabase Publishable (Anon) Key (Lấy từ phần Publishable key ở Settings > API)
-  // ⚠️ Khóa này an toàn để dùng công khai, không bị Supabase chặn User-Agent của Google Apps Script
-  SUPABASE_ANON_KEY: "sb_publishable_VZRfLai9Ee1BauvY8m_Ojg_0nLqWZhV",
-
-  // Mã bí mật tự chọn (Token) để bảo mật hàm RPC trong Database
-  // Bạn có thể tự đặt một mật khẩu tùy ý (ví dụ: "mat_khau_kich_hoat_123")
-  SUPABASE_RPC_SECRET: "mat_khau_kich_hoat_123",
-
-  // Google Sheet ID – lấy từ URL: https://docs.google.com/spreadsheets/d/SHEET_ID/edit
-  // ⚠️ BẮT BUỘC: Tạo một Google Sheet mới, copy ID từ URL và dán vào đây
-  SPREADSHEET_ID: "1xYMUi6aJjmpV4ZKNzojzdCDThTgViD30ibbRagGmuaQ",
-
-  // Tên sheet lưu đơn hàng (tự động tạo nếu chưa có)
+  TELEGRAM_BOT_TOKEN: scriptProps.getProperty("TELEGRAM_BOT_TOKEN") || "8961104144:AAF4NiZwJLta8QTsv-wkWD2XZoKiD9v010c",
+  TELEGRAM_ADMIN_CHAT_ID: scriptProps.getProperty("TELEGRAM_ADMIN_CHAT_ID") || "1790844371",
+  SUPABASE_URL: scriptProps.getProperty("SUPABASE_URL") || "https://jnqmfghlnyvrlqiepfac.supabase.co",
+  SUPABASE_ANON_KEY: scriptProps.getProperty("SUPABASE_ANON_KEY") || "sb_publishable_VZRfLai9Ee1BauvY8m_Ojg_0nLqWZhV",
+  SUPABASE_RPC_SECRET: scriptProps.getProperty("SUPABASE_RPC_SECRET") || "mat_khau_kich_hoat_123",
+  SPREADSHEET_ID: scriptProps.getProperty("SPREADSHEET_ID") || "1xYMUi6aJjmpV4ZKNzojzdCDThTgViD30ibbRagGmuaQ",
   SHEET_NAME: "Payments",
-
-  // Tên sheet lưu danh sách các email bị chặn spam (tự động tạo nếu chưa có)
   BLOCKLIST_SHEET_NAME: "Blocklist"
 };
+
 
 // ═══════════════════════════════════════════════════════════════════════
 // 2. XỬ LÝ REQUEST GET (từ Web App)

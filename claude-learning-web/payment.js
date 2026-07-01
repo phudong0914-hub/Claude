@@ -11,8 +11,8 @@
   // Google Sheets Apps Script Web App URL
   const googleScriptUrl = "https://script.google.com/macros/s/AKfycbwfmP7PE_tXm2D-VrCMEYR4rw1bam4jQ4SI8LUuorlP4oyxB6Cmi_xHM2B3uo5OxwQF/exec";
 
-  // Generate a random transaction code (e.g., CL9472)
-  const transactionId = `CL${Math.floor(1000 + Math.random() * 9000)}`;
+  // Generate a random transaction code (e.g., CL947285)
+  const transactionId = `CL${Math.floor(100000 + Math.random() * 900000)}`;
 
   // 2. Access Control Helper
   function isLessonLocked(lessonId) {
@@ -723,6 +723,17 @@
           injectSidebarPromo();
           if (typeof window.updateAll === "function") {
             window.updateAll();
+          }
+
+          // Setup real-time subscription for automatic unlock
+          if (currentUserId && typeof window.subscribeToProfileChanges === "function") {
+            window.subscribeToProfileChanges((updatedProfile) => {
+              if (updatedProfile && updatedProfile.purchased === true && !purchased) {
+                console.log("[Realtime] Premium status activated! Unlocking platform...");
+                document.getElementById("pendingOverlay")?.remove();
+                triggerInstantActivation();
+              }
+            });
           }
         }
       });

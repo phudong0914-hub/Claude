@@ -579,6 +579,98 @@ function renderAuthUI() {
   }
 }
 
+
+// Cloud sync helper functions for User Progress (checklist & notes)
+async function saveProgressToCloud(lessonId, completed, notes) {
+  if (!isSupabaseConfigured || !currentSession) return null;
+  try {
+    const userId = currentSession.user.id;
+    const { data, error } = await supabaseClientInstance
+      .from("user_progress")
+      .upsert({
+        user_id: userId,
+        lesson_id: String(lessonId),
+        completed: completed,
+        notes: notes,
+        updated_at: new Date().toISOString()
+      }, { onConflict: "user_id,lesson_id" })
+      .select();
+    
+    if (error) {
+      console.warn("Failed to sync progress to cloud:", error.message || error);
+      return null;
+    }
+    return data;
+  } catch (err) {
+    console.error("Error in saveProgressToCloud:", err);
+    return null;
+  }
+}
+
+async function loadAllProgressFromCloud() {
+  if (!isSupabaseConfigured || !currentSession) return [];
+  try {
+    const { data, error } = await supabaseClientInstance
+      .from("user_progress")
+      .select("*")
+      .eq("user_id", currentSession.user.id);
+    
+    if (error) {
+      console.warn("Failed to load progress from cloud:", error.message || error);
+      return [];
+    }
+    return data || [];
+  } catch (err) {
+    console.error("Error in loadAllProgressFromCloud:", err);
+    return [];
+  }
+}
+
+
+let currentProfileSubscription = null;
+
+function subscribeToProfileChanges(callback) {
+  if (!isSupabaseConfigured || !currentSession || !window.supabaseClientInstance) return;
+  
+  if (currentProfileSubscription) {
+    window.supabaseClientInstance.removeChannel(currentProfileSubscription);
+  }
+  
+  const userId = currentSession.user.id;
+  console.log(`[Realtime] Subscribing to profile updates for user: ${userId}`);
+  
+  currentProfileSubscription = window.supabaseClientInstance
+    .channel(`public-profiles-id-eq-${userId}`)
+    .on(
+      "postgres_changes",
+      {
+        event: "UPDATE",
+        schema: "public",
+        table: "profiles",
+        filter: `id=eq.${userId}`
+      },
+      async (payload) => {
+        console.log("[Realtime] Received profile update:", payload);
+        if (payload.new) {
+          currentUserProfile = payload.new;
+          lastProfilePurchased = payload.new.purchased;
+          lastProfileName = payload.new.full_name;
+          
+          triggerAuthChange();
+          renderAuthUI();
+          if (typeof window.updateAll === "function") window.updateAll();
+          
+          if (callback) {
+            callback(payload.new);
+          }
+        }
+      }
+    )
+    .subscribe((status) => {
+      console.log(`[Realtime] Subscription status: ${status}`);
+    });
+}
+
 // Expose key helper functions globally
 window.checkPremiumStatus = checkPremiumStatus;
 window.fetchPremiumLessonContent = fetchPremiumLessonContent;
@@ -586,4 +678,9 @@ window.updateLocalProfilePurchased = updateLocalProfilePurchased;
 window.onAuthStateChange = onAuthStateChange;
 window.getCurrentSession = () => currentSession;
 window.getCurrentUserProfile = () => currentUserProfile;
+window.saveProgressToCloud = saveProgressToCloud;
+window.loadAllProgressFromCloud = loadAllProgressFromCloud;
+window.subscribeToProfileChanges = subscribeToProfileChanges;
+
+
 
