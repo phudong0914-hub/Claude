@@ -1079,7 +1079,7 @@ const flatLessons = modules.flatMap((module) =>
     summary,
     moduleId: module.id,
     moduleTitle: module.title,
-    image: `../ocr_pages/page_${String(page).padStart(3, "0")}.png?v=20260528-140729`,
+    image: `ocr_pages/page_${String(page).padStart(3, "0")}.png?v=20260528-140729`,
   }))
 );
 
