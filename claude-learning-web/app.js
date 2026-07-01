@@ -1,4 +1,4 @@
-const modules = [
+const modulesCourse1 = [
   {
     id: "foundation",
     title: "Nền tảng Claude",
@@ -87,6 +87,60 @@ const modules = [
       ["53", 53, "Bài 48: Xử lý xác thực và phân quyền API", "code", "Bảo vệ API, kiểm tra đúng người, đúng quyền và đúng dữ liệu."],
       ["54", 54, "Bài 49: Test và tối ưu hiệu suất", "code", "Viết test, đo hiệu suất, tìm bottleneck và tối ưu hệ thống."],
       ["55", 55, "Bài 50: Tổng kết và triển khai dự án với Claude Code", "code", "Đóng gói, test, tối ưu và deploy ứng dụng hoàn chỉnh với Claude Code."],
+    ],
+  },
+];
+
+const modulesCourse2 = [
+  {
+    id: "c2-foundation",
+    title: "Nền tảng Claude Code",
+    range: "01-10",
+    lessons: [
+      ["01", 1, "Bài 01: Tổng quan về Claude Code & Agentic Coding", "code", "Hiểu sự khác biệt giữa AI trợ giúp thông thường và Agentic Coding. Nắm cơ chế hoạt động cốt lõi của Claude Code."],
+      ["02", 2, "Bài 02: Cài đặt và cấu hình môi trường", "tool", "Chuẩn bị môi trường, cài đặt Claude Code CLI và xác thực tài khoản Anthropic."],
+      ["03", 3, "Bài 03: Khởi chạy lệnh CLI đầu tiên", "tool", "Làm quen lệnh /ask, /init và cách tương tác trực tiếp với terminal của Claude Code."],
+      ["04", 4, "Bài 04: Điều hướng codebase lớn", "tool", "Tìm kiếm file thông minh bằng lệnh /search và /grep để quét nội dung dự án."],
+      ["05", 5, "Bài 05: Quy trình Auto-debug & vá lỗi", "code", "Debug lỗi tự động, xem và phê duyệt thay đổi (diff) do AI đề xuất."],
+      ["06", 6, "Bài 06: Bảo mật & kiểm soát quyền hệ thống", "tool", "Cấu hình quyền đọc/ghi file và lệnh Bash an toàn trên hộp cát (sandbox)."],
+      ["07", 7, "Bài 07: Tích hợp Git tự động", "workflow", "Kiểm tra trạng thái Git, tự động viết commit message chuẩn và xử lý conflict."],
+      ["08", 8, "Bài 08: Cấu hình cá nhân hóa CLI", "tool", "Sử dụng tệp .claudecode.json để định cấu hình bỏ qua file rác và gán alias."],
+      ["09", 9, "Bài 09: Quản lý ngân sách Token", "analysis", "Kiểm soát chi phí API, giới hạn token tối đa và tối ưu phiên làm việc dài."],
+      ["10", 10, "Bài 10: Thực hành: Deploy Web tĩnh lên Cloudflare Pages", "task", "Khởi tạo, xây dựng giao diện và deploy sản phẩm web tĩnh thông qua CLI."],
+    ],
+  },
+  {
+    id: "c2-skills",
+    title: "Custom Skills & Co-work",
+    range: "11-20",
+    lessons: [
+      ["11", 11, "Bài 11: Thiết lập Custom Skills (CLAUDE.md)", "concept", "Khởi tạo và cấu trúc file CLAUDE.md để tạo ngữ cảnh và chỉ dẫn riêng cho AI."],
+      ["12", 12, "Bài 12: Phong cách code (Styleguides) trong CLAUDE.md", "code", "Định nghĩa quy tắc viết code, format và linting đồng bộ cho dự án."],
+      ["13", 13, "Bài 13: Cấu trúc lệnh chạy test tự động", "tool", "Cấu hình lệnh /test tương thích với framework để AI tự chạy và sửa lỗi test."],
+      ["14", 14, "Bài 14: Quy trình Co-work (Ruben Hassid)", "workflow", "Tổ chức thư mục projects/, tasks/ và docs/ để phối hợp nhóm mượt mà."],
+      ["15", 15, "Bài 15: Project-scoped rules (.agents/AGENTS.md)", "concept", "Tạo bộ luật riêng của dự án định hình mức độ tự quyết và hành vi của Agent."],
+      ["16", 16, "Bài 16: Tự động viết tài liệu kỹ thuật", "writing", "Chỉ đạo Claude phân tích codebase sinh README.md và sơ đồ Mermaid trực quan."],
+      ["17", 17, "Bài 17: Viết kịch bản test tự động & UI Testing", "code", "Hỗ trợ viết unit test và kịch bản UI test chạy trên trình duyệt ẩn."],
+      ["18", 18, "Bài 18: Tối ưu hóa prompt cho Opus & Adaptive Thinking", "prompt", "Kích hoạt chế độ suy nghĩ sâu lập luận thuật toán trước khi viết code."],
+      ["19", 19, "Bài 19: Tự động hóa Code Review trước khi Merge", "analysis", "Thiết lập checklist đánh giá chất lượng code, bảo mật và đề xuất tối ưu."],
+      ["20", 20, "Bài 20: Thực hành: Tạo khung Custom Skill cho Backend", "task", "Xây dựng boilerplate Node/Express tuân thủ nghiêm ngặt chỉ dẫn CLAUDE.md."],
+    ],
+  },
+  {
+    id: "c2-advanced",
+    title: "Agentic Workflows & APIs",
+    range: "21-30",
+    lessons: [
+      ["21", 21, "Bài 21: Tổng quan Anthropic API & Cấu hình", "code", "Sử dụng SDK, Messages API và các tham số điều khiển câu trả lời của mô hình."],
+      ["22", 22, "Bài 22: Cơ chế gọi công cụ (Tool Use)", "tool", "Định nghĩa schema JSON để Claude tự quyết định gọi hàm tương tác bên ngoài."],
+      ["23", 23, "Bài 23: Mô hình Agent vòng lặp (ReAct loop)", "workflow", "Xây dựng vòng lặp AI tự lập luận, chọn công cụ và đánh giá kết quả."],
+      ["24", 24, "Bài 24: Model Context Protocol (MCP) là gì", "concept", "Tìm hiểu giao thức MCP chuẩn hóa cách AI kết nối dữ liệu và công cụ."],
+      ["25", 25, "Bài 25: Tích hợp PostgreSQL/Supabase qua MCP", "tool", "Cho phép Claude kết nối an toàn để truy vấn, thiết kế DB và tối ưu SQL."],
+      ["26", 26, "Bài 26: Tạo Bot Slack/Telegram điều phối công việc", "business", "Xây dựng ứng dụng chatbot AI duy trì ngữ cảnh trò chuyện thực tế."],
+      ["27", 27, "Bài 27: Xây dựng Robot viết code tự động (Code Generator)", "task", "Tạo CLI nhận file mô tả tính năng tự động sinh ra mã nguồn tương ứng."],
+      ["28", 28, "Bài 28: Xử lý lỗi, ngoại lệ & Tối ưu hóa độ trễ", "analysis", "Áp dụng retry exponential backoff và streaming để tối ưu hóa ứng dụng Agent."],
+      ["29", 29, "Bài 29: Bảo mật AI Agent & Chống Prompt Injection", "concept", "Xây dựng guardrails phòng ngự và làm sạch đầu vào/đầu ra cho Agent."],
+      ["30", 30, "Bài 30: Thực hành: Hoàn thành Dự án Capstone Agent", "task", "Xây dựng hệ thống tự động quét log lỗi, gọi Claude sửa và gửi email báo cáo."],
     ],
   },
 ];
@@ -1070,18 +1124,70 @@ const rubricRows = [
   ["An toàn dữ liệu", "Không chứa thông tin nhạy cảm, có bước ẩn danh/kiểm chứng khi cần."],
 ];
 
-const flatLessons = modules.flatMap((module) =>
-  module.lessons.map(([id, page, title, type, summary]) => ({
-    id,
-    page,
-    title,
-    type,
-    summary,
-    moduleId: module.id,
-    moduleTitle: module.title,
-    image: `ocr_pages/page_${String(page).padStart(3, "0")}.png?v=20260528-140729`,
-  }))
-);
+let activeCourseId = safeGetLocalStorage("claude-active-course-id", "course1");
+let modules = activeCourseId === "course2" ? modulesCourse2 : modulesCourse1;
+let flatLessons = [];
+
+function rebuildFlatLessons() {
+  flatLessons = modules.flatMap((module) =>
+    module.lessons.map(([id, page, title, type, summary]) => ({
+      id,
+      page,
+      title,
+      type,
+      summary,
+      moduleId: module.id,
+      moduleTitle: module.title,
+      image: activeCourseId === "course2" 
+        ? `ocr_pages/page_${String(page).padStart(3, "0")}.png?v=20260701-fix` // fallback image, or custom course2 graphics if any
+        : `ocr_pages/page_${String(page).padStart(3, "0")}.png?v=20260528-140729`,
+    }))
+  );
+}
+
+function switchCourse(courseId) {
+  if (courseId === "course2") {
+    activeCourseId = "course2";
+    modules = modulesCourse2;
+    activeLessonId = safeGetLocalStorage("claude-active-lesson-course2", "01");
+    activeLessonTab = "c2-foundation";
+    
+    // Load Course 2 completed set
+    try {
+      const saved = safeGetLocalStorage("completed-lessons-course2", "[]");
+      const parsed = JSON.parse(saved);
+      completed = new Set(Array.isArray(parsed) ? parsed : []);
+    } catch(e) {
+      completed = new Set();
+    }
+  } else {
+    activeCourseId = "course1";
+    modules = modulesCourse1;
+    activeLessonId = safeGetLocalStorage("claude-active-lesson-course1", "01");
+    activeLessonTab = safeGetLocalStorage("claude-active-lesson-tab-course1", "foundation");
+    
+    // Load Course 1 completed set
+    try {
+      const saved = safeGetLocalStorage("claude-completed-lessons", "[]");
+      const parsed = JSON.parse(saved);
+      completed = new Set(Array.isArray(parsed) ? parsed : []);
+    } catch(e) {
+      completed = new Set();
+    }
+  }
+  
+  safeSetLocalStorage("claude-active-course-id", activeCourseId);
+  rebuildFlatLessons();
+  
+  // Trigger general redraw
+  if (typeof updateAll === "function") {
+    updateAll();
+  }
+}
+
+// Initial build
+rebuildFlatLessons();
+
 
 // Safe localStorage helper wrappers to prevent crashes on file:/// protocol or private mode
 function safeGetLocalStorage(key, defaultValue = "") {
@@ -6660,10 +6766,12 @@ async function renderLesson() {
 
   // Check locking status
   const isPremium = (typeof checkPremiumStatus === "function") ? checkPremiumStatus() : false;
-  const isLocked = !isPremium && parseInt(lesson.id, 10) > 5;
+  // Course 2 is unlocked for developers participating, only lock course 1 premium content
+  const isLocked = activeCourseId === "course1" && !isPremium && parseInt(lesson.id, 10) > 5;
 
   if (isLocked) {
-    pageImage.src = "assets/locked-placeholder.png"; // Placeholder path
+    pageImage.style.display = "block";
+    pageImage.src = "assets/locked-placeholder.png";
     pageImage.alt = "Nội dung Premium đã bị khóa";
     sourceLink.href = "#";
     sourceLink.innerHTML = "🔒 Đăng nhập Premium để xem trang gốc";
@@ -6689,11 +6797,20 @@ async function renderLesson() {
       `;
     }
   } else {
-    pageImage.src = lesson.image;
-    pageImage.alt = `Trang ${lesson.page}: ${lesson.title}`;
-    sourceLink.href = lesson.image;
-    sourceLink.innerHTML = "Mở trang gốc";
-    sourceLink.onclick = null;
+    if (activeCourseId === "course2") {
+      // Hide the default image frame or render custom placeholder for Course 2
+      pageImage.style.display = "none";
+      sourceLink.href = "https://github.com/phudong0914-hub/Claude";
+      sourceLink.innerHTML = "🔗 Xem Repo tài nguyên đính kèm";
+      sourceLink.onclick = null;
+    } else {
+      pageImage.style.display = "block";
+      pageImage.src = lesson.image;
+      pageImage.alt = `Trang ${lesson.page}: ${lesson.title}`;
+      sourceLink.href = lesson.image;
+      sourceLink.innerHTML = "Mở trang gốc";
+      sourceLink.onclick = null;
+    }
 
     // Always use clean lesson summary (poster images already show full visual content)
     pageSummary.innerHTML = renderPageSummary(lesson);
@@ -6712,6 +6829,7 @@ async function renderLesson() {
   }
 
   safeSetLocalStorage("claude-active-lesson", lesson.id);
+  safeSetLocalStorage("claude-active-lesson-" + activeCourseId, lesson.id);
   updatePrevNextState();
   renderAgentToolkit(lesson);
   
@@ -6724,6 +6842,14 @@ async function renderLesson() {
 }
 
 function getLessonGoals(lesson) {
+  if (activeCourseId === "course2") {
+    return [
+      `Hiểu sâu lý thuyết và cách vận dụng bài "${lesson.title}".`,
+      `Biết cách thực thi các công cụ lập trình AI tự động trong bài này.`,
+      `Hoàn thành phần thực hành code hoặc cấu hình mẫu được giao.`,
+      `Tích hợp kiến thức vào quy trình phát triển phần mềm thực tế.`
+    ];
+  }
   const baseGoals = lessonSpecificGoals[lesson.id] || typeGoals[lesson.type] || typeGoals.task;
   const profile = getActiveRoleProfile();
   const scenario = getLessonScenario(lesson);
@@ -6737,6 +6863,9 @@ function getLessonGoals(lesson) {
 }
 
 function renderLessonMeta(lesson) {
+  if (activeCourseId === "course2") {
+    return `<span>${branchLabels[lesson.type] || lesson.type}</span><span>30-45 phút</span><span>Lập trình Nâng cao</span>`;
+  }
   const path = getActivePath();
   let html = `<span>${branchLabels[lesson.type] || lesson.type}</span><span>20-35 phút</span><span>${path.title}</span>`;
   if (lesson.id === "10") {
@@ -6746,6 +6875,17 @@ function renderLessonMeta(lesson) {
 }
 
 function renderPageSummary(lesson, ocrTextOverride) {
+  if (activeCourseId === "course2") {
+    const course2Text = window.sourcePagesCourse2?.[parseInt(lesson.id, 10)] || lesson.summary;
+    return `
+      <article class="summary-slide">
+        <div class="summary-kicker">Bài ${lesson.id} · ${escapeHtml(branchLabels[lesson.type] || lesson.type)}</div>
+        <h3>${escapeHtml(lesson.title)}</h3>
+        <div class="summary-desc" style="white-space: pre-line; font-family: monospace; font-size: 12px; line-height: 1.6; background: rgba(255,255,255,0.02); padding: 16px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.05); color: #e2e8f0; margin-top: 12px;">${escapeHtml(course2Text)}</div>
+      </article>
+    `;
+  }
+
   const scenario = getLessonScenario(lesson, activeWorkflowRoleId);
   const profile = getWorkflowRoleProfile();
   const apps = getApplications(lesson);
@@ -7667,7 +7807,11 @@ function ensureActiveLessonVisible() {
 }
 
 function saveCompleted() {
-  safeSetLocalStorage("claude-completed-lessons", JSON.stringify([...completed]));
+  if (activeCourseId === "course2") {
+    safeSetLocalStorage("completed-lessons-course2", JSON.stringify([...completed]));
+  } else {
+    safeSetLocalStorage("claude-completed-lessons", JSON.stringify([...completed]));
+  }
 
   // Sync to Supabase Cloud if authenticated
   if (typeof window.saveProgressToCloud === "function" && typeof window.getCurrentSession === "function" && window.getCurrentSession()) {
@@ -8051,17 +8195,31 @@ function renderDashboard() {
       </div>
     `;
   } else if (dashboardTab === "courses") {
-    const totalLessons = 55;
-    const completedCount = completed ? completed.size : 0;
-    const progressPercent = Math.round((completedCount / totalLessons) * 100);
+    // Course 1 progress
+    const totalLessonsC1 = 55;
+    const completedCountC1 = completed ? completed.size : 0; // fallback or logic to partition progress if necessary, for now we can track distinct completed lessons or filter if they contain course key
+    const progressPercentC1 = Math.round((completedCountC1 / totalLessonsC1) * 100);
+
+    // Course 2 progress
+    const totalLessonsC2 = 30;
+    // We can count completed lessons that belong to course 2. In Supabase, course 2 lesson IDs are "01" through "30".
+    // Since completed set stores lesson IDs (like "01", "02"), to distinguish, we can store completed lessons in localStorage/Supabase.
+    // For now, let's read Course 2 progress from localStorage or filter. Let's calculate based on a course2 completion prefix or similar.
+    // Let's retrieve course 2 progress from safeGetLocalStorage("completed-course2", "[]") parsed.
+    let completedC2 = [];
+    try {
+      completedC2 = JSON.parse(safeGetLocalStorage("completed-lessons-course2", "[]"));
+    } catch(e) {}
+    const completedCountC2 = completedC2.length;
+    const progressPercentC2 = Math.round((completedCountC2 / totalLessonsC2) * 100);
 
     panelHTML = `
       <div class="dashboard-panel-card">
         <h4 class="dashboard-panel-title">Khóa học của bạn</h4>
         <div class="dashboard-courses-grid">
           
-          <div class="dashboard-course-card active">
-            <span class="course-card-badge active">Đang học</span>
+          <div class="dashboard-course-card ${activeCourseId === 'course1' ? 'active' : ''}">
+            <span class="course-card-badge ${activeCourseId === 'course1' ? 'active' : ''}">${activeCourseId === 'course1' ? 'Đang học' : 'Đã đăng ký'}</span>
             <div>
               <h4>Claude Mastery: Tự học Claude A-Z trong 50 poster</h4>
               <p>Lộ trình từ nền tảng prompt, thiết kế workflow, tối ưu kỹ năng cộng tác đến lập trình nâng cao với Claude Code và terminal agents.</p>
@@ -8070,31 +8228,39 @@ function renderDashboard() {
               <div class="course-progress-container">
                 <div class="course-progress-info">
                   <span>Tiến độ học</span>
-                  <strong>${completedCount}/${totalLessons} bài (${progressPercent}%)</strong>
+                  <strong>${completedCountC1}/${totalLessonsC1} bài (${progressPercentC1}%)</strong>
                 </div>
                 <div class="course-progress-track">
-                  <div class="course-progress-fill-bar" style="width: ${progressPercent}%;"></div>
+                  <div class="course-progress-fill-bar" style="width: ${progressPercentC1}%;"></div>
                 </div>
               </div>
               <button class="course-action-trigger" id="resumeLearningBtn">
-                🚀 Học tiếp
+                ${activeCourseId === 'course1' ? '🚀 Học tiếp' : 'Vào học'}
               </button>
             </div>
           </div>
           
-          <div class="dashboard-course-card">
-            <span class="course-card-badge future">Sắp ra mắt</span>
+          <div class="dashboard-course-card ${activeCourseId === 'course2' ? 'active' : ''}">
+            <span class="course-card-badge ${activeCourseId === 'course2' ? 'active' : 'learning'}">${activeCourseId === 'course2' ? 'Đang học' : 'Sắp học'}</span>
             <div>
               <h4>Claude Code & Agentic Coding Advanced</h4>
               <p>Chuyên sâu phát triển phần mềm, xây dựng công cụ tùy chỉnh (custom skills), tích hợp API và vận hành robot code tự động.</p>
             </div>
             <div>
-              <button class="course-action-trigger" disabled style="opacity: 0.6; cursor: not-allowed;">
-                🔒 Chưa mở đăng ký
+              <div class="course-progress-container">
+                <div class="course-progress-info">
+                  <span>Tiến độ học</span>
+                  <strong>${completedCountC2}/${totalLessonsC2} bài (${progressPercentC2}%)</strong>
+                </div>
+                <div class="course-progress-track">
+                  <div class="course-progress-fill-bar" style="width: ${progressPercentC2}%;"></div>
+                </div>
+              </div>
+              <button class="course-action-trigger" id="resumeCourse2Btn" style="background: var(--accent-gradient); color: #000; font-weight: bold; border: none;">
+                ${activeCourseId === 'course2' ? '🚀 Học tiếp' : 'Vào học'}
               </button>
             </div>
           </div>
-
 
         </div>
       </div>
@@ -8346,10 +8512,23 @@ function renderDashboard() {
       }
     };
   } else if (dashboardTab === "courses") {
-    document.getElementById("resumeLearningBtn").onclick = () => {
-      hideDashboard();
-      document.querySelector(".workspace")?.scrollIntoView({ behavior: "smooth" });
-    };
+    const resumeBtn1 = document.getElementById("resumeLearningBtn");
+    if (resumeBtn1) {
+      resumeBtn1.onclick = () => {
+        switchCourse("course1");
+        hideDashboard();
+        document.querySelector(".workspace")?.scrollIntoView({ behavior: "smooth" });
+      };
+    }
+    
+    const resumeBtn2 = document.getElementById("resumeCourse2Btn");
+    if (resumeBtn2) {
+      resumeBtn2.onclick = () => {
+        switchCourse("course2");
+        hideDashboard();
+        document.querySelector(".workspace")?.scrollIntoView({ behavior: "smooth" });
+      };
+    }
   } else if (dashboardTab === "resources") {
     const upgradeBtn = document.getElementById("dbUpgradePremiumBtn");
     if (upgradeBtn) {
@@ -8497,6 +8676,22 @@ function updateAll() {
     return;
   }
   _updateAllRunning = true;
+
+  // Dynamic layout branding update
+  try {
+    const brandStrong = document.querySelector(".brand strong");
+    if (brandStrong) {
+      brandStrong.textContent = activeCourseId === "course2" ? "Claude Code" : "Claude Mastery";
+    }
+    const footer = document.getElementById("layoutFooter");
+    if (footer) {
+      footer.innerHTML = activeCourseId === "course2" 
+        ? "<span>Claude Code & Agentic Coding</span><span>30 bài học · Trungvt</span>" 
+        : "<span>Claude Mastery</span><span>55 bài học · NotebookLM pack · Trungvt</span>";
+    }
+  } catch (e) {
+    console.warn("Failed to update layout text dynamically:", e);
+  }
 
   try {
     const session = (typeof window.getCurrentSession === "function") ? window.getCurrentSession() : null;
