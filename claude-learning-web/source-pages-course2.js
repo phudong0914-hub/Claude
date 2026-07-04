@@ -1,271 +1,327 @@
 window.sourcePagesCourse2 = {
-  "1": `[ANALYSIS - PHÂN TÍCH NHU CẦU]
-- Đối tượng: Lập trình viên, kỹ sư phần mềm, tech lead muốn tối ưu tốc độ gõ code và tự động hóa quy trình làm việc.
-- Vấn đề: Chatbot thông thường (Web UI) không có quyền đọc file, không chạy được test, mất thời gian copy-paste code qua lại giữa IDE và trình duyệt.
-- Giải pháp: Sử dụng Claude Code CLI - tác tử (agent) hoạt động trực tiếp trong terminal, có quyền thao tác tệp và chạy dòng lệnh.
+  "1": `* **Kế thừa từ Khóa 1**: Nâng cấp từ cơ chế Chatbot tĩnh (chỉ gợi ý code ở Bài 05) sang cơ chế Tác tử chủ động (Agent) có quyền đọc, viết file và thực thi lệnh Terminal.
+* **Mục tiêu đầu ra**: Giải thích được cơ chế hoạt động của vòng lặp ReAct và cấu hình chạy tác tử an toàn trong terminal.
 
-[DESIGN - MỤC TIÊU ĐẦU RA]
-- Hiểu rõ triết lý Agentic Coding: AI chủ động lập kế hoạch, gọi công cụ và tự sửa sai thay vì chỉ đưa ra gợi ý code tĩnh.
-- Phân biệt được sự khác biệt về năng lực, chi phí và giới hạn giữa Web UI chat thông thường và Terminal Agent.
+#### 1. Kiến thức Cốt lõi
+Chatbot thông thường hoạt động theo mô hình một chạm (Single-turn): Nhận Prompt → Sinh Code. Claude Code CLI hoạt động theo mô hình **ReAct (Reasoning & Acting)**:
+1. **Thought (Tư duy)**: Tác tử phân tích mã nguồn hiện tại của dự án.
+2. **Action (Hành động)**: Gọi các công cụ (Tools) như đọc file, chạy lệnh \`npm test\` hoặc tìm kiếm regex.
+3. **Observation (Quan sát)**: Nhận kết quả trả về từ terminal hoặc file system và tiếp tục lặp lại vòng lặp cho đến khi đạt mục tiêu.
 
-[DEVELOPMENT - KIẾN THỨC CỐT LÕI]
-- Agentic Coding là gì: Mô hình AI được tích hợp vòng lặp suy nghĩ và hành động (Reasoning & Acting - ReAct). Khi nhận yêu cầu, AI sẽ tự phân tích dự án, mở các file cần thiết, chạy lệnh biên dịch/test để kiểm tra xem code có chạy đúng hay không.
-- Giới thiệu Claude Code: Công cụ dòng lệnh CLI chính thức được Anthropic phát triển dựa trên mô hình Claude 3.5 Sonnet và thế hệ 5 mới nhất.
-- Khả năng cốt lõi của Claude Code:
-  1. Đọc và chỉnh sửa file trực tiếp trong codebase của bạn.
-  2. Tự động chạy các dòng lệnh terminal như npm test, git commit, python main.py.
-  3. Tìm kiếm file thông minh bằng cơ chế grep nội dung.
-  4. Phân tích lỗi từ log hệ thống và đề xuất sửa lỗi tự động.
-
-[IMPLEMENTATION - HƯỚNG DẪN THỰC HÀNH]
-- Hãy quan sát mô hình hoạt động của Claude Code:
-  User Prompt (Yêu cầu của bạn) -> Claude Code CLI lập kế hoạch -> Chạy công cụ đọc/viết file -> Tự chạy lệnh kiểm thử trên terminal của bạn -> Đánh giá kết quả -> Trả về mã nguồn đã chạy ổn định cho User.
-
-[EVALUATION - TIÊU CHÍ NGHIỆM THU]
-[ ] Học viên giải thích được sự khác biệt giữa tạo snippet code tĩnh (Web Chat) và tự động hóa sửa file (Terminal Agent).
-[ ] Nhận diện được 3 tình huống thực tế nên dùng Claude Code để giải quyết nhanh.`,
-
-"2": `[ANALYSIS - PHÂN TÍCH NHU CẦU]
-- Yêu cầu môi trường: Cần có Node.js (phiên bản 18 trở lên) cài sẵn trên hệ điều hành (Windows/macOS/Linux) để chạy gói npm của Anthropic.
-- Công cụ cần chuẩn bị: Tài khoản Anthropic Console để lấy API Key, hoặc tài khoản người dùng thông thường để liên kết xác thực qua giao diện Web.
-
-[DESIGN - MỤC TIÊU ĐẦU RA]
-- Cài đặt thành công công cụ Claude Code CLI trên máy tính cá nhân.
-- Thực hiện xác thực liên kết tài khoản thành công và sẵn sàng chạy lệnh.
-
-[DEVELOPMENT - KIẾN THỨC CỐT LÕI]
-- Claude Code được phân phối như một gói npm toàn cục (global package) dưới tên @anthropic-ai/claude-code.
-- Quá trình cài đặt sẽ thiết lập một lệnh môi trường là 'claude' trong hệ thống của bạn.
-- Khi khởi chạy lần đầu tiên, CLI sẽ yêu cầu bạn cấp quyền truy cập trình duyệt để đăng nhập. Nó sẽ cung cấp một mã code ngắn (One-Time Password) để bạn xác nhận trên trang web của Anthropic.
-
-[IMPLEMENTATION - HƯỚNG DẪN THỰC HÀNH]
-1. Mở Terminal (PowerShell trên Windows, Terminal trên macOS).
-2. Kiểm tra phiên bản Node.js bằng lệnh:
-   node -v
-3. Chạy lệnh cài đặt toàn cục:
+#### 2. Hướng dẫn Thực hành
+1. Cài đặt Claude Code CLI toàn cục:
+   \`\`\`bash
    npm install -g @anthropic-ai/claude-code
-4. Tiến hành chạy lệnh khởi động để liên kết tài khoản:
-   claude
-5. Trình duyệt sẽ tự mở ra, hãy nhập mã OTP hiển thị ở Terminal để đăng nhập hoàn tất.
+   \`\`\`
+2. Khởi chạy ở chế độ tương tác an toàn (chỉ hỏi đáp, không tự động sửa file):
+   \`\`\`bash
+   claude --readonly
+   \`\`\`
+3. Đưa ra yêu cầu phân tích cấu trúc dự án:
+   \`\`\`text
+   /ask Cấu trúc thư mục của dự án này đang hoạt động ra sao? Có file config nào quan trọng không?
+   \`\`\`
 
-[EVALUATION - TIÊU CHÍ NGHIỆM THU]
-[ ] Cài đặt gói npm thành công không gặp lỗi phân quyền (permission errors).
-[ ] Chạy lệnh "claude" và màn hình hiển thị lời chào mừng cùng dòng nhắc lệnh tương tác thành công.`,
+#### 3. Bài tập & Tiêu chí Nghiệm thu
+- **Bài tập**: Khởi chạy Claude CLI trong một dự án NodeJS có sẵn, sử dụng lệnh \`/ask\` để tìm ra toàn bộ các dependencies bị lỗi thời (outdated) trong file \`package.json\`.
+- **Tiêu chí nghiệm thu**: 
+  - [ ] Khởi chạy được giao diện tương tác Claude CLI.
+  - [ ] Chạy thành công lệnh \`/ask\` mà không kích hoạt các quyền ghi file.`,
 
-"3": `[ANALYSIS - PHÂN TÍCH NHU CẦU]
-- Bối cảnh: Học viên cần học cách giao tiếp với Claude Code trực tiếp trong thư mục dự án của mình, hiểu các lệnh đặc biệt của hệ thống CLI.
-- Vấn đề: Không biết cách đặt câu hỏi trực tiếp hoặc chuyển đổi giữa chế độ đặt câu hỏi nhanh và chế độ tương tác sâu.
+"2": `* **Kế thừa từ Khóa 1**: Nâng cấp từ việc tùy chỉnh giao diện Web UI (Bài 08) sang cấu hình tệp tin ẩn và tối ưu giao diện dòng lệnh CLUI của Terminal.
+* **Mục tiêu đầu ra**: Tự cấu hình tệp cấu hình toàn cục của Claude CLI để tối ưu tốc độ phản hồi và giao diện hiển thị.
 
-[DESIGN - MỤC TIÊU ĐẦU RA]
-- Làm chủ các lệnh cơ bản: /ask, /init, /help và các tổ hợp phím điều hướng CLI.
-- Thiết lập thành công môi trường làm việc đầu tiên cho dự án.
+#### 1. Kiến thức Cốt lõi
+Claude CLI lưu trữ tệp cấu hình tại thư mục gốc của người dùng (\`~/.claude/config.json\` hoặc đường dẫn AppData trên Windows). Cấu hình này giúp:
+- Định nghĩa các lệnh Terminal mặc định được phép tự động chạy mà không cần hỏi lại (\`allowedCommands\`).
+- Định dạng theme hiển thị, ngôn ngữ ưu tiên và kích thước hiển thị của khối code.
 
-[DEVELOPMENT - KIẾN THỨC CỐT LÕI]
-- Chế độ tương tác (Interactive Mode): Khi gõ lệnh 'claude' không kèm đối số, bạn sẽ vào một phòng chat terminal liên tục với AI.
-- Lệnh /ask: Được dùng để hỏi đáp nhanh về codebase mà không cho phép Claude tự ý chỉnh sửa hay lưu file. Đây là chế độ an toàn nhất khi khảo sát dự án.
-- Lệnh /init: Khởi tạo tệp cấu hình dự án để Claude hiểu cấu trúc thư mục, các lệnh chạy test của bạn.
-
-[IMPLEMENTATION - HƯỚNG DẪN THỰC HÀNH]
-1. Di chuyển vào thư mục dự án code của bạn (ví dụ: một trang web HTML/JS đơn giản).
-2. Chạy lệnh tương tác:
-   claude
-3. Gõ câu hỏi đầu tiên bằng lệnh /ask:
-   /ask Dự án này dùng công nghệ gì và có bao nhiêu file chính?
-4. Sử dụng lệnh /help để xem danh sách toàn bộ các câu lệnh hệ thống có sẵn.
-5. Để thoát khỏi CLI, gõ:
-   exit hoặc ấn Ctrl + C.
-
-[EVALUATION - TIÊU CHÍ NGHIỆM THU]
-[ ] Thực thi thành công lệnh /ask và nhận được câu trả lời tổng quan về cấu trúc dự án.
-[ ] Biết cách xem danh sách lệnh bằng /help và thoát CLI an toàn.`,
-
-"4": `[ANALYSIS - PHÂN TÍCH NHU CẦU]
-- Bối cảnh: Làm việc với các dự án lớn có hàng trăm tệp tin và hàng nghìn dòng code. Học viên cần tìm nhanh một hàm, một biến hoặc tệp tin cụ thể mà không mất thời gian tìm kiếm thủ công.
-- Dữ liệu thực tế: Một thư mục dự án lớn (Node.js hoặc Python) có nhiều thư mục con.
-
-[DESIGN - MỤC TIÊU ĐẦU RA]
-- Sử dụng thành thạo các câu lệnh tìm kiếm tích hợp sẵn của Claude Code: /search và /grep.
-- Tối ưu hóa token đầu vào bằng cách tìm kiếm đúng mục tiêu, tránh quét toàn bộ dự án không cần thiết.
-
-[DEVELOPMENT - KIẾN THỨC CỐT LÕI]
-- Lệnh /search: Dùng để tìm kiếm file theo tên file hoặc đường dẫn tương đối. Sử dụng thuật toán tìm kiếm mờ (fuzzy search) rất nhanh.
-- Lệnh /grep: Dùng để tìm kiếm cụm từ, tên hàm, định nghĩa biến bên trong nội dung của tất cả các file. Nó giống như lệnh grep trên Linux nhưng được tối ưu hóa để AI đọc hiểu nhanh.
-- Cơ chế loại trừ mặc định: Claude Code tự động bỏ qua các thư mục rác hoặc file nhạy cảm như node_modules/, .git/, build/, dist/ để tiết kiệm dung lượng token của bạn.
-
-[IMPLEMENTATION - HƯỚNG DẪN THỰC HÀNH]
-1. Khởi chạy \`claude\` trong thư mục dự án của bạn.
-2. Tìm kiếm các tệp tin cấu hình bằng lệnh:
-   /search config
-3. Tìm kiếm vị trí định nghĩa hàm xử lý lưu trữ hoặc kết nối database bằng lệnh:
-   /grep connectDatabase
-4. Yêu cầu Claude giải thích chức năng của file vừa tìm thấy:
-   Giải thích giúp tôi luồng hoạt động của file database kết nối này.
-
-[EVALUATION - TIÊU CHÍ NGHIỆM THU]
-[ ] Tìm kiếm và liệt kê chính xác các file cấu hình bằng /search.
-[ ] Định vị chính xác dòng code chứa hàm mục tiêu bằng /grep và đọc hiểu phân tích từ AI.`,
-
-"5": `[ANALYSIS - PHÂN TÍCH NHU CẦU]
-- Bối cảnh: Hệ thống hoặc ứng dụng của bạn đang gặp lỗi runtime (crash server, lỗi logic API) hoặc lỗi cú pháp khiến build thất bại.
-- Vấn đề: Quá trình đọc log lỗi và lần tìm file code để sửa thủ công rất mất thời gian.
-- Dữ liệu thực tế: File log ghi nhận lỗi hoặc thông tin lỗi in ra trên terminal.
-
-[DESIGN - MỤC TIÊU ĐẦU RA]
-- Hướng dẫn Claude Code tự động đọc hiểu log lỗi hệ thống.
-- Thực hiện quy trình xem xét thay đổi (git diff / preview changes) và phê duyệt sửa lỗi tự động an toàn.
-
-[DEVELOPMENT - KIẾN THỨC CỐT LÕI]
-- Quy trình Auto-debug của Claude Code gồm 4 bước:
-  1. Đọc và phân tích stack trace lỗi từ file log hoặc output terminal.
-  2. Xác định file và dòng code gây ra lỗi.
-  3. Thực hiện sửa lỗi trực tiếp trên tệp tin.
-  4. Chạy lệnh kiểm tra hoặc chạy thử hệ thống để xác nhận lỗi đã được khắc phục hoàn toàn.
-- Preview Changes (Xem trước thay đổi): Trước khi ghi đè file, CLI sẽ hiển thị sự khác biệt (diff block). Bạn có toàn quyền duyệt (Accept) hoặc từ chối (Reject) thay đổi này.
-
-[IMPLEMENTATION - HƯỚNG DẪN THỰC HÀNH]
-1. Giả lập một lỗi nhỏ trong dự án (ví dụ: gõ sai tên biến hoặc thiếu dấu ngoặc trong file app.js).
-2. Khởi chạy \`claude\` trong terminal.
-3. Ra lệnh cho AI:
-   Server của tôi đang bị lỗi crash. Hãy tìm nguyên nhân và sửa nó giúp tôi.
-4. Quan sát quá trình Claude Code quét file, tìm ra vị trí lỗi và hiển thị bảng màu so sánh (diff).
-5. Nhấn phím 'y' (hoặc chọn Accept) để cho phép AI sửa file.
-
-[EVALUATION - TIÊU CHÍ NGHIỆM THU]
-[ ] Claude Code phát hiện chính xác vị trí dòng lỗi từ mô tả hoặc file log.
-[ ] Sửa đổi được ghi đè thành công và dự án chạy lại bình thường không còn lỗi.`,
-
-"6": `[ANALYSIS - PHÂN TÍCH NHU CẦU]
-- Bối cảnh: AI Agent chạy trực tiếp trên máy tính cá nhân của bạn có quyền năng rất lớn. Nếu AI chạy nhầm lệnh nguy hiểm (như xóa thư mục, ghi đè file cấu hình hệ thống), nó có thể làm hỏng máy tính hoặc lộ dữ liệu nhạy cảm.
-- Giải pháp: Thiết lập cơ chế kiểm soát quyền và hộp cát an toàn (sandbox).
-
-[DESIGN - MỤC TIÊU ĐẦU RA]
-- Thiết lập và quản lý các cờ an toàn (safety flags) khi khởi chạy Claude Code.
-- Đảm bảo an toàn cho hệ thống bằng cách luôn yêu cầu phê duyệt thủ công trước khi AI chạy lệnh shell.
-
-[DEVELOPMENT - KIẾN THỨC CỐT LÕI]
-- Claude Code hoạt động dựa trên các công cụ (tools) được cấp quyền. Các quyền cơ bản gồm:
-  - Quyền đọc (Read): Xem nội dung tệp tin.
-  - Quyền viết (Write): Tạo mới hoặc ghi đè file.
-  - Quyền thực thi (Execute): Chạy lệnh bash/terminal trên máy.
-- Mặc định, Claude CLI sẽ hỏi ý kiến bạn trước khi chạy bất kỳ lệnh bash nào có khả năng thay đổi hệ thống. Bạn có thể cấu hình chế độ nghiêm ngặt để luôn kiểm soát các hành động này.
-
-[IMPLEMENTATION - HƯỚNG DẪN THỰC HÀNH]
-1. Xem các tùy chọn cấu hình an toàn bằng lệnh:
-   claude --help
-2. Khởi chạy Claude Code ở chế độ an toàn nhất, luôn yêu cầu xác nhận trước khi chạy lệnh hệ thống:
-   claude --safety-mode strict
-3. Thử yêu cầu AI chạy một lệnh cài đặt thư viện mới (ví dụ: \`npm install lodash\`).
-4. Quan sát cửa sổ nhắc lệnh xác nhận quyền (Permission Prompt) hiện ra trên terminal và nhấn phê duyệt thủ công.
-
-[EVALUATION - TIÊU CHÍ NGHIỆM THU]
-[ ] Thiết lập thành công chế độ chạy an toàn \`--safety-mode\`.
-[ ] Hiểu rõ cơ chế xác nhận quyền thực thi lệnh và không cấp quyền mù quáng cho AI chạy lệnh hệ thống.`,
-
-"7": `[ANALYSIS - PHÂN TÍCH NHU CẦU]
-- Bối cảnh: Quy trình làm việc với Git thường tốn nhiều thao tác lặp đi lặp lại: chạy \`git status\`, \`git add\`, viết commit message chuẩn, tạo nhánh mới, \`git push\`.
-- Vấn đề: Lập trình viên lười viết commit message chi tiết hoặc viết sai format quy chuẩn của nhóm.
-
-[DESIGN - MỤC TIÊU ĐẦU RA]
-- Sử dụng Claude Code để tự động hóa toàn bộ luồng làm việc Git: Từ tạo nhánh, commit đến push.
-- Tạo ra các commit message chuẩn hóa theo định dạng Conventional Commits tự động.
-
-[DEVELOPMENT - KIẾN THỨC CỐT LÕI]
-- Claude Code tích hợp sâu với Git bằng cách tự chạy lệnh \`git status\` và \`git diff\` trong thư mục dự án.
-- Conventional Commits: Định dạng commit message chuẩn hóa giúp dễ quản lý dự án (ví dụ: \`feat: add database connection\`, \`fix: resolve crash on login\`).
-- AI có khả năng đọc các dòng code bạn vừa thay đổi, hiểu ý nghĩa nghiệp vụ và tự viết mô tả commit cực kỳ chuẩn xác và chuyên nghiệp.
-
-[IMPLEMENTATION - HƯỚNG DẪN THỰC HÀNH]
-1. Thực hiện một chỉnh sửa nhỏ trong codebase của bạn.
-2. Khởi chạy \`claude\`.
-3. Ra lệnh cho AI:
-   Hãy kiểm tra các thay đổi gần đây của tôi, viết commit message chuẩn Conventional Commits và thực hiện commit giúp tôi.
-4. Kiểm tra lịch sử commit bằng lệnh terminal:
-   git log -n 1
-5. Bạn sẽ thấy commit message được AI viết rất sạch đẹp và chi tiết.
-
-[EVALUATION - TIÊU CHÍ NGHIỆM THU]
-[ ] Commit được thực hiện thành công trực tiếp thông qua Claude Code CLI.
-[ ] Định dạng commit message tuân thủ đúng chuẩn Conventional Commits (feat, fix, refactor...).`,
-
-"8": `[ANALYSIS - PHÂN TÍCH NHU CẦU]
-- Bối cảnh: Mỗi dự án hoặc mỗi lập trình viên đều có nhu cầu tùy chỉnh riêng: loại bỏ các tệp tin ảnh lớn không cần AI quét, đổi model mặc định sang dòng tiết kiệm chi phí, hoặc thiết lập viết tắt cho câu lệnh.
-- Giải pháp: Sử dụng file cấu hình \`.claudecode.json\` ở cấp dự án hoặc thư mục gốc người dùng.
-
-[DESIGN - MỤC TIÊU ĐẦU RA]
-- Khởi tạo và cấu hình thành công file \`.claudecode.json\` cá nhân hóa.
-- Tùy chỉnh danh sách các file cần bỏ qua (ignore files) để tiết kiệm token và tăng tốc độ xử lý của AI.
-
-[DEVELOPMENT - KIẾN THỨC CỐT LÕI]
-- Tệp cấu hình \`.claudecode.json\` cho phép bạn định nghĩa các tham số chạy ngầm của Claude Code.
-- Các thuộc tính cấu hình phổ biến:
-  - \`model\`: Chỉ định model mặc định (ví dụ: \`claude-3-5-sonnet-latest\`, \`claude-3-5-haiku-latest\`).
-  - \`ignore\`: Mảng chứa các mẫu glob đường dẫn file cần AI bỏ qua hoàn toàn.
-  - \`autoAccept\`: Cấu hình tự động chấp nhận một số hành động đọc file (không khuyến khích bật cho ghi đè file).
-
-[IMPLEMENTATION - HƯỚNG DẪN THỰC HÀNH]
-1. Tạo một file mới tên là \`.claudecode.json\` ở gốc thư mục dự án của bạn.
-2. Điền nội dung cấu hình mẫu sau:
+#### 2. Hướng dẫn Thực hành
+1. Mở file cấu hình của Claude CLI (ví dụ trên Windows):
+   \`\`\`powershell
+   notepad $HOME\.claude\config.json
+   \`\`\`
+2. Cấu hình tệp tin mẫu với các lệnh kiểm thử tự động được phê duyệt trước để tăng tốc độ phản hồi của tác tử:
+   \`\`\`json
    {
-     "model": "claude-3-5-sonnet-latest",
-     "ignore": ["**/temp/**", "**/*.log", "**/archive/**"]
+     "theme": "dark",
+     "autoApproveCommands": [
+       "npm test",
+       "git status",
+       "pytest"
+     ],
+     "verbose": false
    }
-3. Khởi chạy \`claude\`.
-4. Hỏi Claude: "Bạn đang chạy bằng model nào và bạn có nhìn thấy các file trong thư mục temp không?" để xác nhận cấu hình đã hoạt động.
+   \`\`\`
 
-[EVALUATION - TIÊU CHÍ NGHIỆM THU]
-[ ] File \`.claudecode.json\` được tạo đúng định dạng JSON không bị lỗi cú pháp.
-[ ] Claude Code nhận diện cấu hình chính xác và bỏ qua các file trong danh sách ignore.`,
+#### 3. Bài tập & Tiêu chí Nghiệm thu
+- **Bài tập**: Thiết lập cấu hình tự động duyệt lệnh \`git diff\` và chạy bộ test local trong tệp cấu hình của bạn.
+- **Tiêu chí nghiệm thu**:
+  - [ ] File config định dạng đúng JSON chuẩn.
+  - [ ] Claude CLI thực thi lệnh \`git status\` hoặc \`npm test\` mà không cần yêu cầu người dùng xác nhận Y/N.`,
 
-"9": `[ANALYSIS - PHÂN TÍCH NHU CẦU]
-- Bối cảnh: Sử dụng các mô hình AI nâng cao (như Claude 3.5 Sonnet hay Opus) thông qua API Key cá nhân có thể phát sinh chi phí lớn nếu AI quét toàn bộ dự án nhiều lần trong các cuộc trò chuyện dài.
-- Giải pháp: Thiết lập giới hạn ngân sách và theo dõi lượng tiêu thụ token.
+"3": `* **Kế thừa từ Khóa 1**: Nâng cấp từ việc quản lý lịch sử trò chuyện thủ công (Bài 09) sang kiểm soát bộ nhớ token tự động khi làm việc với codebase lớn.
+* **Mục tiêu đầu ra**: Sử dụng thành thạo cơ chế loại trừ file và kỹ thuật nén lịch sử chat để tiết kiệm chi phí API và duy trì trí thông minh của mô hình.
 
-[DESIGN - MỤC TIÊU ĐẦU RA]
-- Kiểm soát chi phí sử dụng API, tránh tình trạng hóa đơn tăng vọt ngoài tầm kiểm soát.
-- Thiết lập cờ giới hạn token tối đa cho từng phiên làm việc (Session token limit).
+#### 1. Kiến thức Cốt lõi
+Mỗi tương tác trong dự án lớn sẽ đính kèm cấu trúc cây thư mục. Nếu không kiểm soát, Claude sẽ đọc cả các thư mục rác (như \`node_modules\`, \`dist\`, \`build\`, \`.git\`), dẫn đến tràn cửa sổ ngữ cảnh (Context Window) và tăng chi phí token. 
+Cơ chế **Nén phiên làm việc** giúp dọn dẹp lịch sử hội thoại nhưng giữ lại bộ nhớ tóm tắt cốt lõi của các bước đã thực hiện.
 
-[DEVELOPMENT - KIẾN THỨC CỐT LÕI]
-- Chi phí API tính trên số lượng token đầu vào (input) và đầu ra (output).
-- Claude Code lưu lịch sử cuộc hội thoại để hiểu ngữ cảnh. Càng về sau, lượng token gửi đi của mỗi câu chat sẽ tích lũy càng lớn.
-- Sử dụng các cờ như \`--token-limit\` hoặc cấu hình ngân sách tối đa theo USD trên Anthropic Console là phương pháp tốt nhất để bảo vệ ví tiền của bạn.
+#### 2. Hướng dẫn Thực hành
+1. Tạo file \`.claudeignore\` tại thư mục gốc dự án để bỏ qua các file log hoặc thư mục build:
+   \`\`\`text
+   # .claudeignore
+   node_modules/
+   dist/
+   *.log
+   temp/
+   .env*
+   \`\`\`
+2. Thực thi lệnh nén ngữ cảnh thủ công khi phiên chat quá dài:
+   \`\`\`text
+   /compact
+   \`\`\`
 
-[IMPLEMENTATION - HƯỚNG DẪN THỰC HÀNH]
-1. Khi khởi chạy Claude Code, hãy áp dụng giới hạn token cho phiên làm việc hiện tại:
-   claude --token-limit 50000
-2. Trong quá trình chat, gõ lệnh hệ thống để xem thống kê token của phiên hiện tại:
-   /stats
-3. Quan sát biểu đồ hoặc số liệu token tiêu thụ hiển thị trực quan trên terminal.
+#### 3. Bài tập & Tiêu chí Nghiệm thu
+- **Bài tập**: Viết file \`.claudeignore\` loại trừ toàn bộ các tệp tin hình ảnh (\`.png\`, \`.jpg\`), các thư mục biên dịch cache của Python (\`__pycache__\`) và kiểm tra xem dung lượng token tiêu thụ có giảm đi sau khi khởi chạy lại hay không.
+- **Tiêu chí nghiệm thu**:
+  - [ ] File \`.claudeignore\` hoạt động chính xác (Claude CLI không tìm thấy các file hình ảnh khi dùng lệnh \`/search\`).`,
 
-[EVALUATION - TIÊU CHÍ NGHIỆM THU]
-[ ] Thực hiện khởi chạy Claude CLI với giới hạn token thành công.
-[ ] Biết cách đọc bảng thống kê token để nhận diện các câu lệnh tiêu tốn chi phí nhất.`,
+"4": `* **Kế thừa từ Khóa 1**: Nâng cấp từ việc cung cấp tài liệu tham khảo thủ công sang cơ chế cấu hình cấu trúc dự án chính thức cho AI tự đọc.
+* **Mục tiêu đầu ra**: Viết tệp hướng dẫn dự án \`CLAUDE.md\` chuẩn hóa để định hình hành vi lập trình của AI.
 
-"10": `[ANALYSIS - PHÂN TÍCH NHU CẦU]
-- Bối cảnh: Học viên cần thực hành tổng hợp toàn bộ các kỹ năng đã học trong Giai đoạn 1: Từ viết mã nguồn, kiểm soát tệp tin, chạy lệnh deploy thực tế trên môi trường terminal thông qua Claude Code.
-- Công cụ cần chuẩn bị: Tài khoản Cloudflare miễn phí.
+#### 1. Kiến thức Cốt lõi
+Tệp \`CLAUDE.md\` nằm ở gốc dự án là file đầu tiên Claude Code tìm kiếm và đọc tự động khi bắt đầu phiên làm việc. Tệp này chứa 3 phần quan trọng:
+1. **Build & Test Commands**: Lệnh cài đặt, build và chạy test chính xác của dự án.
+2. **Code Style & Guidelines**: Quy tắc đặt tên biến, cấu trúc thư mục, quy chuẩn viết comment.
+3. **Common Workflows**: Hướng dẫn cách tạo một Route mới, cách add một Database Migration.
 
-[DESIGN - MỤC TIÊU ĐẦU RA]
-- Dùng Claude Code viết hoàn chỉnh một trang portfolio cá nhân (HTML/CSS/JS).
-- Cài đặt và sử dụng Wrangler CLI để đẩy trang web lên Cloudflare Pages trực tiếp từ giao diện dòng lệnh.
+#### 2. Hướng dẫn Thực hành
+1. Tạo file [CLAUDE.md](file:///C:/Users/Trungvt/.gemini/antigravity-ide/brain/3a1d27c7-6c0c-4896-a887-67b0f6de338f/CLAUDE.md) tại gốc dự án:
+   \`\`\`markdown
+   # CLAUDE.md - Quy chuẩn dự án Node.js
 
-[DEVELOPMENT - KIẾN THỨC CỐT LÕI]
-- Dự án Capstone Giai đoạn 1 yêu cầu kết hợp:
-  1. Hướng dẫn AI viết code giao diện đẹp mắt, gọn gàng.
-  2. Dùng AI chạy lệnh cài đặt Wrangler CLI (\`npm install -g wrangler\`).
-  3. Dùng AI chạy lệnh xác thực Cloudflare (\`wrangler login\`).
-  4. Deploy dự án lên Cloudflare Pages (\`wrangler pages deploy\`).
+   ## Lệnh hệ thống
+   - Cài đặt: \`npm install\`
+   - Chạy test: \`npm test\`
+   - Chạy dev: \`npm run dev\`
 
-[IMPLEMENTATION - HƯỚNG DẪN THỰC HÀNH]
-1. Khởi chạy \`claude\` trong một thư mục trống mới.
-2. Yêu cầu AI:
-   Hãy tạo cho tôi một trang web Portfolio giới thiệu bản thân đơn giản bằng HTML/CSS/JS sạch, lưu vào thư mục public/ index.html.
-3. Sau khi file được tạo, yêu cầu tiếp:
-   Hãy cài đặt Wrangler và hướng dẫn tôi chạy lệnh deploy thư mục public/ này lên Cloudflare Pages.
-4. Xem trước và chấp thuận các câu lệnh deploy do AI đề xuất. Truy cập đường link trang web trực tuyến do Cloudflare cung cấp sau khi deploy thành công.
+   ## Quy chuẩn viết code
+   - Sử dụng ES6 modules (\`import/export\`).
+   - Đặt tên hàm xử lý theo dạng camelCase.
+   - Luôn viết Unit Test cho Controller mới.
+   \`\`\`
+2. Khởi chạy \`claude\` và hỏi: "Làm cách nào để chạy test cho dự án này?". Quan sát AI trả lời dựa theo \`CLAUDE.md\`.
 
-[EVALUATION - TIÊU CHÍ NGHIỆM THU]
-[ ] Trang web HTML/CSS được AI tạo ra đầy đủ, chạy ổn định cục bộ.
-[ ] Dự án được deploy lên Cloudflare Pages thành công và truy cập được qua đường link công khai.`,
+#### 3. Bài tập & Tiêu chí Nghiệm thu
+- **Bài tập**: Soạn thảo một tệp \`CLAUDE.md\` cho một dự án Python (Django hoặc Flask) bao gồm lệnh kích hoạt Virtual Environment (\`.venv\`) và lệnh chạy test của pytest.
+- **Tiêu chí nghiệm thu**:
+  - [ ] Tệp \`CLAUDE.md\` nằm ở gốc thư mục dự án.
+  - [ ] Claude CLI tự động áp dụng đúng lệnh test từ \`CLAUDE.md\` khi người dùng gõ lệnh \`/test\`.`,
+
+"5": `* **Kế thừa từ Khóa 1**: Nâng cấp từ hướng dẫn an toàn thông tin chung sang thiết lập luật cứng bảo vệ mã nguồn cấp độ dự án.
+* **Mục tiêu đầu ra**: Tạo cấu trúc thư mục \`.agents\` và viết tệp \`AGENTS.md\` quy định các điều luật bảo mật bắt buộc đối với tác tử AI.
+
+#### 1. Kiến thức Cốt lõi
+Khác với \`CLAUDE.md\` hướng dẫn về mặt kỹ thuật lập trình, tệp \`.agents/AGENTS.md\` hoạt động như một lớp lọc bảo mật hệ thống. Trước khi tác tử thực hiện bất kỳ hành động sửa file hay gửi yêu cầu nào, nó sẽ đối chiếu với các điều luật được quy định trong tệp này (ví dụ: cấm chia sẻ API key, cấm xóa file cấu hình gốc, bắt buộc ẩn danh thông tin cá nhân khách hàng).
+
+#### 2. Hướng dẫn Thực hành
+1. Tạo cấu trúc thư mục và file cấu hình:
+   \`\`\`bash
+   mkdir .agents
+   notepad .agents/AGENTS.md
+   \`\`\`
+2. Soạn thảo các điều luật bảo mật nghiêm ngặt:
+   \`\`\`markdown
+   # Luật Bảo mật Tác tử (Agent Security Rules)
+
+   - KHÔNG bao giờ được ghi đè hoặc chỉnh sửa các biến môi trường trong file \`.env\`.
+   - Mọi API Keys, Credentials phát hiện trong code phải được cảnh báo và cấm đưa vào prompt gửi đi.
+   - Luôn sử dụng thư viện log ẩn danh (anonymizer) trước khi xuất log lỗi ra ngoài.
+   \`\`\`
+3. Chạy \`claude\` và yêu cầu AI: "Hãy viết code kết nối database sử dụng trực tiếp pass: 'Admin123' vào file code". Quan sát AI từ chối và cảnh báo dựa trên luật bảo mật.
+
+#### 3. Bài tập & Tiêu chí Nghiệm thu
+- **Bài tập**: Viết quy tắc cấm AI xóa bất kỳ file nào có đuôi \`.sql\` trong dự án vào tệp \`AGENTS.md\` và kiểm chứng hành vi của tác tử khi ra lệnh xóa file SQL đó.
+- **Tiêu chí nghiệm thu**:
+  - [ ] Thư mục \`.agents/AGENTS.md\` được cấu hình đúng chuẩn.
+  - [ ] AI từ chối thực hiện hành động vi phạm luật bảo mật và hiển thị cảnh báo tương ứng.`,
+
+"6": `* **Kế thừa từ Khóa 1**: Nâng cấp từ việc giao tiếp thủ công (copy dữ liệu bảng CSDL hoặc issues trên GitHub) sang kết nối trực tiếp thời gian thực qua giao thức MCP.
+* **Mục tiêu đầu ra**: Cấu hình thành công tích hợp các MCP Server có sẵn để Claude tự động tương tác với database và tài nguyên GitHub.
+
+#### 1. Kiến thức Cốt lõi
+**Model Context Protocol (MCP)** là giao thức mở cho phép các mô hình ngôn ngữ lớn (LLM) kết nối an toàn với các nguồn dữ liệu bên ngoài thông qua một API tiêu chuẩn.
+- **Supabase MCP**: Cho phép AI đọc schema, tạo bảng, viết hàm biên và chạy truy vấn SQL trực tiếp.
+- **GitHub MCP**: Cho phép AI quản lý Issues, tạo Pull Request và review code tự động.
+
+#### 2. Hướng dẫn Thực hành
+1. Truy cập file cấu hình Claude Desktop (đường dẫn Windows: \`%APPDATA%\Claude\claude_desktop_config.json\`).
+2. Cấu hình kết nối máy chủ GitHub MCP:
+   \`\`\`json
+   {
+     "mcpServers": {
+       "github": {
+         "command": "npx",
+         "args": [
+           "-y",
+           "@modelcontextprotocol/server-github"
+         ],
+         "env": {
+           "GITHUB_PERSONAL_ACCESS_TOKEN": "YOUR_GITHUB_TOKEN"
+         }
+       }
+     }
+   }
+   \`\`\`
+3. Khởi chạy lại Claude, hỏi: "Hãy liệt kê 5 issue gần nhất trên repository của tôi".
+
+#### 3. Bài tập & Tiêu chí Nghiệm thu
+- **Bài tập**: Cấu hình Supabase MCP kết nối với dự án Supabase hiện tại của bạn. Yêu cầu Claude đọc schema của bảng \`premium_lessons\`.
+- **Tiêu chí nghiệm thu**:
+  - [ ] File cấu hình \`claude_desktop_config.json\` hợp lệ.
+  - [ ] Claude đọc và liệt kê đúng danh sách các cột của bảng trong Supabase mà không cần bạn cung cấp schema thủ công.`,
+
+"7": `* **Kế thừa từ Khóa 1**: Nâng cấp từ việc copy-paste nội dung trang web sang việc để AI tự động mở trình duyệt ảo, tương tác và cào dữ liệu động.
+* **Mục tiêu đầu ra**: Thiết lập thành công Playwright MCP để tác tử tự duyệt web thu thập dữ liệu phục vụ lập trình.
+
+#### 1. Kiến thức Cốt lõi
+Các trang web hiện đại sử dụng Single Page App (React/Vue) yêu cầu thực thi JavaScript để hiển thị nội dung. 
+- **Playwright MCP**: Cho phép tác tử điều khiển một trình duyệt Chromium ẩn (headless), click nút, điền form và chụp ảnh màn hình trang web.
+- **Firecrawl**: Chuyển đổi toàn bộ mã nguồn HTML của trang web thành định dạng Markdown sạch để AI đọc hiểu nhanh mà không tốn token.
+
+#### 2. Hướng dẫn Thực hành
+1. Đăng ký tài khoản lấy API Key từ Firecrawl.
+2. Thêm cấu hình Firecrawl MCP Server vào tệp tin cấu hình:
+   \`\`\`json
+   "firecrawl": {
+     "command": "npx",
+     "args": ["-y", "@modelcontextprotocol/server-firecrawl"],
+     "env": {
+       "FIRECRAWL_API_KEY": "YOUR_FIRECRAWL_KEY"
+     }
+   }
+   \`\`\`
+3. Ra lệnh cho Claude: "Hãy tìm kiếm thông tin tài liệu mới nhất về Claude CLI trên trang chủ Anthropic và tóm tắt lại".
+
+#### 3. Bài tập & Tiêu chí Nghiệm thu
+- **Bài tập**: Sử dụng Playwright MCP yêu cầu Claude mở một trang web thương mại điện tử bất kỳ, chụp ảnh màn hình trang chủ và lưu ảnh đó vào thư mục \`outputs/\` của dự án.
+- **Tiêu chí nghiệm thu**:
+  - [ ] Tác tử tự khởi chạy được trình duyệt thông qua MCP.
+  - [ ] Xuất ra đúng file ảnh chụp màn hình trong thư mục mong muốn.`,
+
+"8": `* **Kế thừa từ Khóa 1**: Nâng cấp từ người sử dụng công cụ có sẵn sang nhà phát triển tạo ra các năng lực độc quyền cho AI của riêng mình.
+* **Mục tiêu đầu ra**: Tự code hoàn chỉnh một máy chủ MCP đơn giản bằng TypeScript/Node.js để đọc ghi một file đặc biệt trong máy.
+
+#### 1. Kiến thức Cốt lõi
+Một MCP Server tối thiểu cần định nghĩa 3 thành phần chính:
+1. **Resources**: Nguồn dữ liệu tĩnh (như đọc file cấu hình).
+2. **Prompts**: Các mẫu prompt định nghĩa sẵn cho AI.
+3. **Tools**: Các hàm thực thi có thể nhận đối số từ AI để chạy code hệ thống.
+
+#### 2. Hướng dẫn Thực hành
+1. Khởi tạo dự án Node.js mới:
+   \`\`\`bash
+   mkdir my-mcp-server
+   cd my-mcp-server
+   npm init -y
+   npm install @modelcontextprotocol/sdk
+   \`\`\`
+2. Viết mã nguồn cho file \`index.js\` định nghĩa một Tool lấy thông tin hệ thống (như dung lượng ổ đĩa trống):
+   \`\`\`javascript
+   import { Server } from "@modelcontextprotocol/sdk/server/index.js";
+   import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
+   import { CallToolRequestSchema, ListToolsRequestSchema } from "@modelcontextprotocol/sdk/types.js";
+   import checkDiskSpace from "check-disk-space";
+
+   const server = new Server({ name: "my-disk-checker", version: "1.0.0" }, { capabilities: { tools: {} } });
+
+   server.setRequestHandler(ListToolsRequestSchema, async () => ({
+     tools: [{
+       name: "check_disk",
+       description: "Kiểm tra dung lượng ổ đĩa trống của hệ thống",
+       inputSchema: { type: "object", properties: { path: { type: "string" } }, required: ["path"] }
+     }]
+   }));
+
+   server.setRequestHandler(CallToolRequestSchema, async (request) => {
+     if (request.params.name === "check_disk") {
+       const space = await checkDiskSpace(request.params.arguments.path);
+       return { content: [{ type: "text", text: \`Trống: ${space.free} bytes trên tổng số ${space.size} bytes\` }] };
+     }
+   });
+
+   const transport = new StdioServerTransport();
+   await server.connect(transport);
+   \`\`\`
+
+#### 3. Bài tập & Tiêu chí Nghiệm thu
+- **Bài tập**: Bổ sung thêm một Tool vào Custom MCP Server trên để lấy thời gian hệ thống hiện tại dưới dạng định dạng định sẵn (ví dụ: YYYY-MM-DD HH:mm:ss).
+- **Tiêu chí nghiệm thu**:
+  - [ ] Server biên dịch thành công không có lỗi cú pháp.
+  - [ ] Khai báo công cụ mới chính xác trong \`ListToolsRequestSchema\`.`,
+
+"9": `* **Kế thừa từ Khóa 1**: Nâng cấp từ việc test code local sang việc tích hợp ứng dụng vào môi trường làm việc của Tác tử AI.
+* **Mục tiêu đầu ra**: Tích hợp thành công Custom MCP Server vừa code ở Bài 08 vào tệp cấu hình toàn cục để Claude sử dụng trực tiếp.
+
+#### 1. Kiến thức Cốt lõi
+Để Claude gọi được Custom MCP Server, ta cần khai báo phương thức truyền thông tin qua đầu vào/đầu ra chuẩn (\`Stdio\`). Tác tử sẽ khởi chạy file JS thông qua lệnh Node.js ở chế độ nền (background process) và giao tiếp bằng định dạng JSON-RPC qua Stdio.
+
+#### 2. Hướng dẫn Thực hành
+1. Lấy đường dẫn tuyệt đối đến tệp \`index.js\` của Custom MCP Server của bạn (ví dụ: \`C:/projects/my-mcp-server/index.js\`).
+2. Mở file cấu hình \`claude_desktop_config.json\`.
+3. Thêm cấu hình kết nối local:
+   \`\`\`json
+   {
+     "mcpServers": {
+       "my-disk-checker": {
+         "command": "node",
+         "args": [
+           "C:/projects/my-mcp-server/index.js"
+         ]
+       }
+     }
+   }
+   \`\`\`
+4. Khởi động lại Claude Desktop, click biểu tượng ổ cắm (🔌) ở góc dưới cùng bên phải để kiểm tra xem server đã kết nối thành công (trạng thái màu xanh lá cây).
+
+#### 3. Bài tập & Tiêu chí Nghiệm thu
+- **Bài tập**: Kết nối Custom MCP Server này vào công cụ dòng lệnh **Claude Code CLI** bằng cách thêm cấu hình tương ứng vào tệp cấu hình CLI và gọi thử công cụ thông qua CLI.
+- **Tiêu chí nghiệm thu**:
+  - [ ] Biểu tượng kết nối MCP hiển thị trạng thái hoạt động bình thường trên Desktop.
+  - [ ] Gõ lệnh check dung lượng đĩa thành công trên giao diện CLI.`,
+
+"10": `* **Kế thừa từ Khóa 1**: Nâng cấp từ ý thức bảo mật cá nhân sang việc thiết lập tường lửa bảo mật cứng bao quanh luồng truyền nhận dữ liệu của tác tử.
+* **Mục tiêu đầu ra**: Thiết kế bộ lọc dữ liệu trung gian cho MCP để bảo vệ các thông tin nhạy cảm trong cơ sở dữ liệu nội bộ.
+
+#### 1. Kiến thức Cốt lõi
+Khi cho phép AI truy cập Database thông qua MCP, có rủi ro AI tự động đọc các bảng nhạy cảm như \`users\` (chứa password hash, token) hoặc thông tin thẻ thanh toán.
+**Kỹ thuật bảo mật MCP bao gồm**:
+1. **White-listing**: Chỉ cho phép tác tử nhìn thấy và truy cập các bảng quy định sẵn.
+2. **Data Masking/Sanitization**: Tự động mã hóa hoặc thay thế các ký tự nhạy cảm (như email \`test@gmail.com\` thành \`t***@gmail.com\`) ngay tại máy chủ MCP trước khi gửi dữ liệu về phía LLM.
+
+#### 2. Hướng dẫn Thực hành
+1. Cấu hình middleware lọc dữ liệu trong tệp xử lý của MCP Server của bạn:
+   \`\`\`javascript
+   function sanitizeData(resultRow) {
+     const cleanRow = { ...resultRow };
+     // Ẩn danh mật khẩu và token nếu có trong bảng truy vấn
+     if (cleanRow.password) cleanRow.password = "[PROTECTED]";
+     if (cleanRow.token) cleanRow.token = "[PROTECTED]";
+     // Định dạng lại số điện thoại
+     if (cleanRow.phone) {
+       cleanRow.phone = cleanRow.phone.replace(/(\d{3})\d{4}(\d{3})/, "$1****$2");
+     }
+     return cleanRow;
+   }
+   \`\`\`
+2. Áp dụng hàm \`sanitizeData\` cho tất cả kết quả trả về của các truy vấn SELECT database trước khi đóng gói gửi qua Stdio.
+
+#### 3. Bài tập & Tiêu chí Nghiệm thu
+- **Bài tập**: Viết một hàm regex ẩn danh toàn bộ địa chỉ Email trong dữ liệu trả về của MCP Server của bạn (thay thế phần tên miền và chỉ giữ lại ký tự đầu tiên).
+- **Tiêu chí nghiệm thu**:
+  - [ ] Dữ liệu trả về qua Prompt/Tool của AI không còn chứa bất kỳ email nguyên bản nào.
+  - [ ] Cấu trúc JSON trả về vẫn giữ đúng định dạng để AI xử lý tiếp.`,
 
 "11": `[ANALYSIS - PHÂN TÍCH NHU CẦU]
 - Bối cảnh: Khi làm việc nhóm hoặc chuyển giao dự án cho người khác, mỗi dự án có một cấu trúc thư mục, quy chuẩn code (linting) và cách chạy lệnh test khác nhau.
