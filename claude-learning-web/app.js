@@ -1140,7 +1140,9 @@ function rebuildFlatLessons() {
       moduleTitle: module.title,
       image: activeCourseId === "course2" 
         ? `ocr_pages/page_${String(page).padStart(3, "0")}.png?v=20260701-fix` // fallback image, or custom course2 graphics if any
-        : `ocr_pages/page_${String(page).padStart(3, "0")}.png?v=20260528-140729`,
+        : (page === 2 
+            ? `ocr_pages/page_002.png?v=20260704-dh2new` 
+            : `ocr_pages/page_${String(page).padStart(3, "0")}.png?v=20260528-140729`),
     }))
   );
 }
