@@ -9,6 +9,10 @@ CREATE TABLE IF NOT EXISTS public.premium_lessons (
     updated_at TIMESTAMP WITH TIME ZONE DEFAULT timezone('utc'::text, now()) NOT NULL
 );
 
+-- Thêm cột updated_at nếu bảng đã tồn tại nhưng thiếu cột này
+ALTER TABLE public.premium_lessons
+ADD COLUMN IF NOT EXISTS updated_at TIMESTAMP WITH TIME ZONE DEFAULT timezone('utc'::text, now()) NOT NULL;
+
 INSERT INTO public.premium_lessons (lesson_id, ocr_content)
 VALUES ('01', 'TỰ HỌC CLAUDE A-Z TRONG 50 POSTER
 Học Claude toàn diện – Ứng dụng thực tế – Hiệu quả vượt trội
