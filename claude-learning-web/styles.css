@@ -155,17 +155,22 @@ button {
 }
 
 .brand span.brand-author-gold:last-child {
-  display: block;
-  margin-top: 4px;
-  color: #ffd700; /* Luxury Gold */
+  display: inline-block;
+  margin-top: 5px;
+  background: linear-gradient(135deg, #fff099 0%, #f5c84c 50%, #c29900 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   font-weight: 900;
-  font-size: 13px;
+  font-size: 11px;
   font-family: var(--font-sans);
-  text-shadow: 
-    0 0 6px rgba(255, 215, 0, 0.6),
-    0 0 15px rgba(255, 215, 0, 0.3);
-  letter-spacing: 0.1em;
+  filter: drop-shadow(0 0 3px rgba(245, 200, 76, 0.6));
+  letter-spacing: 0.15em;
   text-transform: uppercase;
+  border: 1px solid rgba(245, 200, 76, 0.35);
+  padding: 1px 8px;
+  border-radius: 4px;
+  background-color: rgba(245, 200, 76, 0.05);
+  box-shadow: 0 0 10px rgba(245, 200, 76, 0.1) inset;
 }
 
 .brand strong {
