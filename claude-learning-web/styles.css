@@ -154,15 +154,17 @@ button {
     0 0 80px rgba(255, 223, 100, 0.7);
 }
 
-.brand-author-gold {
+.brand .brand-author-gold {
   display: block;
-  margin-top: 3px;
-  color: #f5c84c;
-  font-weight: 800;
+  margin-top: 4px;
+  color: #ffd700; /* Luxury Gold */
+  font-weight: 900;
   font-size: 13px;
   font-family: var(--font-sans);
-  text-shadow: 0 0 8px rgba(245, 200, 76, 0.42);
-  letter-spacing: 0.08em;
+  text-shadow: 
+    0 0 6px rgba(255, 215, 0, 0.6),
+    0 0 15px rgba(255, 215, 0, 0.3);
+  letter-spacing: 0.1em;
   text-transform: uppercase;
 }
 
