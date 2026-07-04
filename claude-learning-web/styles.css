@@ -154,7 +154,7 @@ button {
     0 0 80px rgba(255, 223, 100, 0.7);
 }
 
-.brand .brand-author-gold {
+.brand span.brand-author-gold:last-child {
   display: block;
   margin-top: 4px;
   color: #ffd700; /* Luxury Gold */
