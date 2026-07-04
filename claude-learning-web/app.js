@@ -8279,7 +8279,7 @@ function renderDashboard() {
                 <span class="resource-file-info">Định dạng Markdown · 11 KB</span>
               </div>
             </div>
-            <a class="resource-download-button" href="../study-guide-handbook.md?v=20260530-1100" download>Tải xuống</a>
+            <a class="resource-download-button" href="downloads/study-guide-handbook.md" download>Tải xuống</a>
           </div>
 
           <div class="resource-download-row">
@@ -8287,11 +8287,12 @@ function renderDashboard() {
               <div class="resource-icon-box">🖼️</div>
               <div class="resource-meta-details">
                 <span class="resource-title-name">Trọn bộ 55 ảnh bài giảng Claude Mastery OCR</span>
-                <span class="resource-file-info">Định dạng ZIP · 102.5 MB</span>
+                <span class="resource-file-info">Xem trực tiếp trong các bài học</span>
               </div>
             </div>
-            <a class="resource-download-button" href="../claude-55-pages.zip?v=20260528-1441" download>Tải xuống</a>
+            <span class="resource-download-button" style="opacity:0.5;pointer-events:none">Có sẵn</span>
           </div>
+
 
           <div class="resource-download-row">
             <div class="resource-row-left">
@@ -8301,7 +8302,7 @@ function renderDashboard() {
                 <span class="resource-file-info">Định dạng Markdown · 173.5 KB</span>
               </div>
             </div>
-            <a class="resource-download-button" href="../notebooklm-video-prompts-55-bai.md?v=20260528-1516" download>Tải xuống</a>
+            <a class="resource-download-button" href="downloads/notebooklm-video-prompts-55-bai.md" download>Tải xuống</a>
           </div>
         </div>
 

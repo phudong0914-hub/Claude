@@ -1,0 +1,5 @@
+# Serve static download files directly (no SPA fallback)
+/downloads/*  /downloads/:splat  200
+
+# SPA catch-all: any other route goes to index.html
+/*  /index.html  200
