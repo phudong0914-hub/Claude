@@ -247,7 +247,7 @@ Một MCP Server tối thiểu cần định nghĩa 3 thành phần chính:
    server.setRequestHandler(CallToolRequestSchema, async (request) => {
      if (request.params.name === "check_disk") {
        const space = await checkDiskSpace(request.params.arguments.path);
-       return { content: [{ type: "text", text: \`Trống: ${space.free} bytes trên tổng số ${space.size} bytes\` }] };
+       return { content: [{ type: "text", text: \`Trống: \${space.free} bytes trên tổng số \${space.size} bytes\` }] };
      }
    });
 
