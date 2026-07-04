@@ -6,7 +6,7 @@ function renderAppLayout() {
         <span class="brand-mark brand-logo"><img src="assets/alpha-logo.jpg?v=20260528-1455" alt="Trungvt logo"></span>
         <div>
           <strong>Claude Mastery</strong>
-          <span>Trungvt</span>
+          <span class="brand-author-gold">Trungvt</span>
         </div>
       </div>
 
